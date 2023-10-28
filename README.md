@@ -18,6 +18,6 @@
 - [七年前端，四年远程，挣美元花的感觉起飞了……](https://weixin.qdkfweb.cn/37572.html)
 - [裁错了还是变相降薪？大厂粗暴裁员后又求员工回来！](https://weixin.qdkfweb.cn/37571.html)
 - [浅谈前端出现率高的设计模式](https://weixin.qdkfweb.cn/37581.html)
-- [【早说】奥德赛计划](https://weixin.qdkfweb.cn/37580.html)
 - [【第3087期】前端代码重复度检测](https://weixin.qdkfweb.cn/37579.html)
+- [【早说】奥德赛计划](https://weixin.qdkfweb.cn/37580.html)
 <!-- BLOG-POST-LIST:END -->
