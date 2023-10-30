@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [七年前端，四年远程，挣美元花的感觉起飞了……](https://weixin.qdkfweb.cn/37572.html)
-- [裁错了还是变相降薪？大厂粗暴裁员后又求员工回来！](https://weixin.qdkfweb.cn/37571.html)
-- [浅谈前端出现率高的设计模式](https://weixin.qdkfweb.cn/37581.html)
-- [【第3087期】前端代码重复度检测](https://weixin.qdkfweb.cn/37579.html)
-- [【早说】奥德赛计划](https://weixin.qdkfweb.cn/37580.html)
+- [什么样的前端开发，会被公司抢着要？](https://weixin.qdkfweb.cn/37829.html)
+- [三分钟，教你3种前端埋点方式！](https://weixin.qdkfweb.cn/37830.html)
+- [前端线上部署，如何通知用户有新版本](https://weixin.qdkfweb.cn/37817.html)
+- [点击产生水波纹效果，vue自定义指令20行代码搞定～](https://weixin.qdkfweb.cn/37808.html)
+- [前端登录，这一篇就够了](https://weixin.qdkfweb.cn/37716.html)
 <!-- BLOG-POST-LIST:END -->
