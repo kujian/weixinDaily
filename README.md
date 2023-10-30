@@ -15,8 +15,8 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [什么样的前端开发，会被公司抢着要？](https://weixin.qdkfweb.cn/37829.html)
 - [三分钟，教你3种前端埋点方式！](https://weixin.qdkfweb.cn/37830.html)
+- [什么样的前端开发，会被公司抢着要？](https://weixin.qdkfweb.cn/37829.html)
 - [前端线上部署，如何通知用户有新版本](https://weixin.qdkfweb.cn/37817.html)
 - [点击产生水波纹效果，vue自定义指令20行代码搞定～](https://weixin.qdkfweb.cn/37808.html)
 - [前端登录，这一篇就够了](https://weixin.qdkfweb.cn/37716.html)
