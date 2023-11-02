@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [什么样的前端开发，会被公司抢着要？](https://weixin.qdkfweb.cn/37829.html)
-- [三分钟，教你3种前端埋点方式！](https://weixin.qdkfweb.cn/37830.html)
-- [前端线上部署，如何通知用户有新版本](https://weixin.qdkfweb.cn/37817.html)
-- [点击产生水波纹效果，vue自定义指令20行代码搞定～](https://weixin.qdkfweb.cn/37808.html)
-- [前端登录，这一篇就够了](https://weixin.qdkfweb.cn/37716.html)
+- [前端流程图插件对比选型](https://weixin.qdkfweb.cn/37837.html)
+- [从0到1实现一个前端监控系统（附源码）](https://weixin.qdkfweb.cn/37838.html)
+- [React 之 createElement 源码解读](https://weixin.qdkfweb.cn/37847.html)
+- [【第3098期】VisActor——面向叙事的智能可视化解决方案](https://weixin.qdkfweb.cn/37841.html)
+- [【招聘】深圳腾讯文档招高级前端工程师](https://weixin.qdkfweb.cn/37842.html)
 <!-- BLOG-POST-LIST:END -->
