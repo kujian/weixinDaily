@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [高级前端开发工程师必备：Hooks、React Router v6 和状态管理](https://weixin.qdkfweb.cn/37891.html)
 - [不是吧？async/await异常捕获你还在用try-catch～](https://weixin.qdkfweb.cn/37871.html)
 - [2023年前端该看哪些面试题？顺应时代，方可生存！](https://weixin.qdkfweb.cn/37853.html)
 - [chrome 升级 117 后可能会导致你的网站无法访问](https://weixin.qdkfweb.cn/37854.html)
-- [【图书】Vue.js 3+TypeScript完全指南](https://weixin.qdkfweb.cn/37862.html)
-- [【第3106期】新一代前端发展的困境与破局](https://weixin.qdkfweb.cn/37861.html)
+- [10分钟快速搭建个人博客、文档网站！](https://weixin.qdkfweb.cn/37882.html)
 <!-- BLOG-POST-LIST:END -->
