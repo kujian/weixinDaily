@@ -19,5 +19,5 @@
 - [不是吧？async/await异常捕获你还在用try-catch～](https://weixin.qdkfweb.cn/37871.html)
 - [2023年前端该看哪些面试题？顺应时代，方可生存！](https://weixin.qdkfweb.cn/37853.html)
 - [chrome 升级 117 后可能会导致你的网站无法访问](https://weixin.qdkfweb.cn/37854.html)
-- [Vue3 终于崛起了！](https://weixin.qdkfweb.cn/37881.html)
+- [10分钟快速搭建个人博客、文档网站！](https://weixin.qdkfweb.cn/37882.html)
 <!-- BLOG-POST-LIST:END -->
