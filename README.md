@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [23年底，两年前端菜狗被裁后的面试经历](https://weixin.qdkfweb.cn/38252.html)
 - [TypeScript  又被抛弃，Svelte 正从 TypeScript 切换到 JavaScript](https://weixin.qdkfweb.cn/38210.html)
-- [webpack5&lpar;v5.59.1&rpar;打包流程详解及搭建项目](https://weixin.qdkfweb.cn/38220.html)
 - [TS基础语法总结](https://weixin.qdkfweb.cn/38221.html)
+- [webpack5&lpar;v5.59.1&rpar;打包流程详解及搭建项目](https://weixin.qdkfweb.cn/38220.html)
 - [即将到来的 Vue 3 “Vapor Mode”](https://weixin.qdkfweb.cn/38134.html)
-- [即将到来的 Vue 3 “Vapor Mode”](https://weixin.qdkfweb.cn/38245.html)
 <!-- BLOG-POST-LIST:END -->
