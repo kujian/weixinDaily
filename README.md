@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [23年底，两年前端菜狗被裁后的面试经历](https://weixin.qdkfweb.cn/38252.html)
-- [TypeScript  又被抛弃，Svelte 正从 TypeScript 切换到 JavaScript](https://weixin.qdkfweb.cn/38210.html)
-- [webpack5&lpar;v5.59.1&rpar;打包流程详解及搭建项目](https://weixin.qdkfweb.cn/38220.html)
-- [TS基础语法总结](https://weixin.qdkfweb.cn/38221.html)
-- [即将到来的 Vue 3 “Vapor Mode”](https://weixin.qdkfweb.cn/38134.html)
+- [国家电网某员工工资被泄露](https://weixin.qdkfweb.cn/38372.html)
+- [尤雨溪：Vue3的现状和未来，以及一些失误的反思~](https://weixin.qdkfweb.cn/38254.html)
+- [Astro 4.0 正式发布，爆火的现代化前端框架](https://weixin.qdkfweb.cn/38428.html)
+- [前端工程化 开源项目都在用的【Monorepo】](https://weixin.qdkfweb.cn/38388.html)
+- [【第3136期】微前端时代：打造高效、灵活的前端开发体系](https://weixin.qdkfweb.cn/38418.html)
 <!-- BLOG-POST-LIST:END -->
