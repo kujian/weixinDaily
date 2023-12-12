@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [WebSocket 从入门到入土](https://weixin.qdkfweb.cn/38570.html)
 - [聊一聊自己的前端之路以及后面晋升的一些想法](https://weixin.qdkfweb.cn/38568.html)
 - [国家电网某员工工资被泄露](https://weixin.qdkfweb.cn/38372.html)
 - [尤雨溪：Vue3的现状和未来，以及一些失误的反思~](https://weixin.qdkfweb.cn/38254.html)
 - [Astro 4.0 正式发布，爆火的现代化前端框架](https://weixin.qdkfweb.cn/38428.html)
-- [前端工程化 开源项目都在用的【Monorepo】](https://weixin.qdkfweb.cn/38388.html)
 <!-- BLOG-POST-LIST:END -->
