@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [一个30岁老前端的人生经历（学习+工作+婚姻+孩子），给迷茫的朋友一点激励。](https://weixin.qdkfweb.cn/38705.html)
 - [推荐 5 个令人惊艳的 GitHub 项目](https://weixin.qdkfweb.cn/38638.html)
 - [阿里又整活！跳舞AI来了，一张照片就能实现](https://weixin.qdkfweb.cn/38677.html)
 - [关于单点登录（SSO）的那些事](https://weixin.qdkfweb.cn/38583.html)
 - [面到了一个Vue3超厉害的前端人才。。。](https://weixin.qdkfweb.cn/38586.html)
-- [了解前端新框架-nue.js](https://weixin.qdkfweb.cn/38587.html)
 <!-- BLOG-POST-LIST:END -->
