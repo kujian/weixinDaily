@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [JS es6仿网易云音乐播放器](https://weixin.qdkfweb.cn/38706.html)
-- [一个30岁老前端的人生经历（学习+工作+婚姻+孩子），给迷茫的朋友一点激励。](https://weixin.qdkfweb.cn/38705.html)
-- [推荐 5 个令人惊艳的 GitHub 项目](https://weixin.qdkfweb.cn/38638.html)
-- [阿里又整活！跳舞AI来了，一张照片就能实现](https://weixin.qdkfweb.cn/38677.html)
-- [关于单点登录（SSO）的那些事](https://weixin.qdkfweb.cn/38583.html)
+- [突破 ToB 前端开发场景中的 antd Table 性能瓶颈](https://weixin.qdkfweb.cn/38753.html)
+- [前端组长应该如何管理前端团队](https://weixin.qdkfweb.cn/38756.html)
+- [前端组长应该如何管理前端团队](https://weixin.qdkfweb.cn/38708.html)
+- [浅析 React Fiber 架构](https://weixin.qdkfweb.cn/38709.html)
+- [前端获取电池信息](https://weixin.qdkfweb.cn/38741.html)
 <!-- BLOG-POST-LIST:END -->
