@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [面试官：能不能给 Promise 增加取消功能和进度通知功能... 我：？？？](https://weixin.qdkfweb.cn/38765.html)
-- [给迷茫的朋友一点建议吧，主要是前端方向的。](https://weixin.qdkfweb.cn/38764.html)
-- [37岁的老前端在大专院校教前端](https://weixin.qdkfweb.cn/38763.html)
-- [突破 ToB 前端开发场景中的 antd Table 性能瓶颈](https://weixin.qdkfweb.cn/38753.html)
-- [前端组长应该如何管理前端团队](https://weixin.qdkfweb.cn/38756.html)
+- [太强了，微软免费开源10小时 GitHub Copilot结对编程课](https://weixin.qdkfweb.cn/38842.html)
+- [东方甄选员工工资曝光](https://weixin.qdkfweb.cn/38861.html)
+- [12 个超级实用的 CSS 技巧](https://weixin.qdkfweb.cn/38891.html)
+- [比 Eslint 快 100 倍的 JS Linter 发布了！](https://weixin.qdkfweb.cn/38812.html)
+- [阿里内部 “Vue＋React” 实战笔记，正式开源了！](https://weixin.qdkfweb.cn/38767.html)
 <!-- BLOG-POST-LIST:END -->
