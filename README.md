@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [10个必备的 async/await 工具函数](https://weixin.qdkfweb.cn/38902.html)
 - [2023年中大厂面试经历分享，很可惜，但是没关系](https://weixin.qdkfweb.cn/38901.html)
 - [FaceBook 开源 AtomicCss 解决方案：Stylex](https://weixin.qdkfweb.cn/38900.html)
 - [太强了，微软免费开源10小时 GitHub Copilot结对编程课](https://weixin.qdkfweb.cn/38842.html)
 - [东方甄选员工工资曝光](https://weixin.qdkfweb.cn/38861.html)
-- [12 个超级实用的 CSS 技巧](https://weixin.qdkfweb.cn/38891.html)
 <!-- BLOG-POST-LIST:END -->
