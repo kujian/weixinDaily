@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [一个30岁前端老社畜的人生经历](https://weixin.qdkfweb.cn/38903.html)
-- [10个必备的 async/await 工具函数](https://weixin.qdkfweb.cn/38902.html)
-- [2023年中大厂面试经历分享，很可惜，但是没关系](https://weixin.qdkfweb.cn/38901.html)
-- [FaceBook 开源 AtomicCss 解决方案：Stylex](https://weixin.qdkfweb.cn/38900.html)
-- [太强了，微软免费开源10小时 GitHub Copilot结对编程课](https://weixin.qdkfweb.cn/38842.html)
+- [北大学生吐槽：现在一群专科面试官在面试985、211，肯定面不过.....他们怕自己位置不保！](https://weixin.qdkfweb.cn/38965.html)
+- [Vue3实现加入购物车抛物线效果组件](https://weixin.qdkfweb.cn/38938.html)
+- [反思我这五六年来写过的烂代码](https://weixin.qdkfweb.cn/38922.html)
+- [React 中如何快速定位组件源码](https://weixin.qdkfweb.cn/38923.html)
+- [Vue3 + Three.js + antvG2 实战智慧城市](https://weixin.qdkfweb.cn/39023.html)
 <!-- BLOG-POST-LIST:END -->
