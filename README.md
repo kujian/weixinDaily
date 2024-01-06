@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [真诚利他](https://weixin.qdkfweb.cn/39047.html)
-- [14个JS面试难点深入解读与代码实现](https://weixin.qdkfweb.cn/39046.html)
-- [中小型公司三年工作经验的面试经历](https://weixin.qdkfweb.cn/39043.html)
-- [北大学生吐槽：现在一群专科面试官在面试985、211，肯定面不过.....他们怕自己位置不保！](https://weixin.qdkfweb.cn/38965.html)
-- [Vue3实现加入购物车抛物线效果组件](https://weixin.qdkfweb.cn/38938.html)
+- [export 导出一个字面量会报错，而 export default 不会报错？](https://weixin.qdkfweb.cn/39177.html)
+- [前端开发博客2023年文章汇总](https://weixin.qdkfweb.cn/39076.html)
+- [Mobile ALOHA：一个可以模仿人类自主学习的机器人操作系统](https://weixin.qdkfweb.cn/39148.html)
+- [超全的Python完全版电子书.pdf](https://weixin.qdkfweb.cn/39121.html)
+- [推荐 5 个本周很火的 GitHub 项目](https://weixin.qdkfweb.cn/39118.html)
 <!-- BLOG-POST-LIST:END -->
