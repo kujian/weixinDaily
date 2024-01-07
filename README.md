@@ -17,7 +17,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [尤雨溪怒喷 React，挖了坑不想着埋，靠文档来挽救！](https://weixin.qdkfweb.cn/39359.html)
 - [尤雨溪再喷 React，这波我要反驳一下](https://weixin.qdkfweb.cn/39332.html)
-- [yyds！懂行的前端人都开始用AI搞钱了！](https://weixin.qdkfweb.cn/39319.html)
 - [10个增强网页制作的实用高级 CSS 技巧](https://weixin.qdkfweb.cn/39320.html)
+- [yyds！懂行的前端人都开始用AI搞钱了！](https://weixin.qdkfweb.cn/39319.html)
 - [【第3162期】前端APM指标采集大冒险](https://weixin.qdkfweb.cn/39219.html)
 <!-- BLOG-POST-LIST:END -->
