@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [export 导出一个字面量会报错，而 export default 不会报错？](https://weixin.qdkfweb.cn/39177.html)
-- [前端开发博客2023年文章汇总](https://weixin.qdkfweb.cn/39076.html)
-- [Mobile ALOHA：一个可以模仿人类自主学习的机器人操作系统](https://weixin.qdkfweb.cn/39148.html)
-- [超全的Python完全版电子书.pdf](https://weixin.qdkfweb.cn/39121.html)
-- [推荐 5 个本周很火的 GitHub 项目](https://weixin.qdkfweb.cn/39118.html)
+- [尤雨溪怒喷 React，挖了坑不想着埋，靠文档来挽救！](https://weixin.qdkfweb.cn/39359.html)
+- [尤雨溪再喷 React，这波我要反驳一下](https://weixin.qdkfweb.cn/39332.html)
+- [yyds！懂行的前端人都开始用AI搞钱了！](https://weixin.qdkfweb.cn/39319.html)
+- [10个增强网页制作的实用高级 CSS 技巧](https://weixin.qdkfweb.cn/39320.html)
+- [【第3162期】前端APM指标采集大冒险](https://weixin.qdkfweb.cn/39219.html)
 <!-- BLOG-POST-LIST:END -->
