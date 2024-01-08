@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [尤雨溪怒喷 React，挖了坑不想着埋，靠文档来挽救！](https://weixin.qdkfweb.cn/39359.html)
-- [尤雨溪再喷 React，这波我要反驳一下](https://weixin.qdkfweb.cn/39332.html)
-- [yyds！懂行的前端人都开始用AI搞钱了！](https://weixin.qdkfweb.cn/39319.html)
-- [10个增强网页制作的实用高级 CSS 技巧](https://weixin.qdkfweb.cn/39320.html)
-- [【早说】一对一面谈](https://weixin.qdkfweb.cn/39220.html)
+- [React 2024 生态系统：路由、状态管理、调试、测试、组件库、文档……](https://weixin.qdkfweb.cn/39385.html)
+- [组件进入离开动画？试试 react-transition-group](https://weixin.qdkfweb.cn/39390.html)
+- [前端又又出新框架，这次没有打包了](https://weixin.qdkfweb.cn/39375.html)
+- [把电脑分辨率改成500%的犟种们，解决办法有了](https://weixin.qdkfweb.cn/39342.html)
+- [碎片化时间学习前端，我推荐~](https://weixin.qdkfweb.cn/39338.html)
 <!-- BLOG-POST-LIST:END -->
