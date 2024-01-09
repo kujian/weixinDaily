@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [React 2024 生态系统：路由、状态管理、调试、测试、组件库、文档……](https://weixin.qdkfweb.cn/39385.html)
-- [组件进入离开动画？试试 react-transition-group](https://weixin.qdkfweb.cn/39390.html)
-- [前端又又出新框架，这次没有打包了](https://weixin.qdkfweb.cn/39375.html)
-- [把电脑分辨率改成500%的犟种们，解决办法有了](https://weixin.qdkfweb.cn/39342.html)
-- [碎片化时间学习前端，我推荐~](https://weixin.qdkfweb.cn/39338.html)
+- [使用TS的你还在自己写接口类型吗？](https://weixin.qdkfweb.cn/39424.html)
+- [尤雨溪再喷 React，这波我要反驳一下](https://weixin.qdkfweb.cn/39438.html)
+- [谁能拒绝一个接私活的绝佳平台呢？](https://weixin.qdkfweb.cn/39411.html)
+- [2024前端趋势预测：React不会被取代，AI崛起，追求全栈宇宙](https://weixin.qdkfweb.cn/39409.html)
+- [prefect，一个超级厉害的 Python 库！](https://weixin.qdkfweb.cn/39414.html)
 <!-- BLOG-POST-LIST:END -->
