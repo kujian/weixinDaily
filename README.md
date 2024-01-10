@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [使用TS的你还在自己写接口类型吗？](https://weixin.qdkfweb.cn/39424.html)
-- [尤雨溪再喷 React，这波我要反驳一下](https://weixin.qdkfweb.cn/39438.html)
-- [谁能拒绝一个接私活的绝佳平台呢？](https://weixin.qdkfweb.cn/39411.html)
-- [2024前端趋势预测：React不会被取代，AI崛起，追求全栈宇宙](https://weixin.qdkfweb.cn/39409.html)
-- [prefect，一个超级厉害的 Python 库！](https://weixin.qdkfweb.cn/39414.html)
+- [2023年最火前端项目凭什么是它？](https://weixin.qdkfweb.cn/39447.html)
+- [浅析 5 种 React 组件设计模式](https://weixin.qdkfweb.cn/39442.html)
+- [Reac状态管理对比： Redux,Zustand,Jotai,Recoil, MobX,Valtio](https://weixin.qdkfweb.cn/39461.html)
+- [Vue2停止维护！](https://weixin.qdkfweb.cn/39420.html)
+- [前端开发者们，这些知识tips你必须知道](https://weixin.qdkfweb.cn/39421.html)
 <!-- BLOG-POST-LIST:END -->
