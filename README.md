@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [2023年最火前端项目凭什么是它？](https://weixin.qdkfweb.cn/39447.html)
-- [浅析 5 种 React 组件设计模式](https://weixin.qdkfweb.cn/39442.html)
-- [Reac状态管理对比： Redux,Zustand,Jotai,Recoil, MobX,Valtio](https://weixin.qdkfweb.cn/39461.html)
-- [Vue2停止维护！](https://weixin.qdkfweb.cn/39420.html)
-- [前端开发者们，这些知识tips你必须知道](https://weixin.qdkfweb.cn/39421.html)
+- [普通人如何高效应用 ChatGPT，终于有人讲明白这些方法了！](https://weixin.qdkfweb.cn/39482.html)
+- [服务端来自火星，客户端来自金星，RSC开发新思路](https://weixin.qdkfweb.cn/39483.html)
+- [AI大更新！Rabbit R1、Amazon、Mcafee、Google等，取得巨大进展！！](https://weixin.qdkfweb.cn/39478.html)
+- [点击领取！2024最新6款红包封面！](https://weixin.qdkfweb.cn/39479.html)
+- [前端实现单点登录（SSO）](https://weixin.qdkfweb.cn/39494.html)
 <!-- BLOG-POST-LIST:END -->
