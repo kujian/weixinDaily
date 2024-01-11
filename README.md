@@ -19,5 +19,5 @@
 - [服务端来自火星，客户端来自金星，RSC开发新思路](https://weixin.qdkfweb.cn/39483.html)
 - [AI大更新！Rabbit R1、Amazon、Mcafee、Google等，取得巨大进展！！](https://weixin.qdkfweb.cn/39478.html)
 - [点击领取！2024最新6款红包封面！](https://weixin.qdkfweb.cn/39479.html)
-- [前端实现单点登录（SSO）](https://weixin.qdkfweb.cn/39494.html)
+- [React状态管理比较与原理实现 . Redux, Zustand, Jotai, Recoil, MobX, Valtio](https://weixin.qdkfweb.cn/39495.html)
 <!-- BLOG-POST-LIST:END -->
