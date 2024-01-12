@@ -16,8 +16,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [12个强大的 JavaScript 动画库，可帮助你提升用户体验](https://weixin.qdkfweb.cn/39527.html)
-- [10 个鲜为人知的 CSS 技巧](https://weixin.qdkfweb.cn/39540.html)
 - [11个高级web前端开发工程师都应该掌握的Web API](https://weixin.qdkfweb.cn/39539.html)
+- [10 个鲜为人知的 CSS 技巧](https://weixin.qdkfweb.cn/39540.html)
 - [5 个高频 python 装饰器使用场景](https://weixin.qdkfweb.cn/39513.html)
 - [热门点赞：2023 年前端大事记](https://weixin.qdkfweb.cn/39504.html)
 <!-- BLOG-POST-LIST:END -->
