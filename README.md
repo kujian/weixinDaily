@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [普通人如何高效应用 ChatGPT，终于有人讲明白这些方法了！](https://weixin.qdkfweb.cn/39482.html)
-- [服务端来自火星，客户端来自金星，RSC开发新思路](https://weixin.qdkfweb.cn/39483.html)
-- [AI大更新！Rabbit R1、Amazon、Mcafee、Google等，取得巨大进展！！](https://weixin.qdkfweb.cn/39478.html)
-- [点击领取！2024最新6款红包封面！](https://weixin.qdkfweb.cn/39479.html)
-- [React状态管理比较与原理实现 . Redux, Zustand, Jotai, Recoil, MobX, Valtio](https://weixin.qdkfweb.cn/39495.html)
+- [12个强大的 JavaScript 动画库，可帮助你提升用户体验](https://weixin.qdkfweb.cn/39527.html)
+- [10 个鲜为人知的 CSS 技巧](https://weixin.qdkfweb.cn/39540.html)
+- [11个高级web前端开发工程师都应该掌握的Web API](https://weixin.qdkfweb.cn/39539.html)
+- [5 个高频 python 装饰器使用场景](https://weixin.qdkfweb.cn/39513.html)
+- [热门点赞：2023 年前端大事记](https://weixin.qdkfweb.cn/39504.html)
 <!-- BLOG-POST-LIST:END -->
