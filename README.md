@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [12个强大的 JavaScript 动画库，可帮助你提升用户体验](https://weixin.qdkfweb.cn/39527.html)
-- [11个高级web前端开发工程师都应该掌握的Web API](https://weixin.qdkfweb.cn/39539.html)
-- [10 个鲜为人知的 CSS 技巧](https://weixin.qdkfweb.cn/39540.html)
-- [5 个高频 python 装饰器使用场景](https://weixin.qdkfweb.cn/39513.html)
-- [热门点赞：2023 年前端大事记](https://weixin.qdkfweb.cn/39504.html)
+- [直接在vue文件（SFC）中使用JSX/TSX渲染函数，真香!](https://weixin.qdkfweb.cn/39550.html)
+- [取代 Vue 和 React？新框架 Nue JS，能将代码量减少 10 倍！](https://weixin.qdkfweb.cn/39560.html)
+- [华为云低代码引擎 TinyEngine 服务端正式开源](https://weixin.qdkfweb.cn/39551.html)
+- [IT界惊现文豪！华为领导及阿里P10遭吐槽](https://weixin.qdkfweb.cn/39547.html)
+- [一道字节的 TS 体操面试真题](https://weixin.qdkfweb.cn/39563.html)
 <!-- BLOG-POST-LIST:END -->
