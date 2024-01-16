@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [分享一篇 Three.js 快速入门指南](https://weixin.qdkfweb.cn/39566.html)
-- [Swift 条件控制和循环](https://weixin.qdkfweb.cn/39576.html)
-- [代码洁癖的前端工程师是如何写代码的？](https://weixin.qdkfweb.cn/39571.html)
-- [尤雨溪：Vue2 升级 Vue3 中犯的3个错](https://weixin.qdkfweb.cn/39565.html)
-- [碎片化时间学习前端，我推荐~](https://weixin.qdkfweb.cn/39568.html)
+- [快速在你的vue/react应用中实现ssr&lpar;服务端渲染&rpar;](https://weixin.qdkfweb.cn/39620.html)
+- [分享11个高级前端开发工程师都应该掌握的Web API](https://weixin.qdkfweb.cn/39611.html)
+- [2024年JavaScript面试必备：12个基础问题及详解](https://weixin.qdkfweb.cn/39610.html)
+- [使用 GPT 写了一个油猴脚本，解决我的大问题！完整思路分享](https://weixin.qdkfweb.cn/39588.html)
+- [实用技能！如何使用Canvas封装图片压缩功能](https://weixin.qdkfweb.cn/39583.html)
 <!-- BLOG-POST-LIST:END -->
