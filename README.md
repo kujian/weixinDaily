@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [快速在你的vue/react应用中实现ssr&lpar;服务端渲染&rpar;](https://weixin.qdkfweb.cn/39620.html)
-- [2024年JavaScript面试必备：12个基础问题及详解](https://weixin.qdkfweb.cn/39610.html)
-- [分享11个高级前端开发工程师都应该掌握的Web API](https://weixin.qdkfweb.cn/39611.html)
-- [使用 GPT 写了一个油猴脚本，解决我的大问题！完整思路分享](https://weixin.qdkfweb.cn/39588.html)
-- [实用技能！如何使用Canvas封装图片压缩功能](https://weixin.qdkfweb.cn/39583.html)
+- [Swift 函数](https://weixin.qdkfweb.cn/39724.html)
+- [突发！微软发布Copilot Pro！](https://weixin.qdkfweb.cn/39665.html)
+- [optimus，一个神奇的 Python 库！](https://weixin.qdkfweb.cn/39694.html)
+- [React Web 开发这样学，才能独当一面](https://weixin.qdkfweb.cn/39641.html)
+- [推荐 3 个火火火火的 AI 开源项目](https://weixin.qdkfweb.cn/39685.html)
 <!-- BLOG-POST-LIST:END -->
