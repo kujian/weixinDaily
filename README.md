@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [Swift 函数](https://weixin.qdkfweb.cn/39724.html)
-- [突发！微软发布Copilot Pro！](https://weixin.qdkfweb.cn/39665.html)
-- [optimus，一个神奇的 Python 库！](https://weixin.qdkfweb.cn/39694.html)
-- [React Web 开发这样学，才能独当一面](https://weixin.qdkfweb.cn/39641.html)
-- [推荐 3 个火火火火的 AI 开源项目](https://weixin.qdkfweb.cn/39685.html)
+- [1186家企业，26万人裁员，别再幻想稳定工作了！](https://weixin.qdkfweb.cn/39769.html)
+- [上午写了一段代码，下午就被开除了，奇怪的知识又增加了【文末送红包封面】](https://weixin.qdkfweb.cn/39740.html)
+- [2024 年你应该使用 Bun、Node.js 还是 Deno？](https://weixin.qdkfweb.cn/39745.html)
+- [dask，一个超级厉害的 Python 库！](https://weixin.qdkfweb.cn/39752.html)
+- [78k Star！这个高质量前端工具集有点意思~](https://weixin.qdkfweb.cn/39739.html)
 <!-- BLOG-POST-LIST:END -->
