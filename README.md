@@ -19,5 +19,5 @@
 - [新Viewport单位](https://weixin.qdkfweb.cn/39799.html)
 - [重磅！Google推出“划圈搜索”，可能会彻底改变我们的搜索习惯！](https://weixin.qdkfweb.cn/39780.html)
 - [如何优雅的实现前端国际化？](https://weixin.qdkfweb.cn/39786.html)
-- [前端 JS 安全对抗原理与实践](https://weixin.qdkfweb.cn/39756.html)
+- [Vue2停止维护！](https://weixin.qdkfweb.cn/39755.html)
 <!-- BLOG-POST-LIST:END -->
