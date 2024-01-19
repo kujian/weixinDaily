@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [1186家企业，26万人裁员，别再幻想稳定工作了！](https://weixin.qdkfweb.cn/39769.html)
-- [上午写了一段代码，下午就被开除了，奇怪的知识又增加了【文末送红包封面】](https://weixin.qdkfweb.cn/39740.html)
-- [2024 年你应该使用 Bun、Node.js 还是 Deno？](https://weixin.qdkfweb.cn/39745.html)
-- [dask，一个超级厉害的 Python 库！](https://weixin.qdkfweb.cn/39752.html)
-- [78k Star！这个高质量前端工具集有点意思~](https://weixin.qdkfweb.cn/39739.html)
+- [替代 for 循环，让 Python 代码更 pythonic !](https://weixin.qdkfweb.cn/39784.html)
+- [新Viewport单位](https://weixin.qdkfweb.cn/39799.html)
+- [重磅！Google推出“划圈搜索”，可能会彻底改变我们的搜索习惯！](https://weixin.qdkfweb.cn/39780.html)
+- [如何优雅的实现前端国际化？](https://weixin.qdkfweb.cn/39786.html)
+- [前端 JS 安全对抗原理与实践](https://weixin.qdkfweb.cn/39756.html)
 <!-- BLOG-POST-LIST:END -->
