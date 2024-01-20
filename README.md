@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [替代 for 循环，让 Python 代码更 pythonic !](https://weixin.qdkfweb.cn/39784.html)
-- [新Viewport单位](https://weixin.qdkfweb.cn/39799.html)
-- [重磅！Google推出“划圈搜索”，可能会彻底改变我们的搜索习惯！](https://weixin.qdkfweb.cn/39780.html)
-- [如何优雅的实现前端国际化？](https://weixin.qdkfweb.cn/39786.html)
-- [Vue2停止维护！](https://weixin.qdkfweb.cn/39755.html)
+- [【验证码识别专栏】人均通杀点选验证码！Yolov5 + 孪生神经网络 or 图像分类 = 高精模型](https://weixin.qdkfweb.cn/39809.html)
+- [入职两周了，代码仍无法上手，怎么破局?](https://weixin.qdkfweb.cn/39804.html)
+- [太强了！35个爬虫实例.pdf](https://weixin.qdkfweb.cn/39812.html)
+- [穿越时空：2023年前端技术盘点与2024年技术展望](https://weixin.qdkfweb.cn/39811.html)
+- [公司实习生居然还在手动切换node版本？](https://weixin.qdkfweb.cn/39810.html)
 <!-- BLOG-POST-LIST:END -->
