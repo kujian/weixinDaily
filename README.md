@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [【验证码识别专栏】人均通杀点选验证码！Yolov5 + 孪生神经网络 or 图像分类 = 高精模型](https://weixin.qdkfweb.cn/39809.html)
-- [入职两周了，代码仍无法上手，怎么破局?](https://weixin.qdkfweb.cn/39804.html)
-- [太强了！35个爬虫实例.pdf](https://weixin.qdkfweb.cn/39812.html)
-- [穿越时空：2023年前端技术盘点与2024年技术展望](https://weixin.qdkfweb.cn/39811.html)
-- [公司实习生居然还在手动切换node版本？](https://weixin.qdkfweb.cn/39810.html)
+- [灵境矩阵，彻底爆了。。。](https://weixin.qdkfweb.cn/39852.html)
+- [【基础复盘】JS 数组对象的 34 种官方用法](https://weixin.qdkfweb.cn/39843.html)
+- [新年微信红包封面第一弹~](https://weixin.qdkfweb.cn/39848.html)
+- [前端架构思考，Vue or React？领域设计、文件结构、数据管理、主题替换](https://weixin.qdkfweb.cn/39860.html)
+- [Next.js 14.1 发布：开发者体验/Turbopack/自托管/next/image 等功能改进增强...](https://weixin.qdkfweb.cn/39858.html)
 <!-- BLOG-POST-LIST:END -->
