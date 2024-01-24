@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [next.js 如何正确处理跨域问题？](https://weixin.qdkfweb.cn/39881.html)
-- [超全的开源Winform UI库，满足你的一切桌面开发需求！](https://weixin.qdkfweb.cn/39874.html)
-- [新年微信红包封面第二弹~](https://weixin.qdkfweb.cn/39880.html)
-- [TS类型体操技巧总结](https://weixin.qdkfweb.cn/39884.html)
-- [前端 JS 安全对抗原理与实践](https://weixin.qdkfweb.cn/39872.html)
+- [我用 AI 制作了 9 个微信红包封面，你最喜欢哪个？](https://weixin.qdkfweb.cn/39909.html)
+- [ChatGPT Crawler，这个开源项目太吊了！](https://weixin.qdkfweb.cn/39913.html)
+- [BentoML，一个神奇的 Python 库！](https://weixin.qdkfweb.cn/39926.html)
+- [推荐一个页面引导库 driver.js](https://weixin.qdkfweb.cn/39943.html)
+- [GPT-5 即将面市！山姆 奥特曼最新剧透](https://weixin.qdkfweb.cn/39910.html)
 <!-- BLOG-POST-LIST:END -->
