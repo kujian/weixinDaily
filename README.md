@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [我用 AI 制作了 9 个微信红包封面，你最喜欢哪个？](https://weixin.qdkfweb.cn/39909.html)
-- [ChatGPT Crawler，这个开源项目太吊了！](https://weixin.qdkfweb.cn/39913.html)
-- [BentoML，一个神奇的 Python 库！](https://weixin.qdkfweb.cn/39926.html)
-- [推荐一个页面引导库 driver.js](https://weixin.qdkfweb.cn/39943.html)
-- [GPT-5 即将面市！山姆 奥特曼最新剧透](https://weixin.qdkfweb.cn/39910.html)
+- [2024 年 7 个 Web 前端开发趋势](https://weixin.qdkfweb.cn/39969.html)
+- [一文学会用 react-spring 做弹簧动画](https://weixin.qdkfweb.cn/39976.html)
+- [有了Composition API后，有些场景或许你不需要pinia了](https://weixin.qdkfweb.cn/39958.html)
+- [前 Mozilla 浏览器工程师：Web 开发的七大奇怪观念，你中招了吗？](https://weixin.qdkfweb.cn/39959.html)
+- [科大讯飞，又一个王炸级更新！](https://weixin.qdkfweb.cn/39962.html)
 <!-- BLOG-POST-LIST:END -->
