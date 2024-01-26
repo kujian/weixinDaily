@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [2024 年 7 个 Web 前端开发趋势](https://weixin.qdkfweb.cn/39969.html)
-- [一文学会用 react-spring 做弹簧动画](https://weixin.qdkfweb.cn/39976.html)
-- [有了Composition API后，有些场景或许你不需要pinia了](https://weixin.qdkfweb.cn/39958.html)
-- [前 Mozilla 浏览器工程师：Web 开发的七大奇怪观念，你中招了吗？](https://weixin.qdkfweb.cn/39959.html)
-- [科大讯飞，又一个王炸级更新！](https://weixin.qdkfweb.cn/39962.html)
+- [前端 “硬核” 新书来了！](https://weixin.qdkfweb.cn/40007.html)
+- [前端基建有哪些？大小公司偏重啥？](https://weixin.qdkfweb.cn/39992.html)
+- [26个 AI 作图网站推荐，快速制作微信红包封面图](https://weixin.qdkfweb.cn/39982.html)
+- [yyds！SLAM教程](https://weixin.qdkfweb.cn/39995.html)
+- [某大厂查员工VX聊天记录，被恶心了~](https://weixin.qdkfweb.cn/39987.html)
 <!-- BLOG-POST-LIST:END -->
