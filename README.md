@@ -18,6 +18,6 @@
 - [最强 Pandas 平替 -- Polars](https://weixin.qdkfweb.cn/40015.html)
 - [SLAM，yyds](https://weixin.qdkfweb.cn/40021.html)
 - [“印度 CEO” 毁了谷歌！大裁员引发谷歌元老集体怀旧：20 年前为梦想而战，20 年后混口饭吃](https://weixin.qdkfweb.cn/40019.html)
-- [一站式Python学习资料，完全版PDF开放下载！](https://weixin.qdkfweb.cn/40025.html)
 - [flower，一个超强的 Python 库！](https://weixin.qdkfweb.cn/40024.html)
+- [一站式Python学习资料，完全版PDF开放下载！](https://weixin.qdkfweb.cn/40025.html)
 <!-- BLOG-POST-LIST:END -->
