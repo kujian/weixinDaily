@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [前端 “硬核” 新书来了！](https://weixin.qdkfweb.cn/40007.html)
-- [前端基建有哪些？大小公司偏重啥？](https://weixin.qdkfweb.cn/39992.html)
-- [26个 AI 作图网站推荐，快速制作微信红包封面图](https://weixin.qdkfweb.cn/39982.html)
-- [yyds！SLAM教程](https://weixin.qdkfweb.cn/39995.html)
-- [某大厂查员工VX聊天记录，被恶心了~](https://weixin.qdkfweb.cn/39987.html)
+- [最强 Pandas 平替 -- Polars](https://weixin.qdkfweb.cn/40015.html)
+- [SLAM，yyds](https://weixin.qdkfweb.cn/40021.html)
+- [“印度 CEO” 毁了谷歌！大裁员引发谷歌元老集体怀旧：20 年前为梦想而战，20 年后混口饭吃](https://weixin.qdkfweb.cn/40019.html)
+- [flower，一个超强的 Python 库！](https://weixin.qdkfweb.cn/40024.html)
+- [一站式Python学习资料，完全版PDF开放下载！](https://weixin.qdkfweb.cn/40025.html)
 <!-- BLOG-POST-LIST:END -->
