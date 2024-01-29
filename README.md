@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [这是我见过很火的AI大模型资源，可以上车！](https://weixin.qdkfweb.cn/40040.html)
-- [5 年前端，为什么别人可以成为技术专家，而你。。。](https://weixin.qdkfweb.cn/40050.html)
-- [如何禁止别人调试自己的前端页面代码？ |  文末福利](https://weixin.qdkfweb.cn/40039.html)
-- [Web 第三方嵌入的最佳实践](https://weixin.qdkfweb.cn/40037.html)
-- [想进阶，强烈推荐这几个前端大佬！！](https://weixin.qdkfweb.cn/40011.html)
+- [自己搭一个 OSS 服务，和阿里云的一毛一样](https://weixin.qdkfweb.cn/40073.html)
+- [前端开发者必须知道的日常小技巧！](https://weixin.qdkfweb.cn/40066.html)
+- [ChatGPT:GPTs是什么？GPTs使用操作指南](https://weixin.qdkfweb.cn/40055.html)
+- [字节跳动 Rspack 家族再添一员，全家族一览！](https://weixin.qdkfweb.cn/40058.html)
+- [ES6的一些高级技巧](https://weixin.qdkfweb.cn/40036.html)
 <!-- BLOG-POST-LIST:END -->
