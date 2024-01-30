@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [自己搭一个 OSS 服务，和阿里云的一毛一样](https://weixin.qdkfweb.cn/40073.html)
-- [前端开发者必须知道的日常小技巧！](https://weixin.qdkfweb.cn/40066.html)
-- [ChatGPT:GPTs是什么？GPTs使用操作指南](https://weixin.qdkfweb.cn/40055.html)
-- [字节跳动 Rspack 家族再添一员，全家族一览！](https://weixin.qdkfweb.cn/40058.html)
-- [ES6的一些高级技巧](https://weixin.qdkfweb.cn/40036.html)
+- [2023年哪个前端框架用的最多?用数据说话](https://weixin.qdkfweb.cn/40086.html)
+- [翻遍闲鱼和拼多多，我制作了这些热销红包封面图，投票免费送！](https://weixin.qdkfweb.cn/40078.html)
+- [升级到 React 18，吸取到了这些血泪教训。。。](https://weixin.qdkfweb.cn/40082.html)
+- [React Native 跨界 MR 头显！苹 果Vision Pro 成新战场，开发门槛骤降](https://weixin.qdkfweb.cn/40093.html)
+- [速抢！2024最新红包封面！免费送！](https://weixin.qdkfweb.cn/40097.html)
 <!-- BLOG-POST-LIST:END -->
