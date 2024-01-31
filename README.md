@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [2023年哪个前端框架用的最多?用数据说话](https://weixin.qdkfweb.cn/40086.html)
-- [翻遍闲鱼和拼多多，我制作了这些热销红包封面图，投票免费送！](https://weixin.qdkfweb.cn/40078.html)
-- [升级到 React 18，吸取到了这些血泪教训。。。](https://weixin.qdkfweb.cn/40082.html)
-- [React Native 跨界 MR 头显！苹 果Vision Pro 成新战场，开发门槛骤降](https://weixin.qdkfweb.cn/40093.html)
-- [速抢！2024最新红包封面！免费送！](https://weixin.qdkfweb.cn/40097.html)
+- [国产前端框架 openInula 太强了！](https://weixin.qdkfweb.cn/40121.html)
+- [authlib，一个神奇的 Python 库！](https://weixin.qdkfweb.cn/40137.html)
+- [React 19 即将推出的 4 个全新 Hooks，很实用！](https://weixin.qdkfweb.cn/40125.html)
+- [禁止乱用：一款牛批的开源去马赛克工具。。。](https://weixin.qdkfweb.cn/40118.html)
+- [前端面试必考题：介绍项目和项目难点](https://weixin.qdkfweb.cn/40111.html)
 <!-- BLOG-POST-LIST:END -->
