@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [国产前端框架 openInula 太强了！](https://weixin.qdkfweb.cn/40121.html)
-- [authlib，一个神奇的 Python 库！](https://weixin.qdkfweb.cn/40137.html)
-- [React 19 即将推出的 4 个全新 Hooks，很实用！](https://weixin.qdkfweb.cn/40125.html)
-- [禁止乱用：一款牛批的开源去马赛克工具。。。](https://weixin.qdkfweb.cn/40118.html)
-- [前端面试必考题：介绍项目和项目难点](https://weixin.qdkfweb.cn/40111.html)
+- [分享图片](https://weixin.qdkfweb.cn/40181.html)
+- [React + React Native 实现双端视频聊天、屏幕共享](https://weixin.qdkfweb.cn/40171.html)
+- [一些著名的软件都用什么语言编写？](https://weixin.qdkfweb.cn/40158.html)
+- [Xcode 15.2提供稳定的Apple Vision Pro支持](https://weixin.qdkfweb.cn/40168.html)
+- [前端人的AI年度盛典来了！](https://weixin.qdkfweb.cn/40178.html)
 <!-- BLOG-POST-LIST:END -->
