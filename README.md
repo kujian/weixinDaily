@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [分享图片](https://weixin.qdkfweb.cn/40181.html)
-- [React + React Native 实现双端视频聊天、屏幕共享](https://weixin.qdkfweb.cn/40171.html)
-- [一些著名的软件都用什么语言编写？](https://weixin.qdkfweb.cn/40158.html)
-- [Xcode 15.2提供稳定的Apple Vision Pro支持](https://weixin.qdkfweb.cn/40168.html)
-- [前端人的AI年度盛典来了！](https://weixin.qdkfweb.cn/40178.html)
+- [大厂真实 Git 开发工作流程](https://weixin.qdkfweb.cn/40194.html)
+- [千帆杯首期赛题公布！一起探索 AI 原生应用的时间魔法](https://weixin.qdkfweb.cn/40206.html)
+- [两款带气泡和动画的龙年红包封面免费领](https://weixin.qdkfweb.cn/40185.html)
+- [别再用 ESLint 格式化你的代码了！原理揭秘。](https://weixin.qdkfweb.cn/40189.html)
+- [pyparsing，一个神奇的 Python 库！](https://weixin.qdkfweb.cn/40199.html)
 <!-- BLOG-POST-LIST:END -->
