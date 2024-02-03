@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [大厂真实 Git 开发工作流程](https://weixin.qdkfweb.cn/40194.html)
-- [千帆杯首期赛题公布！一起探索 AI 原生应用的时间魔法](https://weixin.qdkfweb.cn/40206.html)
-- [两款带气泡和动画的龙年红包封面免费领](https://weixin.qdkfweb.cn/40185.html)
-- [别再用 ESLint 格式化你的代码了！原理揭秘。](https://weixin.qdkfweb.cn/40189.html)
-- [pyparsing，一个神奇的 Python 库！](https://weixin.qdkfweb.cn/40199.html)
+- [尤雨溪说：Vue3 中应该使用 Ref 而不是 Reactive！](https://weixin.qdkfweb.cn/40229.html)
+- [免费白嫖GPU算力](https://weixin.qdkfweb.cn/40220.html)
+- [iOS史上最重磅更新？苹果要上大模型了](https://weixin.qdkfweb.cn/40219.html)
+- [yyds，安卓手机安装谷歌三件套终于有救了！【亲测有效】](https://weixin.qdkfweb.cn/40214.html)
+- [omegaconf，一个超强的 Python 库！](https://weixin.qdkfweb.cn/40222.html)
 <!-- BLOG-POST-LIST:END -->
