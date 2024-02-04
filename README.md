@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [尤雨溪说：Vue3 中应该使用 Ref 而不是 Reactive！](https://weixin.qdkfweb.cn/40229.html)
-- [免费白嫖GPU算力](https://weixin.qdkfweb.cn/40220.html)
-- [iOS史上最重磅更新？苹果要上大模型了](https://weixin.qdkfweb.cn/40219.html)
-- [yyds，安卓手机安装谷歌三件套终于有救了！【亲测有效】](https://weixin.qdkfweb.cn/40214.html)
-- [omegaconf，一个超强的 Python 库！](https://weixin.qdkfweb.cn/40222.html)
+- [最近，前端的薪资爆了。。](https://weixin.qdkfweb.cn/40232.html)
+- [碎片时间学习前端，我推荐这些~](https://weixin.qdkfweb.cn/40235.html)
+- [县城再无清华北大](https://weixin.qdkfweb.cn/40236.html)
+- [cherrypy，一个非常实用的 Python 库！](https://weixin.qdkfweb.cn/40240.html)
+- [124个Python案例，完整源代码！](https://weixin.qdkfweb.cn/40241.html)
 <!-- BLOG-POST-LIST:END -->
