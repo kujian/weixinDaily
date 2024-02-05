@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [最近，前端的薪资爆了。。](https://weixin.qdkfweb.cn/40232.html)
-- [碎片时间学习前端，我推荐这些~](https://weixin.qdkfweb.cn/40235.html)
-- [县城再无清华北大](https://weixin.qdkfweb.cn/40236.html)
-- [cherrypy，一个非常实用的 Python 库！](https://weixin.qdkfweb.cn/40240.html)
-- [124个Python案例，完整源代码！](https://weixin.qdkfweb.cn/40241.html)
+- [字节跳动 Rspack 家族再添一员，全家族一览！](https://weixin.qdkfweb.cn/40261.html)
+- [碎片化时间学习前端，我推荐~](https://weixin.qdkfweb.cn/40252.html)
+- [有了它 Antd 样式覆盖不要太爽](https://weixin.qdkfweb.cn/40253.html)
+- [新年微信红包封面第三弹（新款）~](https://weixin.qdkfweb.cn/40260.html)
+- [麻了！阿里大佬空降到我司当CTO的半年~](https://weixin.qdkfweb.cn/40257.html)
 <!-- BLOG-POST-LIST:END -->
