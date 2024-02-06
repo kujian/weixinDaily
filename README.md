@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [字节跳动 Rspack 家族再添一员，全家族一览！](https://weixin.qdkfweb.cn/40261.html)
-- [碎片化时间学习前端，我推荐~](https://weixin.qdkfweb.cn/40252.html)
-- [有了它 Antd 样式覆盖不要太爽](https://weixin.qdkfweb.cn/40253.html)
-- [新年微信红包封面第三弹（新款）~](https://weixin.qdkfweb.cn/40260.html)
-- [麻了！阿里大佬空降到我司当CTO的半年~](https://weixin.qdkfweb.cn/40257.html)
+- [升级到 React 18 的经验和教训](https://weixin.qdkfweb.cn/40284.html)
+- [Vue 10 岁了！你知道它最初的名字吗？](https://weixin.qdkfweb.cn/40281.html)
+- [GitHub下载器，老司机懂的都懂！](https://weixin.qdkfweb.cn/40282.html)
+- [思否 HarmonyOS 技术问答马拉松来啦，快来领取大礼包](https://weixin.qdkfweb.cn/40294.html)
+- [Vue 发布十年了！你知道我这十年是怎么过的吗？](https://weixin.qdkfweb.cn/40259.html)
 <!-- BLOG-POST-LIST:END -->
