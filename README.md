@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [升级到 React 18 的经验和教训](https://weixin.qdkfweb.cn/40284.html)
-- [Vue 10 岁了！你知道它最初的名字吗？](https://weixin.qdkfweb.cn/40281.html)
-- [GitHub下载器，老司机懂的都懂！](https://weixin.qdkfweb.cn/40282.html)
-- [思否 HarmonyOS 技术问答马拉松来啦，快来领取大礼包](https://weixin.qdkfweb.cn/40294.html)
-- [Vue 发布十年了！你知道我这十年是怎么过的吗？](https://weixin.qdkfweb.cn/40259.html)
+- [分享一个很丑的红包封面](https://weixin.qdkfweb.cn/40298.html)
+- [Vue3实现加入购物车抛物线效果组件](https://weixin.qdkfweb.cn/40304.html)
+- [浅谈前端出现率高的设计模式](https://weixin.qdkfweb.cn/40292.html)
+- [Vue 3 将推出无虚拟DOM版，更快了！](https://weixin.qdkfweb.cn/40297.html)
+- [看尤雨溪说：为什么Vue3 中应该使用 Ref 而不是 Reactive？](https://weixin.qdkfweb.cn/40291.html)
 <!-- BLOG-POST-LIST:END -->
