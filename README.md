@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [代码写得好，绩效却不高？程序员的沟通和思考有多重要？](https://weixin.qdkfweb.cn/40320.html)
-- [React、Angular、Next.js、Solid 创建者告诉你，2024 年你需要关注哪些框架！](https://weixin.qdkfweb.cn/40317.html)
-- [Docker-现代化应用部署的利器](https://weixin.qdkfweb.cn/40314.html)
-- [Proxy 的性能，可能比 defineProperty 更差](https://weixin.qdkfweb.cn/40321.html)
-- [WebSocket 从入门到入土](https://weixin.qdkfweb.cn/40318.html)
+- [streamlit，一个超强的 Python 库！](https://weixin.qdkfweb.cn/40346.html)
+- [Vite 5.1 正式发布，性能大幅提升！](https://weixin.qdkfweb.cn/40343.html)
+- [四线城市居然有50k月薪的前端岗位？要不明年回老家发展吧？](https://weixin.qdkfweb.cn/40344.html)
+- [推荐 3 个火火火火火的 GitHub 项目](https://weixin.qdkfweb.cn/40340.html)
+- [salt，一个神奇的 Python 库！](https://weixin.qdkfweb.cn/40341.html)
 <!-- BLOG-POST-LIST:END -->
