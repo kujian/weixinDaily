@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [开源前端框架——“锋利的jQuery”发布4.0首个Beta版本](https://weixin.qdkfweb.cn/40356.html)
-- [类型体操之 Chainable 工具类型](https://weixin.qdkfweb.cn/40357.html)
-- [66 个 CSS 函数，一网打尽！](https://weixin.qdkfweb.cn/40350.html)
-- [magenta，一个有趣的 Python 库！](https://weixin.qdkfweb.cn/40352.html)
-- [Python Web 开发常见的100个问题.PDF](https://weixin.qdkfweb.cn/40353.html)
+- [刘谦春晚魔术揭秘：约瑟夫环的数学魅力，JS实现下！](https://weixin.qdkfweb.cn/40358.html)
+- [Jquery4.0发布！下载量依旧是 Vue 的两倍！](https://weixin.qdkfweb.cn/40365.html)
+- [自定义Hooks，轻松飞升技术巅峰！](https://weixin.qdkfweb.cn/40351.html)
+- [从‘相信前端能做一切’到‘连这个都做不了么’](https://weixin.qdkfweb.cn/40349.html)
+- [“锋利的jQuery”发布4.0首个Beta版本](https://weixin.qdkfweb.cn/40354.html)
 <!-- BLOG-POST-LIST:END -->
