@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [刘谦春晚魔术揭秘：约瑟夫环的数学魅力，JS实现下！](https://weixin.qdkfweb.cn/40358.html)
-- [Jquery4.0发布！下载量依旧是 Vue 的两倍！](https://weixin.qdkfweb.cn/40365.html)
-- [自定义Hooks，轻松飞升技术巅峰！](https://weixin.qdkfweb.cn/40351.html)
-- [从‘相信前端能做一切’到‘连这个都做不了么’](https://weixin.qdkfweb.cn/40349.html)
-- [“锋利的jQuery”发布4.0首个Beta版本](https://weixin.qdkfweb.cn/40354.html)
+- [效果炸裂！OpenAI 首个视频生成模型发布，1 分钟流畅高清，网友：整个行业 RIP](https://weixin.qdkfweb.cn/40368.html)
+- [停更600天，React 团队到底在忙啥？](https://weixin.qdkfweb.cn/40367.html)
+- [“AI”送祥瑞：“千帆杯”第一期10万大奖揭晓！](https://weixin.qdkfweb.cn/40376.html)
+- [真心建议前端人冲一冲新兴领域，工资高前景好](https://weixin.qdkfweb.cn/40371.html)
+- [【基础复盘】JS 数组对象的 34 种官方用法](https://weixin.qdkfweb.cn/40372.html)
 <!-- BLOG-POST-LIST:END -->
