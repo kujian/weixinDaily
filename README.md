@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [效果炸裂！OpenAI 首个视频生成模型发布，1 分钟流畅高清，网友：整个行业 RIP](https://weixin.qdkfweb.cn/40368.html)
-- [停更600天，React 团队到底在忙啥？](https://weixin.qdkfweb.cn/40367.html)
-- [“AI”送祥瑞：“千帆杯”第一期10万大奖揭晓！](https://weixin.qdkfweb.cn/40376.html)
-- [真心建议前端人冲一冲新兴领域，工资高前景好](https://weixin.qdkfweb.cn/40371.html)
-- [【基础复盘】JS 数组对象的 34 种官方用法](https://weixin.qdkfweb.cn/40372.html)
+- [我用埋点让老板安静 （埋点篇）](https://weixin.qdkfweb.cn/40382.html)
+- [intelliscraper，一个神奇的 Python 库！](https://weixin.qdkfweb.cn/40394.html)
+- [字节跳动最热门的 15 个前端开源项目](https://weixin.qdkfweb.cn/40386.html)
+- [昨天Sora王炸出现，一夜之间很多创业公司凉凉...AGI从10年缩短到1年](https://weixin.qdkfweb.cn/40381.html)
+- [聊聊令人头疼的埋点](https://weixin.qdkfweb.cn/40369.html)
 <!-- BLOG-POST-LIST:END -->
