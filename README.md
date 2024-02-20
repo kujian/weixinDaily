@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [我用埋点让老板安静 （埋点篇）](https://weixin.qdkfweb.cn/40382.html)
-- [intelliscraper，一个神奇的 Python 库！](https://weixin.qdkfweb.cn/40394.html)
-- [字节跳动最热门的 15 个前端开源项目](https://weixin.qdkfweb.cn/40386.html)
-- [昨天Sora王炸出现，一夜之间很多创业公司凉凉...AGI从10年缩短到1年](https://weixin.qdkfweb.cn/40381.html)
-- [聊聊令人头疼的埋点](https://weixin.qdkfweb.cn/40369.html)
+- [AI配音Sora视频，视频生成类公司未来或面临团灭!](https://weixin.qdkfweb.cn/40475.html)
+- [30.8K Star，高效且颜值爆表的Windows三方资源管理器Files](https://weixin.qdkfweb.cn/40476.html)
+- [OpenAI 全新发布的 Sora，第一波受害者出现了！！！](https://weixin.qdkfweb.cn/40496.html)
+- [colour，一个有趣的 Python 库！](https://weixin.qdkfweb.cn/40479.html)
+- [预测一波，最近前端即将起飞！](https://weixin.qdkfweb.cn/40485.html)
 <!-- BLOG-POST-LIST:END -->
