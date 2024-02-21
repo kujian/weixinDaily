@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [AI配音Sora视频，视频生成类公司未来或面临团灭!](https://weixin.qdkfweb.cn/40475.html)
-- [30.8K Star，高效且颜值爆表的Windows三方资源管理器Files](https://weixin.qdkfweb.cn/40476.html)
-- [OpenAI 全新发布的 Sora，第一波受害者出现了！！！](https://weixin.qdkfweb.cn/40496.html)
-- [colour，一个有趣的 Python 库！](https://weixin.qdkfweb.cn/40479.html)
-- [预测一波，最近前端即将起飞！](https://weixin.qdkfweb.cn/40485.html)
+- [关于 React19，你需要了解的前因后果](https://weixin.qdkfweb.cn/40512.html)
+- [【基础复盘】JS 数组对象的 34 种官方用法](https://weixin.qdkfweb.cn/40545.html)
+- [普通人利用Sora赚钱的10个方法](https://weixin.qdkfweb.cn/40503.html)
+- [Sora最大竞争对手V-JEPA已免费开源](https://weixin.qdkfweb.cn/40504.html)
+- [2023年底前端面试找工作感受](https://weixin.qdkfweb.cn/40497.html)
 <!-- BLOG-POST-LIST:END -->
