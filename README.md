@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [关于 React19，你需要了解的前因后果](https://weixin.qdkfweb.cn/40512.html)
-- [【基础复盘】JS 数组对象的 34 种官方用法](https://weixin.qdkfweb.cn/40545.html)
-- [普通人利用Sora赚钱的10个方法](https://weixin.qdkfweb.cn/40503.html)
-- [Sora最大竞争对手V-JEPA已免费开源](https://weixin.qdkfweb.cn/40504.html)
-- [2023年底前端面试找工作感受](https://weixin.qdkfweb.cn/40497.html)
+- [深入JS执行原理：一文搞定 EventLoop、宏任务、微任务](https://weixin.qdkfweb.cn/40621.html)
+- [突发！中国AI教父李一舟AI课全网下架](https://weixin.qdkfweb.cn/40590.html)
+- [面试：百度一面，吓尿了](https://weixin.qdkfweb.cn/40589.html)
+- [2024 年 React 趋势](https://weixin.qdkfweb.cn/40603.html)
+- [50 多个提高前端人效率的工具、网站和书籍整理](https://weixin.qdkfweb.cn/40600.html)
 <!-- BLOG-POST-LIST:END -->
