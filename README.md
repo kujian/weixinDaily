@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [深入JS执行原理：一文搞定 EventLoop、宏任务、微任务](https://weixin.qdkfweb.cn/40621.html)
-- [突发！中国AI教父李一舟AI课全网下架](https://weixin.qdkfweb.cn/40590.html)
-- [面试：百度一面，吓尿了](https://weixin.qdkfweb.cn/40589.html)
-- [2024 年 React 趋势](https://weixin.qdkfweb.cn/40603.html)
-- [50 多个提高前端人效率的工具、网站和书籍整理](https://weixin.qdkfweb.cn/40600.html)
+- [Stable Diffusion 3深夜横空出世！与Sora同架构](https://weixin.qdkfweb.cn/40641.html)
+- [三人团队，七天“不眠不休”，我们赶在 Vision Pro 发布的那一刻做出了一款头显应用](https://weixin.qdkfweb.cn/40645.html)
+- [code2flow，一个非常实用的 Python 库！](https://weixin.qdkfweb.cn/40648.html)
+- [认识了一个26岁前端小哥，真的有被震惊到！](https://weixin.qdkfweb.cn/40632.html)
+- [手把手教你打造一个金融大模型咨询系统](https://weixin.qdkfweb.cn/40610.html)
 <!-- BLOG-POST-LIST:END -->
