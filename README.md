@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [50 个前端效率工具、网站和书籍整理](https://weixin.qdkfweb.cn/40743.html)
-- [Node.js 2023 年终总结](https://weixin.qdkfweb.cn/40736.html)
-- [OpenAI即将关闭ChatGPT插件系统！](https://weixin.qdkfweb.cn/40716.html)
-- [中产，疯狂搞香港身份](https://weixin.qdkfweb.cn/40726.html)
-- [我的领导离职了，公司损失了一个“知识库”？](https://weixin.qdkfweb.cn/40724.html)
+- [突然爆火震惊全球！Sora发明者之一来自武汉](https://weixin.qdkfweb.cn/40761.html)
+- [OpenAI失宠，微软与Mistral展开合作！](https://weixin.qdkfweb.cn/40769.html)
+- [rdkit，一个超酷的 Python 库！](https://weixin.qdkfweb.cn/40781.html)
+- [推荐 4 个本周火火火开源项目！](https://weixin.qdkfweb.cn/40776.html)
+- [还在封装 xxxForm，xxxTable 残害你的同事？试试这个工具](https://weixin.qdkfweb.cn/40750.html)
 <!-- BLOG-POST-LIST:END -->
