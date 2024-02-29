@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [突然爆火震惊全球！Sora发明者之一来自武汉](https://weixin.qdkfweb.cn/40761.html)
-- [OpenAI失宠，微软与Mistral展开合作！](https://weixin.qdkfweb.cn/40769.html)
-- [rdkit，一个超酷的 Python 库！](https://weixin.qdkfweb.cn/40781.html)
-- [推荐 4 个本周火火火开源项目！](https://weixin.qdkfweb.cn/40776.html)
-- [还在封装 xxxForm，xxxTable 残害你的同事？试试这个工具](https://weixin.qdkfweb.cn/40750.html)
+- [多跑一些大厂面试，你就会发现……](https://weixin.qdkfweb.cn/40830.html)
+- [沉寂 600 多天后，React 憋了个大招](https://weixin.qdkfweb.cn/40810.html)
+- [【Vue3】如何封装一个超级好用的 Hook ！](https://weixin.qdkfweb.cn/40821.html)
+- [中国永远不会倒闭的四个行业](https://weixin.qdkfweb.cn/40802.html)
+- [一款适合搭建音频应用的 UI 组件库](https://weixin.qdkfweb.cn/40783.html)
 <!-- BLOG-POST-LIST:END -->
