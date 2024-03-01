@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [多跑一些大厂面试，你就会发现……](https://weixin.qdkfweb.cn/40830.html)
-- [沉寂 600 多天后，React 憋了个大招](https://weixin.qdkfweb.cn/40810.html)
-- [【Vue3】如何封装一个超级好用的 Hook ！](https://weixin.qdkfweb.cn/40821.html)
-- [中国永远不会倒闭的四个行业](https://weixin.qdkfweb.cn/40802.html)
-- [一款适合搭建音频应用的 UI 组件库](https://weixin.qdkfweb.cn/40783.html)
+- [100 个鲜为人知的 CSS 技巧汇总整理合集](https://weixin.qdkfweb.cn/40879.html)
+- [2024年，只有搞颜色的P站真正关心网站性能](https://weixin.qdkfweb.cn/40869.html)
+- [吾辈楷模！国人自研项目ioredis被Redis公司收购](https://weixin.qdkfweb.cn/40846.html)
+- [这款国产 Web 防火墙工具，开源了！](https://weixin.qdkfweb.cn/40850.html)
+- [Vue项目构建优化](https://weixin.qdkfweb.cn/40875.html)
 <!-- BLOG-POST-LIST:END -->
