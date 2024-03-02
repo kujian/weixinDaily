@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [100 个鲜为人知的 CSS 技巧汇总整理合集](https://weixin.qdkfweb.cn/40879.html)
-- [2024年，只有搞颜色的P站真正关心网站性能](https://weixin.qdkfweb.cn/40869.html)
-- [吾辈楷模！国人自研项目ioredis被Redis公司收购](https://weixin.qdkfweb.cn/40846.html)
-- [这款国产 Web 防火墙工具，开源了！](https://weixin.qdkfweb.cn/40850.html)
-- [Vue项目构建优化](https://weixin.qdkfweb.cn/40875.html)
+- [60 万单项公益创新资助！开发者改变世界的机会来了](https://weixin.qdkfweb.cn/40904.html)
+- [工作5年，还不知道团队如何巧妙统一Node版本？](https://weixin.qdkfweb.cn/40891.html)
+- [比Sora更惊艳！LTX Studio可以生成整部电影](https://weixin.qdkfweb.cn/40886.html)
+- [1345页华为OD机试题集.pdf](https://weixin.qdkfweb.cn/40893.html)
+- [尘封多年，Servo 重磅回归！Rust 加持，执行速度可超过 Chromium](https://weixin.qdkfweb.cn/40892.html)
 <!-- BLOG-POST-LIST:END -->
