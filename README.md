@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [60 万单项公益创新资助！开发者改变世界的机会来了](https://weixin.qdkfweb.cn/40904.html)
-- [工作5年，还不知道团队如何巧妙统一Node版本？](https://weixin.qdkfweb.cn/40891.html)
-- [比Sora更惊艳！LTX Studio可以生成整部电影](https://weixin.qdkfweb.cn/40886.html)
-- [1345页华为OD机试题集.pdf](https://weixin.qdkfweb.cn/40893.html)
-- [尘封多年，Servo 重磅回归！Rust 加持，执行速度可超过 Chromium](https://weixin.qdkfweb.cn/40892.html)
+- [【早说】“焦虑”到“着急” 心态从外部成功到内部提升](https://weixin.qdkfweb.cn/40924.html)
+- [类型体操之 DeepPick 工具类型](https://weixin.qdkfweb.cn/40925.html)
+- [&lt;a data-itemshowtype=&quot;0&quot; target=&quot;_blank&quot; href=&quot;http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&amp;mid=](https://weixin.qdkfweb.cn/40919.html)
+- [Node.js 吉祥物：“火箭龟”！！！](https://weixin.qdkfweb.cn/40910.html)
+- [Vue3 + TS + Svg + ECharts 实现双十一数据大屏](https://weixin.qdkfweb.cn/40909.html)
 <!-- BLOG-POST-LIST:END -->
