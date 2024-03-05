@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [一线消息：最近面试Vue3是重点！](https://weixin.qdkfweb.cn/40950.html)
-- [今年这情况，还是要多一手准备。。。](https://weixin.qdkfweb.cn/40958.html)
-- [Node.js官网大变身：从“代码宅”到“设计潮人”的华丽蜕变！](https://weixin.qdkfweb.cn/40929.html)
-- [FlutterWeb性能优化探索与实践](https://weixin.qdkfweb.cn/40930.html)
-- [这个前端Api管理方案会更好？](https://weixin.qdkfweb.cn/40940.html)
+- [如何声明 Currying 函数的类型？](https://weixin.qdkfweb.cn/41001.html)
+- [优秀运维脚本鉴赏](https://weixin.qdkfweb.cn/41008.html)
+- [思否有约｜@hfhan：学无止境，砥砺前行](https://weixin.qdkfweb.cn/41002.html)
+- [推荐 3 个火火火的 AI 项目](https://weixin.qdkfweb.cn/40981.html)
+- [真刑！开外挂抢茅台，直接判三年。。](https://weixin.qdkfweb.cn/40968.html)
 <!-- BLOG-POST-LIST:END -->
