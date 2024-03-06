@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [如何声明 Currying 函数的类型？](https://weixin.qdkfweb.cn/41001.html)
-- [优秀运维脚本鉴赏](https://weixin.qdkfweb.cn/41008.html)
-- [思否有约｜@hfhan：学无止境，砥砺前行](https://weixin.qdkfweb.cn/41002.html)
-- [推荐 3 个火火火的 AI 项目](https://weixin.qdkfweb.cn/40981.html)
-- [真刑！开外挂抢茅台，直接判三年。。](https://weixin.qdkfweb.cn/40968.html)
+- [Claude 3 正式发布！超越GPT4的大模型来了](https://weixin.qdkfweb.cn/41018.html)
+- [sora，一个必须拥抱的超级风口](https://weixin.qdkfweb.cn/41027.html)
+- [pymatting，一个神奇的 Python 库！](https://weixin.qdkfweb.cn/41029.html)
+- [Vue3 组件库 Varlet v3.0.0 发布了！支持 Material Design 3](https://weixin.qdkfweb.cn/41049.html)
+- [工作5年，还不知道团队如何巧妙统一Node版本？](https://weixin.qdkfweb.cn/41015.html)
 <!-- BLOG-POST-LIST:END -->
