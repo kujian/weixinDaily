@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude 3 正式发布！超越GPT4的大模型来了](https://weixin.qdkfweb.cn/41018.html)
-- [sora，一个必须拥抱的超级风口](https://weixin.qdkfweb.cn/41027.html)
-- [pymatting，一个神奇的 Python 库！](https://weixin.qdkfweb.cn/41029.html)
-- [Vue3 组件库 Varlet v3.0.0 发布了！支持 Material Design 3](https://weixin.qdkfweb.cn/41049.html)
-- [工作5年，还不知道团队如何巧妙统一Node版本？](https://weixin.qdkfweb.cn/41015.html)
+- [深入JS执行原理：一文搞定 EventLoop、宏任务、微任务](https://weixin.qdkfweb.cn/41094.html)
+- [有了这 5 个方法，轻松处理异步任务](https://weixin.qdkfweb.cn/41068.html)
+- [谁能告诉我这是为什么？](https://weixin.qdkfweb.cn/41082.html)
+- [全球最强大模型一夜易主，GPT-4 时代终结！Claude 3 提前狙击 GPT-5，3 秒读懂万字论文理解力接近人类](https://weixin.qdkfweb.cn/41064.html)
+- [有了这 5 个方法，轻松处理异步任务](https://weixin.qdkfweb.cn/41097.html)
 <!-- BLOG-POST-LIST:END -->
