@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [深入JS执行原理：一文搞定 EventLoop、宏任务、微任务](https://weixin.qdkfweb.cn/41094.html)
-- [有了这 5 个方法，轻松处理异步任务](https://weixin.qdkfweb.cn/41068.html)
-- [谁能告诉我这是为什么？](https://weixin.qdkfweb.cn/41082.html)
-- [全球最强大模型一夜易主，GPT-4 时代终结！Claude 3 提前狙击 GPT-5，3 秒读懂万字论文理解力接近人类](https://weixin.qdkfweb.cn/41064.html)
-- [有了这 5 个方法，轻松处理异步任务](https://weixin.qdkfweb.cn/41097.html)
+- [回县城躺平，感觉我的人生过得好失败](https://weixin.qdkfweb.cn/41143.html)
+- [抛弃 NPM ？ Node.js 社区正为启用新的包管理方式争论不休！](https://weixin.qdkfweb.cn/41117.html)
+- [实现vue3响应式系统核心-MVP 模型](https://weixin.qdkfweb.cn/41146.html)
+- [React 19 发布在即，抢先学习一下新特性](https://weixin.qdkfweb.cn/41111.html)
+- [既然都卡 35 岁，那么怎么工作到 65 岁？](https://weixin.qdkfweb.cn/41109.html)
 <!-- BLOG-POST-LIST:END -->
