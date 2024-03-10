@@ -15,8 +15,8 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [前端接口防止重复请求实现方案](https://weixin.qdkfweb.cn/41178.html)
 - [前端重新部署如何使用WebWorker优雅地通知用户刷新网页?](https://weixin.qdkfweb.cn/41179.html)
+- [前端接口防止重复请求实现方案](https://weixin.qdkfweb.cn/41178.html)
 - [如何使用Docker来渐进式提升开发及部署体验](https://weixin.qdkfweb.cn/41184.html)
 - [&lt;a data-linktype=&quot;2&quot; localeditorid=&quot;v14ec5gzwhhq4e5a0w&quot; target=&quot;_blank&quot; textvalue=&quot;《如何利用ChatGPT自动生成工](https://weixin.qdkfweb.cn/41193.html)
 - [JavaScript 引擎 V8 近期 8 个顶级更新~](https://weixin.qdkfweb.cn/41195.html)
