@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [一个普通三本学渣，大厂之路](https://weixin.qdkfweb.cn/41168.html)
-- [华为发布 DiT 架构的图像生成模型，可直出 4K 分辨率图像。](https://weixin.qdkfweb.cn/41156.html)
-- [用 JS 揭秘刘谦春晚魔术的魅力！](https://weixin.qdkfweb.cn/41151.html)
-- [砍掉百万行代码，这些巨头开始给自家 App “割肉瘦身”](https://weixin.qdkfweb.cn/41161.html)
-- [dowhy，一个超强的 Python 库！](https://weixin.qdkfweb.cn/41166.html)
+- [前端接口防止重复请求实现方案](https://weixin.qdkfweb.cn/41178.html)
+- [前端重新部署如何使用WebWorker优雅地通知用户刷新网页?](https://weixin.qdkfweb.cn/41179.html)
+- [如何使用Docker来渐进式提升开发及部署体验](https://weixin.qdkfweb.cn/41184.html)
+- [&lt;a data-linktype=&quot;2&quot; localeditorid=&quot;v14ec5gzwhhq4e5a0w&quot; target=&quot;_blank&quot; textvalue=&quot;《如何利用ChatGPT自动生成工](https://weixin.qdkfweb.cn/41193.html)
+- [JavaScript 引擎 V8 近期 8 个顶级更新~](https://weixin.qdkfweb.cn/41195.html)
 <!-- BLOG-POST-LIST:END -->
