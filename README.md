@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [前端接口防止重复请求实现方案](https://weixin.qdkfweb.cn/41178.html)
-- [前端重新部署如何使用WebWorker优雅地通知用户刷新网页?](https://weixin.qdkfweb.cn/41179.html)
-- [如何使用Docker来渐进式提升开发及部署体验](https://weixin.qdkfweb.cn/41184.html)
-- [&lt;a data-linktype=&quot;2&quot; localeditorid=&quot;v14ec5gzwhhq4e5a0w&quot; target=&quot;_blank&quot; textvalue=&quot;《如何利用ChatGPT自动生成工](https://weixin.qdkfweb.cn/41193.html)
-- [JavaScript 引擎 V8 近期 8 个顶级更新~](https://weixin.qdkfweb.cn/41195.html)
+- [深度解读UUID：结构、原理以及生成机制](https://weixin.qdkfweb.cn/41235.html)
+- [V8引擎Promise源码全面解读（深度好文）](https://weixin.qdkfweb.cn/41201.html)
+- [前端技术日新月异，如何才能与时俱进～](https://weixin.qdkfweb.cn/41202.html)
+- [Strapi让纯前端成为全栈不再是口号！](https://weixin.qdkfweb.cn/41211.html)
+- [rust 正在全面入侵前端](https://weixin.qdkfweb.cn/41208.html)
 <!-- BLOG-POST-LIST:END -->
