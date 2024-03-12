@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [深度解读UUID：结构、原理以及生成机制](https://weixin.qdkfweb.cn/41235.html)
-- [V8引擎Promise源码全面解读（深度好文）](https://weixin.qdkfweb.cn/41201.html)
-- [前端技术日新月异，如何才能与时俱进～](https://weixin.qdkfweb.cn/41202.html)
-- [Strapi让纯前端成为全栈不再是口号！](https://weixin.qdkfweb.cn/41211.html)
-- [rust 正在全面入侵前端](https://weixin.qdkfweb.cn/41208.html)
+- [Volar更名为 Vue-Official：这 3 大更新必须知道！！！](https://weixin.qdkfweb.cn/41265.html)
+- [特立独行？尤雨溪领衔，Vue 团队开源 Rust 打包工具](https://weixin.qdkfweb.cn/41266.html)
+- [通杀无限 debugger，目前只有 1% 的人知道！](https://weixin.qdkfweb.cn/41263.html)
+- [3 月，一个新方向爆了！70k 很稳](https://weixin.qdkfweb.cn/41262.html)
+- [谁能拒绝一个接私活的绝佳平台呢？](https://weixin.qdkfweb.cn/41269.html)
 <!-- BLOG-POST-LIST:END -->
