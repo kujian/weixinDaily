@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [Volar更名为 Vue-Official：这 3 大更新必须知道！！！](https://weixin.qdkfweb.cn/41265.html)
-- [特立独行？尤雨溪领衔，Vue 团队开源 Rust 打包工具](https://weixin.qdkfweb.cn/41266.html)
-- [3 月，一个新方向爆了！70k 很稳](https://weixin.qdkfweb.cn/41262.html)
-- [通杀无限 debugger，目前只有 1% 的人知道！](https://weixin.qdkfweb.cn/41263.html)
-- [谁能拒绝一个接私活的绝佳平台呢？](https://weixin.qdkfweb.cn/41269.html)
+- [一个问题 Next.js 给了我 3 种方案，仍未彻底解决...](https://weixin.qdkfweb.cn/41299.html)
+- [宝哥的前端故事：那些年我们一起解决的复杂需求，你遇到过吗？](https://weixin.qdkfweb.cn/41293.html)
+- [终于来了！ Midjourney角色一致性功能发布](https://weixin.qdkfweb.cn/41294.html)
+- [本周 4 个 炫炫炫炫 的开源项目](https://weixin.qdkfweb.cn/41302.html)
+- [html2text，一个强大的 Python 库！](https://weixin.qdkfweb.cn/41307.html)
 <!-- BLOG-POST-LIST:END -->
