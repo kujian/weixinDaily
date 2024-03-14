@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [一个问题 Next.js 给了我 3 种方案，仍未彻底解决...](https://weixin.qdkfweb.cn/41299.html)
-- [宝哥的前端故事：那些年我们一起解决的复杂需求，你遇到过吗？](https://weixin.qdkfweb.cn/41293.html)
-- [终于来了！ Midjourney角色一致性功能发布](https://weixin.qdkfweb.cn/41294.html)
-- [本周 4 个 炫炫炫炫 的开源项目](https://weixin.qdkfweb.cn/41302.html)
-- [html2text，一个强大的 Python 库！](https://weixin.qdkfweb.cn/41307.html)
+- [vue3项目同事用 provide+ref 组件实例进行跨组件通信 ，给我看傻了](https://weixin.qdkfweb.cn/41347.html)
+- [重磅！全球首位AI软件工程师：Devin 来了。。。](https://weixin.qdkfweb.cn/41339.html)
+- [46.2k Star！无需GPU轻松在本地运行多种大模型，支持Llama2、Gemma等~](https://weixin.qdkfweb.cn/41340.html)
+- [生成式 AI，前端开发的终结者？无障碍组件告诉你：NO！](https://weixin.qdkfweb.cn/41348.html)
+- [48.8k Star！这个爆火的高质量前端工具集超实用！](https://weixin.qdkfweb.cn/41341.html)
 <!-- BLOG-POST-LIST:END -->
