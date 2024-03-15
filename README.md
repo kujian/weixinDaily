@@ -18,6 +18,6 @@
 - [前端Chrome调试技巧最全汇总！](https://weixin.qdkfweb.cn/41407.html)
 - [38岁被裁员补偿百万，是危机还是转机？](https://weixin.qdkfweb.cn/41374.html)
 - [mrq，一个实用的 Python 库！](https://weixin.qdkfweb.cn/41392.html)
-- [前端重新部署如何使用WebWorker优雅地通知用户刷新网页?](https://weixin.qdkfweb.cn/41405.html)
 - [GitHub顶流&quot;Web OS&quot;——运行于浏览器的桌面操作系统、用户超100万、原生jQuery和JS编写](https://weixin.qdkfweb.cn/41404.html)
+- [前端重新部署如何使用WebWorker优雅地通知用户刷新网页?](https://weixin.qdkfweb.cn/41405.html)
 <!-- BLOG-POST-LIST:END -->
