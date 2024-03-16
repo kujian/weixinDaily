@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [前端Chrome调试技巧最全汇总！](https://weixin.qdkfweb.cn/41407.html)
-- [38岁被裁员补偿百万，是危机还是转机？](https://weixin.qdkfweb.cn/41374.html)
-- [mrq，一个实用的 Python 库！](https://weixin.qdkfweb.cn/41392.html)
-- [GitHub顶流&quot;Web OS&quot;——运行于浏览器的桌面操作系统、用户超100万、原生jQuery和JS编写](https://weixin.qdkfweb.cn/41404.html)
-- [前端重新部署如何使用WebWorker优雅地通知用户刷新网页?](https://weixin.qdkfweb.cn/41405.html)
+- [用1100天做一款通用的管理后台框架](https://weixin.qdkfweb.cn/41426.html)
+- [从单一收入到自由职业：宝哥多元化收入探索之旅](https://weixin.qdkfweb.cn/41421.html)
+- [李彦宏“程序员将不再存在”言论被周鸿祎驳斥，网友怒怼：先把百度程序员都开除了！](https://weixin.qdkfweb.cn/41427.html)
+- [configobj，一个有趣的 Python 库！](https://weixin.qdkfweb.cn/41429.html)
+- [VS Code 摸鱼神器，确定不试一下？](https://weixin.qdkfweb.cn/41424.html)
 <!-- BLOG-POST-LIST:END -->
