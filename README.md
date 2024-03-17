@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [用1100天做一款通用的管理后台框架](https://weixin.qdkfweb.cn/41426.html)
-- [从单一收入到自由职业：宝哥多元化收入探索之旅](https://weixin.qdkfweb.cn/41421.html)
-- [李彦宏“程序员将不再存在”言论被周鸿祎驳斥，网友怒怼：先把百度程序员都开除了！](https://weixin.qdkfweb.cn/41427.html)
-- [configobj，一个有趣的 Python 库！](https://weixin.qdkfweb.cn/41429.html)
-- [VS Code 摸鱼神器，确定不试一下？](https://weixin.qdkfweb.cn/41424.html)
+- [Vue 加载远程组件的解决方案](https://weixin.qdkfweb.cn/41435.html)
+- [单点登录（SSO）实现详解！！！](https://weixin.qdkfweb.cn/41436.html)
+- [unocss 究竟比 tailwindcss 快多少？](https://weixin.qdkfweb.cn/41439.html)
+- [还学的动吗？号称最快的 JS 运行时 WinterJS 发布！速度对标 Bun、支持 RSC...](https://weixin.qdkfweb.cn/41442.html)
+- [3.9K star！快速清理微信垃圾文件，给你的微信瘦瘦身](https://weixin.qdkfweb.cn/41438.html)
 <!-- BLOG-POST-LIST:END -->
