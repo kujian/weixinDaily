@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [Vue 加载远程组件的解决方案](https://weixin.qdkfweb.cn/41435.html)
-- [单点登录（SSO）实现详解！！！](https://weixin.qdkfweb.cn/41436.html)
-- [unocss 究竟比 tailwindcss 快多少？](https://weixin.qdkfweb.cn/41439.html)
-- [还学的动吗？号称最快的 JS 运行时 WinterJS 发布！速度对标 Bun、支持 RSC...](https://weixin.qdkfweb.cn/41442.html)
-- [3.9K star！快速清理微信垃圾文件，给你的微信瘦瘦身](https://weixin.qdkfweb.cn/41438.html)
+- [我最近的生活，一地鸡毛。。。](https://weixin.qdkfweb.cn/41486.html)
+- [用 Scrapy 爬取 5 秒盾站点，结果万万没想到，速度可以这么快！](https://weixin.qdkfweb.cn/41453.html)
+- [揭秘AI浪潮：这50款应用颠覆你的认知！](https://weixin.qdkfweb.cn/41449.html)
+- [面试官:手写三数之和](https://weixin.qdkfweb.cn/41457.html)
+- [Web 版 VS Code 运行任何语言！纯前端环境，无后端，免费，开源](https://weixin.qdkfweb.cn/41458.html)
 <!-- BLOG-POST-LIST:END -->
