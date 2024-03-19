@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [我最近的生活，一地鸡毛。。。](https://weixin.qdkfweb.cn/41486.html)
-- [用 Scrapy 爬取 5 秒盾站点，结果万万没想到，速度可以这么快！](https://weixin.qdkfweb.cn/41453.html)
-- [揭秘AI浪潮：这50款应用颠覆你的认知！](https://weixin.qdkfweb.cn/41449.html)
-- [面试官:手写三数之和](https://weixin.qdkfweb.cn/41457.html)
-- [Web 版 VS Code 运行任何语言！纯前端环境，无后端，免费，开源](https://weixin.qdkfweb.cn/41458.html)
+- [如何防止输入框的值被篡改？](https://weixin.qdkfweb.cn/41531.html)
+- [前端开发必须知道的抓包神器！](https://weixin.qdkfweb.cn/41525.html)
+- [深圳招前端，速来](https://weixin.qdkfweb.cn/41504.html)
+- [马斯克突然开源 Grok：3140 亿参数巨无霸，免费可商用](https://weixin.qdkfweb.cn/41506.html)
+- [Open-Sora 已开源！！！](https://weixin.qdkfweb.cn/41499.html)
 <!-- BLOG-POST-LIST:END -->
