@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [如何防止输入框的值被篡改？](https://weixin.qdkfweb.cn/41531.html)
-- [前端开发必须知道的抓包神器！](https://weixin.qdkfweb.cn/41525.html)
-- [深圳招前端，速来](https://weixin.qdkfweb.cn/41504.html)
-- [马斯克突然开源 Grok：3140 亿参数巨无霸，免费可商用](https://weixin.qdkfweb.cn/41506.html)
-- [Open-Sora 已开源！！！](https://weixin.qdkfweb.cn/41499.html)
+- [as const 5 种使用技巧](https://weixin.qdkfweb.cn/41571.html)
+- [使用Canvas封装图片压缩功能！](https://weixin.qdkfweb.cn/41563.html)
+- [前端小师妹进大厂的前端开发学习经验](https://weixin.qdkfweb.cn/41538.html)
+- [裁员为什么先裁技术人员？网友一针见血](https://weixin.qdkfweb.cn/41542.html)
+- [一款开源的离线识别OCR，正在疯传中~](https://weixin.qdkfweb.cn/41543.html)
 <!-- BLOG-POST-LIST:END -->
