@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [as const 5 种使用技巧](https://weixin.qdkfweb.cn/41571.html)
-- [使用Canvas封装图片压缩功能！](https://weixin.qdkfweb.cn/41563.html)
-- [前端小师妹进大厂的前端开发学习经验](https://weixin.qdkfweb.cn/41538.html)
-- [裁员为什么先裁技术人员？网友一针见血](https://weixin.qdkfweb.cn/41542.html)
-- [一款开源的离线识别OCR，正在疯传中~](https://weixin.qdkfweb.cn/41543.html)
+- [世界上最流行的数据库，竟然是套壳的 ！](https://weixin.qdkfweb.cn/41616.html)
+- [Lodash已过时，试试它吧！](https://weixin.qdkfweb.cn/41592.html)
+- [某员工爆料，跳槽PDD，薪资涨幅真不错！每天十点回家，周六加班拼老命。。。](https://weixin.qdkfweb.cn/41582.html)
+- [Vue 的响应式机制就是个“坑”](https://weixin.qdkfweb.cn/41593.html)
+- [psutil，一个超强的 Python 库！](https://weixin.qdkfweb.cn/41597.html)
 <!-- BLOG-POST-LIST:END -->
