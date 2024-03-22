@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [世界上最流行的数据库，竟然是套壳的 ！](https://weixin.qdkfweb.cn/41616.html)
-- [Lodash已过时，试试它吧！](https://weixin.qdkfweb.cn/41592.html)
-- [某员工爆料，跳槽PDD，薪资涨幅真不错！每天十点回家，周六加班拼老命。。。](https://weixin.qdkfweb.cn/41582.html)
-- [Vue 的响应式机制就是个“坑”](https://weixin.qdkfweb.cn/41593.html)
-- [psutil，一个超强的 Python 库！](https://weixin.qdkfweb.cn/41597.html)
+- [.NET 数据库大数据方案（插入、更新、删除、查询 、插入或更新）](https://weixin.qdkfweb.cn/41620.html)
+- [携手 Google 召集创新者！思否今年第一场黑客马拉松来了](https://weixin.qdkfweb.cn/41661.html)
+- [关于 async/await 你不知道的真相](https://weixin.qdkfweb.cn/41644.html)
+- [马斯克脑机接口公司Neuralink直播首位人类受试者近况](https://weixin.qdkfweb.cn/41629.html)
+- [qiankun？这次我选了wujie！](https://weixin.qdkfweb.cn/41653.html)
 <!-- BLOG-POST-LIST:END -->
