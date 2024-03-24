@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [VSCode最强插件合集，助你代码开发效率翻倍！](https://weixin.qdkfweb.cn/41667.html)
-- [SQL性能优化的47个小技巧，果断收藏！](https://weixin.qdkfweb.cn/41668.html)
-- [这几个vscode插件冷门，但绝对好用！](https://weixin.qdkfweb.cn/41671.html)
-- [商汤科技，彻底爆了。。。](https://weixin.qdkfweb.cn/41676.html)
-- [一个令人惊艳的国产 AI 神器，诞生了！](https://weixin.qdkfweb.cn/41674.html)
+- [适用于Vue 3的高颜值UI组件库！](https://weixin.qdkfweb.cn/41693.html)
+- [Lodash已过时，试试它吧！](https://weixin.qdkfweb.cn/41690.html)
+- [React高阶组件&lpar;HOC&rpar;的入门及实践](https://weixin.qdkfweb.cn/41691.html)
+- [dataset，一个有趣的 Python 库！](https://weixin.qdkfweb.cn/41697.html)
+- [Antfu 全职开源四年：当爱好变成职业，我发现一切并没有那么简单](https://weixin.qdkfweb.cn/41692.html)
 <!-- BLOG-POST-LIST:END -->
