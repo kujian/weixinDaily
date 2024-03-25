@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [适用于Vue 3的高颜值UI组件库！](https://weixin.qdkfweb.cn/41693.html)
-- [Lodash已过时，试试它吧！](https://weixin.qdkfweb.cn/41690.html)
-- [React高阶组件&lpar;HOC&rpar;的入门及实践](https://weixin.qdkfweb.cn/41691.html)
-- [dataset，一个有趣的 Python 库！](https://weixin.qdkfweb.cn/41697.html)
-- [Antfu 全职开源四年：当爱好变成职业，我发现一切并没有那么简单](https://weixin.qdkfweb.cn/41692.html)
+- [实现Vue3响应式系统核心-MVP 模型](https://weixin.qdkfweb.cn/41706.html)
+- [全球首个类 Sora 开源复现方案来了！全面公开所有训练细节和模型权重](https://weixin.qdkfweb.cn/41712.html)
+- [sourcemap曳光弹 - 通过sourcemap直接将线上错误定位到源代码](https://weixin.qdkfweb.cn/41728.html)
+- [useSyncExternalStore Hook 有啥用？](https://weixin.qdkfweb.cn/41737.html)
+- [异步难题：前端并发控制全解析](https://weixin.qdkfweb.cn/41713.html)
 <!-- BLOG-POST-LIST:END -->
