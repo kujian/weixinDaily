@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [实现Vue3响应式系统核心-MVP 模型](https://weixin.qdkfweb.cn/41706.html)
-- [全球首个类 Sora 开源复现方案来了！全面公开所有训练细节和模型权重](https://weixin.qdkfweb.cn/41712.html)
-- [sourcemap曳光弹 - 通过sourcemap直接将线上错误定位到源代码](https://weixin.qdkfweb.cn/41728.html)
-- [useSyncExternalStore Hook 有啥用？](https://weixin.qdkfweb.cn/41737.html)
-- [异步难题：前端并发控制全解析](https://weixin.qdkfweb.cn/41713.html)
+- [Chrome 123 推出了一个新的 CSS 属性！](https://weixin.qdkfweb.cn/41786.html)
+- [手机党注意了，这样做会秒毁摄像头！](https://weixin.qdkfweb.cn/41745.html)
+- [C# 10 完整特性介绍](https://weixin.qdkfweb.cn/41746.html)
+- [首部 Node.js 纪录片发布！强烈推荐观看！](https://weixin.qdkfweb.cn/41777.html)
+- [谷歌要让Angular再次伟大——正在与内部JS框架Wiz进行合并](https://weixin.qdkfweb.cn/41779.html)
 <!-- BLOG-POST-LIST:END -->
