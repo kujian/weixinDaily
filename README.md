@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [Chrome 123 推出了一个新的 CSS 属性！](https://weixin.qdkfweb.cn/41786.html)
-- [手机党注意了，这样做会秒毁摄像头！](https://weixin.qdkfweb.cn/41745.html)
-- [C# 10 完整特性介绍](https://weixin.qdkfweb.cn/41746.html)
-- [首部 Node.js 纪录片发布！强烈推荐观看！](https://weixin.qdkfweb.cn/41777.html)
-- [谷歌要让Angular再次伟大——正在与内部JS框架Wiz进行合并](https://weixin.qdkfweb.cn/41779.html)
+- [尤雨溪官宣正式推出 VitePress 1.0](https://weixin.qdkfweb.cn/41806.html)
+- [CommonJS 和 ES Module 终于要互相兼容了？？？](https://weixin.qdkfweb.cn/41803.html)
+- [Google Cloud Next ’24：云服务搭台，主角是 AI](https://weixin.qdkfweb.cn/41827.html)
+- [aiokafka，一个非常实用的 Python 库！](https://weixin.qdkfweb.cn/41808.html)
+- [再发个蚂蚁的前端招聘，急!急!急!](https://weixin.qdkfweb.cn/41802.html)
 <!-- BLOG-POST-LIST:END -->
