@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [尤雨溪官宣正式推出 VitePress 1.0](https://weixin.qdkfweb.cn/41806.html)
-- [CommonJS 和 ES Module 终于要互相兼容了？？？](https://weixin.qdkfweb.cn/41803.html)
-- [Google Cloud Next ’24：云服务搭台，主角是 AI](https://weixin.qdkfweb.cn/41827.html)
-- [aiokafka，一个非常实用的 Python 库！](https://weixin.qdkfweb.cn/41808.html)
-- [再发个蚂蚁的前端招聘，急!急!急!](https://weixin.qdkfweb.cn/41802.html)
+- [2024 年，这些 VS Code 插件可以卸载了！](https://weixin.qdkfweb.cn/41840.html)
+- [26个写出简洁优雅JavaScript代码的技巧](https://weixin.qdkfweb.cn/41880.html)
+- [谷歌要让Angular再次伟大——正在与内部JS框架Wiz进行合并](https://weixin.qdkfweb.cn/41868.html)
+- [网友吐槽：除了boss，其他招聘APP都凉了？](https://weixin.qdkfweb.cn/41836.html)
+- [国内 AI 重大机遇！请马上入局！](https://weixin.qdkfweb.cn/41845.html)
 <!-- BLOG-POST-LIST:END -->
