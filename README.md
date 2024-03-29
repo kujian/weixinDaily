@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [2024 年，这些 VS Code 插件可以卸载了！](https://weixin.qdkfweb.cn/41840.html)
-- [26个写出简洁优雅JavaScript代码的技巧](https://weixin.qdkfweb.cn/41880.html)
-- [谷歌要让Angular再次伟大——正在与内部JS框架Wiz进行合并](https://weixin.qdkfweb.cn/41868.html)
-- [网友吐槽：除了boss，其他招聘APP都凉了？](https://weixin.qdkfweb.cn/41836.html)
-- [国内 AI 重大机遇！请马上入局！](https://weixin.qdkfweb.cn/41845.html)
+- [3 个超酷的 Node.js 新功能！](https://weixin.qdkfweb.cn/41924.html)
+- [如何使用 JavaScript 阻止屏幕进入睡眠状态](https://weixin.qdkfweb.cn/41902.html)
+- [终于等到你！JS全新API支持关闭页面时安全发送网络请求](https://weixin.qdkfweb.cn/41899.html)
+- [测试，确实可以封神了！](https://weixin.qdkfweb.cn/41906.html)
+- [Heygen发布Avatar in Motion 1.0，可精确控制口型](https://weixin.qdkfweb.cn/41895.html)
 <!-- BLOG-POST-LIST:END -->
