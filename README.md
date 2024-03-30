@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [3 个超酷的 Node.js 新功能！](https://weixin.qdkfweb.cn/41924.html)
-- [如何使用 JavaScript 阻止屏幕进入睡眠状态](https://weixin.qdkfweb.cn/41902.html)
-- [终于等到你！JS全新API支持关闭页面时安全发送网络请求](https://weixin.qdkfweb.cn/41899.html)
-- [测试，确实可以封神了！](https://weixin.qdkfweb.cn/41906.html)
-- [Heygen发布Avatar in Motion 1.0，可精确控制口型](https://weixin.qdkfweb.cn/41895.html)
+- [特效炸裂：小米 SU7 在线特效网站技术不完全揭秘！！！](https://weixin.qdkfweb.cn/41943.html)
+- [灰产吃瓜：国区Zlibrary发生内讧？](https://weixin.qdkfweb.cn/41928.html)
+- [令人难以置信！这个类型推断问题在 TS 5.5 被解决了！](https://weixin.qdkfweb.cn/41931.html)
+- [将 iOS 应用体积缩小一半的秘籍：妥善运用动态框架](https://weixin.qdkfweb.cn/41932.html)
+- [iredis，一个超强的 Python 库！](https://weixin.qdkfweb.cn/41933.html)
 <!-- BLOG-POST-LIST:END -->
