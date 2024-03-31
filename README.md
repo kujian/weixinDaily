@@ -15,8 +15,8 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [VUE中常用的4种高级特性！](https://weixin.qdkfweb.cn/41949.html)
 - [Vue3 + Three.js 商城可视化实战](https://weixin.qdkfweb.cn/41948.html)
+- [VUE中常用的4种高级特性！](https://weixin.qdkfweb.cn/41949.html)
 - [开发 AI Bot 变得如此简单！](https://weixin.qdkfweb.cn/41960.html)
 - [通过调试技术，我理清了 b 站视频播放很快的原理](https://weixin.qdkfweb.cn/41945.html)
 - [pyjanitor，一个强大的 Python 库！](https://weixin.qdkfweb.cn/41953.html)
