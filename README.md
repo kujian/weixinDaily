@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [Vue3 + Three.js 商城可视化实战](https://weixin.qdkfweb.cn/41948.html)
-- [VUE中常用的4种高级特性！](https://weixin.qdkfweb.cn/41949.html)
-- [开发 AI Bot 变得如此简单！](https://weixin.qdkfweb.cn/41960.html)
-- [通过调试技术，我理清了 b 站视频播放很快的原理](https://weixin.qdkfweb.cn/41945.html)
-- [pyjanitor，一个强大的 Python 库！](https://weixin.qdkfweb.cn/41953.html)
+- [为了防止狗上沙发，写了一个浏览器实时识别目标检测功能！](https://weixin.qdkfweb.cn/41992.html)
+- [.NET 开发都应掌握C#泛型的知识点](https://weixin.qdkfweb.cn/41963.html)
+- [Node.js 新官网来了！为何选用了 Next.js?](https://weixin.qdkfweb.cn/41965.html)
+- [啥情况？npm 上出现 “老实人怎么追女生？” 相关模块...](https://weixin.qdkfweb.cn/41985.html)
+- [Angular 重磅回归，能否重回巅峰？](https://weixin.qdkfweb.cn/41967.html)
 <!-- BLOG-POST-LIST:END -->
