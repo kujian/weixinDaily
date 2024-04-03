@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [40道经典ReactJS 面试附答案](https://weixin.qdkfweb.cn/42038.html)
-- [40道ReactJS 面试问题及答案](https://weixin.qdkfweb.cn/42054.html)
-- [面试的 10 大潜规则，千万不要踩坑！](https://weixin.qdkfweb.cn/42055.html)
-- [超越面试官：揭秘前端不常见的HTTP状态码，NodeJS与Nginx实战教程！](https://weixin.qdkfweb.cn/42029.html)
-- [紧跟时代潮流！这次 Node.js 新官网选择了 Next.js](https://weixin.qdkfweb.cn/42035.html)
+- [你必须知道的一些 CSS 特性！](https://weixin.qdkfweb.cn/42091.html)
+- [除了 Chrome，这些浏览器你也值得拥有！](https://weixin.qdkfweb.cn/42069.html)
+- [基于nginx+ffmpeg+vue3+TypeScript在网页上显示监控的实时画面](https://weixin.qdkfweb.cn/42074.html)
+- [【验证码逆向专栏】xx80 邮箱多种类验证码逆向分析](https://weixin.qdkfweb.cn/42068.html)
+- [s4cmd，一个非常实用的 Python 库！](https://weixin.qdkfweb.cn/42078.html)
 <!-- BLOG-POST-LIST:END -->
