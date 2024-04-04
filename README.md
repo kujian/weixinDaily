@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [你必须知道的一些 CSS 特性！](https://weixin.qdkfweb.cn/42091.html)
-- [除了 Chrome，这些浏览器你也值得拥有！](https://weixin.qdkfweb.cn/42069.html)
-- [基于nginx+ffmpeg+vue3+TypeScript在网页上显示监控的实时画面](https://weixin.qdkfweb.cn/42074.html)
-- [【验证码逆向专栏】xx80 邮箱多种类验证码逆向分析](https://weixin.qdkfweb.cn/42068.html)
-- [s4cmd，一个非常实用的 Python 库！](https://weixin.qdkfweb.cn/42078.html)
+- [实现 antd 的 Popover 组件，可以很简单](https://weixin.qdkfweb.cn/42122.html)
+- [去某书面试，因年龄超过32岁被拒了。。。](https://weixin.qdkfweb.cn/42104.html)
+- [LinkedIn 应用体积臃肿达 500 MB，网友怒喷：大厂开发者都没有动力创造优秀应用？！](https://weixin.qdkfweb.cn/42107.html)
+- [Vue 中文名官宣，威优易……](https://weixin.qdkfweb.cn/42113.html)
+- [B端体验优化的风向标—— INP](https://weixin.qdkfweb.cn/42118.html)
 <!-- BLOG-POST-LIST:END -->
