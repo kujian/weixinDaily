@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [实现 antd 的 Popover 组件，可以很简单](https://weixin.qdkfweb.cn/42122.html)
-- [去某书面试，因年龄超过32岁被拒了。。。](https://weixin.qdkfweb.cn/42104.html)
-- [LinkedIn 应用体积臃肿达 500 MB，网友怒喷：大厂开发者都没有动力创造优秀应用？！](https://weixin.qdkfweb.cn/42107.html)
-- [Vue 中文名官宣，威优易……](https://weixin.qdkfweb.cn/42113.html)
-- [B端体验优化的风向标—— INP](https://weixin.qdkfweb.cn/42118.html)
+- [无需服务器！浏览器上直接运行近 700 个 AI 模型！](https://weixin.qdkfweb.cn/42133.html)
+- [JS 的 AI 时代来了！](https://weixin.qdkfweb.cn/42126.html)
+- [曾经风靡一时的 jQuery，现在还有必要学习吗？](https://weixin.qdkfweb.cn/42124.html)
+- [实战（简单）：20分钟页面不操作，页面失效](https://weixin.qdkfweb.cn/42131.html)
+- [原生 canvas 如何实现大屏?](https://weixin.qdkfweb.cn/42132.html)
 <!-- BLOG-POST-LIST:END -->
