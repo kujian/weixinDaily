@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [无需服务器！浏览器上直接运行近 700 个 AI 模型！](https://weixin.qdkfweb.cn/42133.html)
-- [JS 的 AI 时代来了！](https://weixin.qdkfweb.cn/42126.html)
-- [曾经风靡一时的 jQuery，现在还有必要学习吗？](https://weixin.qdkfweb.cn/42124.html)
-- [实战（简单）：20分钟页面不操作，页面失效](https://weixin.qdkfweb.cn/42131.html)
-- [原生 canvas 如何实现大屏?](https://weixin.qdkfweb.cn/42132.html)
+- [LocalStorage 还能这么用？](https://weixin.qdkfweb.cn/42137.html)
+- [15个CSS 常见错误，请一定要注意避免](https://weixin.qdkfweb.cn/42138.html)
+- [无需服务器！浏览器上直接运行近 700 个 AI 模型！](https://weixin.qdkfweb.cn/42140.html)
+- [JS 的 AI 时代来了！](https://weixin.qdkfweb.cn/42147.html)
+- [99%的前端小白都做错了！你还在做这些过时的项目吗？](https://weixin.qdkfweb.cn/42135.html)
 <!-- BLOG-POST-LIST:END -->
