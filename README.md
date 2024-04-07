@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [15个CSS 常见错误，请一定要注意避免](https://weixin.qdkfweb.cn/42138.html)
-- [LocalStorage 还能这么用？](https://weixin.qdkfweb.cn/42137.html)
-- [无需服务器！浏览器上直接运行近 700 个 AI 模型！](https://weixin.qdkfweb.cn/42140.html)
-- [JS 的 AI 时代来了！](https://weixin.qdkfweb.cn/42147.html)
-- [99%的前端小白都做错了！你还在做这些过时的项目吗？](https://weixin.qdkfweb.cn/42135.html)
+- [字节三年，谈谈一线团队如何搞工程化](https://weixin.qdkfweb.cn/42150.html)
+- [LocalStorage 还能这么用？](https://weixin.qdkfweb.cn/42156.html)
+- [男女洗澡前后区别，太形象了！](https://weixin.qdkfweb.cn/42159.html)
+- [ESlint 重大更新](https://weixin.qdkfweb.cn/42153.html)
+- [受 TypeScript 启发，微软又搞了一个神器！](https://weixin.qdkfweb.cn/42173.html)
 <!-- BLOG-POST-LIST:END -->
