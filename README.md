@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [字节三年，谈谈一线团队如何搞工程化](https://weixin.qdkfweb.cn/42150.html)
-- [LocalStorage 还能这么用？](https://weixin.qdkfweb.cn/42156.html)
-- [男女洗澡前后区别，太形象了！](https://weixin.qdkfweb.cn/42159.html)
-- [ESlint 重大更新](https://weixin.qdkfweb.cn/42153.html)
-- [受 TypeScript 启发，微软又搞了一个神器！](https://weixin.qdkfweb.cn/42173.html)
+- [1MB的神奇AI，检测百万文件，99%的准确率！](https://weixin.qdkfweb.cn/42222.html)
+- [手写一个 OnBoarding 组件](https://weixin.qdkfweb.cn/42224.html)
+- [17个强大的 AI 工具，让你的工作效率翻倍](https://weixin.qdkfweb.cn/42231.html)
+- [26 个写高效干净JavaScript 的小技巧](https://weixin.qdkfweb.cn/42232.html)
+- [您必须了解的 21 个 HTML 技巧](https://weixin.qdkfweb.cn/42233.html)
 <!-- BLOG-POST-LIST:END -->
