@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [1MB的神奇AI，检测百万文件，99%的准确率！](https://weixin.qdkfweb.cn/42222.html)
-- [手写一个 OnBoarding 组件](https://weixin.qdkfweb.cn/42224.html)
-- [17个强大的 AI 工具，让你的工作效率翻倍](https://weixin.qdkfweb.cn/42231.html)
-- [26 个写高效干净JavaScript 的小技巧](https://weixin.qdkfweb.cn/42232.html)
-- [您必须了解的 21 个 HTML 技巧](https://weixin.qdkfweb.cn/42233.html)
+- [Signals 标准化提案发布了！](https://weixin.qdkfweb.cn/42268.html)
+- [1MB的神奇AI，检测百万文件，99%的准确率！](https://weixin.qdkfweb.cn/42245.html)
+- [基本工资3800，绩效工资47800...](https://weixin.qdkfweb.cn/42250.html)
+- [重磅！安卓手机上也能运行大型AI模型了！](https://weixin.qdkfweb.cn/42240.html)
+- [这活儿干不下去了：十几年积累的 300 万行代码，领导要全部“快速”重写，我直接辞职了](https://weixin.qdkfweb.cn/42248.html)
 <!-- BLOG-POST-LIST:END -->
