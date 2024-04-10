@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [Signals 标准化提案发布了！](https://weixin.qdkfweb.cn/42268.html)
-- [1MB的神奇AI，检测百万文件，99%的准确率！](https://weixin.qdkfweb.cn/42245.html)
-- [基本工资3800，绩效工资47800...](https://weixin.qdkfweb.cn/42250.html)
-- [重磅！安卓手机上也能运行大型AI模型了！](https://weixin.qdkfweb.cn/42240.html)
-- [这活儿干不下去了：十几年积累的 300 万行代码，领导要全部“快速”重写，我直接辞职了](https://weixin.qdkfweb.cn/42248.html)
+- [transformer is all you need～](https://weixin.qdkfweb.cn/42293.html)
+- [为什么程序员老婆都很漂亮？网友：new出来的。。。](https://weixin.qdkfweb.cn/42286.html)
+- [不要再写满屏import导入啦！](https://weixin.qdkfweb.cn/42300.html)
+- [写好 JavaScript 异步代码的几个推荐做法](https://weixin.qdkfweb.cn/42301.html)
+- [分享一款基于web的开源word文档编辑器](https://weixin.qdkfweb.cn/42284.html)
 <!-- BLOG-POST-LIST:END -->
