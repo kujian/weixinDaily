@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [transformer is all you need～](https://weixin.qdkfweb.cn/42293.html)
-- [为什么程序员老婆都很漂亮？网友：new出来的。。。](https://weixin.qdkfweb.cn/42286.html)
-- [不要再写满屏import导入啦！](https://weixin.qdkfweb.cn/42300.html)
-- [写好 JavaScript 异步代码的几个推荐做法](https://weixin.qdkfweb.cn/42301.html)
-- [分享一款基于web的开源word文档编辑器](https://weixin.qdkfweb.cn/42284.html)
+- [最轻量的后台管理模板没有之一](https://weixin.qdkfweb.cn/42323.html)
+- [迪卡侬采用 BFF 模式以强化前端团队](https://weixin.qdkfweb.cn/42324.html)
+- [PynamoDB，一个非常实用的 Python 库！](https://weixin.qdkfweb.cn/42327.html)
+- [React 即将推出 Compiler，是时候告别 useMemo/useCallback 了！](https://weixin.qdkfweb.cn/42320.html)
+- [天天用 antd 的 Form 组件？自己手写一个吧](https://weixin.qdkfweb.cn/42345.html)
 <!-- BLOG-POST-LIST:END -->
