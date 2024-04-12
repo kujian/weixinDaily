@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [最轻量的后台管理模板没有之一](https://weixin.qdkfweb.cn/42323.html)
-- [迪卡侬采用 BFF 模式以强化前端团队](https://weixin.qdkfweb.cn/42324.html)
-- [PynamoDB，一个非常实用的 Python 库！](https://weixin.qdkfweb.cn/42327.html)
-- [React 即将推出 Compiler，是时候告别 useMemo/useCallback 了！](https://weixin.qdkfweb.cn/42320.html)
-- [天天用 antd 的 Form 组件？自己手写一个吧](https://weixin.qdkfweb.cn/42345.html)
+- [.NET 平台Http消息处理者工厂](https://weixin.qdkfweb.cn/42353.html)
+- [JavaScript原型链真的过时了吗？](https://weixin.qdkfweb.cn/42361.html)
+- [顶撞领导，被裁了。。。](https://weixin.qdkfweb.cn/42357.html)
+- [太强了！35个爬虫实例.pdf](https://weixin.qdkfweb.cn/42363.html)
+- [spotlight，一个超高级的 Python 库！](https://weixin.qdkfweb.cn/42364.html)
 <!-- BLOG-POST-LIST:END -->
