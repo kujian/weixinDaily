@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [微信可以转发语音了！一般人都不知道还可以这么干！](https://weixin.qdkfweb.cn/42682.html)
-- [高校老师因发消息爱打问号被学生投诉！被学校撤职后反手上诉获赔13万](https://weixin.qdkfweb.cn/42711.html)
-- [博士1篇SCI四区即可入职！安家费120万！直接进编，无非升即走！市财政再补20-60万](https://weixin.qdkfweb.cn/42707.html)
-- [NeurIPS开辟高中生赛道引争议！](https://weixin.qdkfweb.cn/42708.html)
-- [CVPR 2024 | FairCLIP：首个多模态医疗视觉语言大模型公平性研究](https://weixin.qdkfweb.cn/42709.html)
+- [公司裁员不给赔偿，员工不同意和公司硬刚，死耗9个月35000月薪照拿，拒绝阿里百度滴滴offer，到底值不值？](https://weixin.qdkfweb.cn/42780.html)
+- [钱到账了！工龄15年，广东某灵活就业人员实发退休金曝光。网友：自己养老自己负责](https://weixin.qdkfweb.cn/42782.html)
+- [发养老金了！工龄21年，河南某事业单位职工实发退休金曝光](https://weixin.qdkfweb.cn/42783.html)
+- [新Offer全部暂停，预算缩减还裁员？已回应](https://weixin.qdkfweb.cn/42809.html)
+- [GPT超越扩散！视觉生成迎来Scaling Law时刻！北大&amp;字节提出VAR新范式](https://weixin.qdkfweb.cn/42810.html)
 <!-- BLOG-POST-LIST:END -->
