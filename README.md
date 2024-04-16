@@ -15,8 +15,8 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [飞书开放平台负责人王保平（玉伯）宣布离职创业](https://weixin.qdkfweb.cn/42859.html)
 - [哔哩哔哩社招｜商业技术中心hc上新，等你来投！](https://weixin.qdkfweb.cn/42860.html)
+- [飞书开放平台负责人王保平（玉伯）宣布离职创业](https://weixin.qdkfweb.cn/42859.html)
 - [钱到账了！工龄31年，浙江某职工实发退休金曝光。网友说：退休了怕是还需要兼职](https://weixin.qdkfweb.cn/42851.html)
 - [面试被问到了：手撕Transformer](https://weixin.qdkfweb.cn/42876.html)
 - [统一所有模态的3D范式来了！Any2Point：仅需训练1%的参数量，超越SOTA！](https://weixin.qdkfweb.cn/42877.html)
