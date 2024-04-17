@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [哔哩哔哩社招｜商业技术中心hc上新，等你来投！](https://weixin.qdkfweb.cn/42860.html)
-- [飞书开放平台负责人王保平（玉伯）宣布离职创业](https://weixin.qdkfweb.cn/42859.html)
-- [钱到账了！工龄31年，浙江某职工实发退休金曝光。网友说：退休了怕是还需要兼职](https://weixin.qdkfweb.cn/42851.html)
-- [面试被问到了：手撕Transformer](https://weixin.qdkfweb.cn/42876.html)
-- [统一所有模态的3D范式来了！Any2Point：仅需训练1%的参数量，超越SOTA！](https://weixin.qdkfweb.cn/42877.html)
+- [表妹985高材生，考了公务员，却每天给领导端茶倒水、整理文件，却发现自己领导只有专科学历，心态一下就爆炸了](https://weixin.qdkfweb.cn/43004.html)
+- [在老家小县城当公务员的员工，核心原因都是因为赚不到钱；要是学历好点的，能在私企找个月薪两三万的工作也就去了。你同意吗？](https://weixin.qdkfweb.cn/42958.html)
+- [裁员了，大厂人心态已经崩了…](https://weixin.qdkfweb.cn/42952.html)
+- [前端常用的几种请求方式](https://weixin.qdkfweb.cn/42900.html)
+- [离开大厂创业一年，从未受过这么大的打击！](https://weixin.qdkfweb.cn/42940.html)
 <!-- BLOG-POST-LIST:END -->
