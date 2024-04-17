@@ -19,5 +19,5 @@
 - [在老家小县城当公务员的员工，核心原因都是因为赚不到钱；要是学历好点的，能在私企找个月薪两三万的工作也就去了。你同意吗？](https://weixin.qdkfweb.cn/42958.html)
 - [裁员了，大厂人心态已经崩了…](https://weixin.qdkfweb.cn/42952.html)
 - [前端常用的几种请求方式](https://weixin.qdkfweb.cn/42900.html)
-- [离开大厂创业一年，从未受过这么大的打击！](https://weixin.qdkfweb.cn/42940.html)
+- [今日代码大赏 | Java 实现归并排序算法](https://weixin.qdkfweb.cn/42942.html)
 <!-- BLOG-POST-LIST:END -->
