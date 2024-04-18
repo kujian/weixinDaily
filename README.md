@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [表妹985高材生，考了公务员，却每天给领导端茶倒水、整理文件，却发现自己领导只有专科学历，心态一下就爆炸了](https://weixin.qdkfweb.cn/43004.html)
-- [在老家小县城当公务员的员工，核心原因都是因为赚不到钱；要是学历好点的，能在私企找个月薪两三万的工作也就去了。你同意吗？](https://weixin.qdkfweb.cn/42958.html)
-- [裁员了，大厂人心态已经崩了…](https://weixin.qdkfweb.cn/42952.html)
-- [前端常用的几种请求方式](https://weixin.qdkfweb.cn/42900.html)
-- [今日代码大赏 | Java 实现归并排序算法](https://weixin.qdkfweb.cn/42942.html)
+- [4.17｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/43061.html)
+- [钉钉社招｜战略客户BD直招，base杭州限2人！](https://weixin.qdkfweb.cn/43062.html)
+- [HR建议：1、不要接受任何降薪。2、不要随意签字调岗。3、不要害怕威胁。4、跟 HR 聊天要带上能录音的设备](https://weixin.qdkfweb.cn/43051.html)
+- [真心建议大家冲一冲新兴领域，收入还在涨！](https://weixin.qdkfweb.cn/43085.html)
+- [第一篇Mamba综述来了！](https://weixin.qdkfweb.cn/43086.html)
 <!-- BLOG-POST-LIST:END -->
