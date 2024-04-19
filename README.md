@@ -19,5 +19,5 @@
 - [30岁，从互联网跳槽去事业单位（有编制），会有哪些不适应的？](https://weixin.qdkfweb.cn/43138.html)
 - [选择大于努力，30年前两个大学生同时收到华为offer，男的去了华为，女的去了体制内，同样的起点，不同的人生](https://weixin.qdkfweb.cn/43178.html)
 - [一条面向未来的程序员职业发展路径](https://weixin.qdkfweb.cn/43132.html)
-- [ICLR 2024 | 阐明扩散模型中的曝光偏差问题，一行代码大幅提升生成质量](https://weixin.qdkfweb.cn/43164.html)
+- [开放开源！蚂蚁集团浙江大学联合发布开源大模型知识抽取框架OneKE](https://weixin.qdkfweb.cn/43163.html)
 <!-- BLOG-POST-LIST:END -->
