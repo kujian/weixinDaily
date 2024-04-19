@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [4.17｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/43061.html)
-- [钉钉社招｜战略客户BD直招，base杭州限2人！](https://weixin.qdkfweb.cn/43062.html)
-- [HR建议：1、不要接受任何降薪。2、不要随意签字调岗。3、不要害怕威胁。4、跟 HR 聊天要带上能录音的设备](https://weixin.qdkfweb.cn/43051.html)
-- [真心建议大家冲一冲新兴领域，收入还在涨！](https://weixin.qdkfweb.cn/43085.html)
-- [第一篇Mamba综述来了！](https://weixin.qdkfweb.cn/43086.html)
+- [涨工资了！2024年工资大调整，3月执行，看看你能涨多少？](https://weixin.qdkfweb.cn/43137.html)
+- [30岁，从互联网跳槽去事业单位（有编制），会有哪些不适应的？](https://weixin.qdkfweb.cn/43138.html)
+- [选择大于努力，30年前两个大学生同时收到华为offer，男的去了华为，女的去了体制内，同样的起点，不同的人生](https://weixin.qdkfweb.cn/43178.html)
+- [一条面向未来的程序员职业发展路径](https://weixin.qdkfweb.cn/43132.html)
+- [ICLR 2024 | 阐明扩散模型中的曝光偏差问题，一行代码大幅提升生成质量](https://weixin.qdkfweb.cn/43164.html)
 <!-- BLOG-POST-LIST:END -->
