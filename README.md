@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [涨工资了！2024年工资大调整，3月执行，看看你能涨多少？](https://weixin.qdkfweb.cn/43137.html)
-- [30岁，从互联网跳槽去事业单位（有编制），会有哪些不适应的？](https://weixin.qdkfweb.cn/43138.html)
-- [选择大于努力，30年前两个大学生同时收到华为offer，男的去了华为，女的去了体制内，同样的起点，不同的人生](https://weixin.qdkfweb.cn/43178.html)
-- [一条面向未来的程序员职业发展路径](https://weixin.qdkfweb.cn/43132.html)
-- [开放开源！蚂蚁集团浙江大学联合发布开源大模型知识抽取框架OneKE](https://weixin.qdkfweb.cn/43163.html)
+- [钱到账了！工龄15年，河南某职工实发退休金曝光](https://weixin.qdkfweb.cn/43213.html)
+- [公告出了！中国烟草总公司，招聘168人！岗位超多，各类专业都可以报！](https://weixin.qdkfweb.cn/43214.html)
+- [喜大普奔！2024邮政储蓄银行春招又又又出啦！待遇从优，有销售类、专业类岗位！](https://weixin.qdkfweb.cn/43215.html)
+- [字节跳动23人被移送公安机关，开除136人！](https://weixin.qdkfweb.cn/43207.html)
+- [你们发现没有：人到35岁，薪资再高，但还是基层员工的，也逃不过被裁。40岁之前，能管理30个员工的，在职场才算安全](https://weixin.qdkfweb.cn/43243.html)
 <!-- BLOG-POST-LIST:END -->
