@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [钱到账了！工龄15年，河南某职工实发退休金曝光](https://weixin.qdkfweb.cn/43213.html)
-- [公告出了！中国烟草总公司，招聘168人！岗位超多，各类专业都可以报！](https://weixin.qdkfweb.cn/43214.html)
-- [喜大普奔！2024邮政储蓄银行春招又又又出啦！待遇从优，有销售类、专业类岗位！](https://weixin.qdkfweb.cn/43215.html)
-- [字节跳动23人被移送公安机关，开除136人！](https://weixin.qdkfweb.cn/43207.html)
-- [你们发现没有：人到35岁，薪资再高，但还是基层员工的，也逃不过被裁。40岁之前，能管理30个员工的，在职场才算安全](https://weixin.qdkfweb.cn/43243.html)
+- [面试被问到：用C++手撕NMS。。。](https://weixin.qdkfweb.cn/43294.html)
+- [顶刊IJCV 2024！通过提问学习基于知识的新物体识别](https://weixin.qdkfweb.cn/43295.html)
+- [不上班，能让你狠狠赚钱的6个副业](https://weixin.qdkfweb.cn/43269.html)
+- [这是雷军的简历，迷茫时卡里只有冰冷的40亿](https://weixin.qdkfweb.cn/43266.html)
+- [4.20｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/43277.html)
 <!-- BLOG-POST-LIST:END -->
