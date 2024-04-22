@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [面试被问到：用C++手撕NMS。。。](https://weixin.qdkfweb.cn/43294.html)
-- [顶刊IJCV 2024！通过提问学习基于知识的新物体识别](https://weixin.qdkfweb.cn/43295.html)
-- [不上班，能让你狠狠赚钱的6个副业](https://weixin.qdkfweb.cn/43269.html)
-- [这是雷军的简历，迷茫时卡里只有冰冷的40亿](https://weixin.qdkfweb.cn/43266.html)
-- [4.20｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/43277.html)
+- [盘点：2023年知名企业到底“减少”了多少员工？](https://weixin.qdkfweb.cn/43351.html)
+- [我真服了！老婆刚发了3.8万的年终奖，就想凑够四十万提前还房贷，她说不想再给银行付利息了。可我觉得不应该提前还房贷呀！](https://weixin.qdkfweb.cn/43342.html)
+- [钱到账了！工龄37年，藏区某职工退休金曝光](https://weixin.qdkfweb.cn/43343.html)
+- [知名巨头：裁员5000人！](https://weixin.qdkfweb.cn/43369.html)
+- [Transformer高频面试题来了！](https://weixin.qdkfweb.cn/43370.html)
 <!-- BLOG-POST-LIST:END -->
