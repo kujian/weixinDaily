@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [盘点：2023年知名企业到底“减少”了多少员工？](https://weixin.qdkfweb.cn/43351.html)
-- [我真服了！老婆刚发了3.8万的年终奖，就想凑够四十万提前还房贷，她说不想再给银行付利息了。可我觉得不应该提前还房贷呀！](https://weixin.qdkfweb.cn/43342.html)
-- [钱到账了！工龄37年，藏区某职工退休金曝光](https://weixin.qdkfweb.cn/43343.html)
-- [知名巨头：裁员5000人！](https://weixin.qdkfweb.cn/43369.html)
-- [Transformer高频面试题来了！](https://weixin.qdkfweb.cn/43370.html)
+- [4.22｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/43439.html)
+- [你发现没有，在公司里只要员工和领导发生过一次冲突，即使最后员工迫于压力向领导低头，两个人的关系也不可能再像以前一样](https://weixin.qdkfweb.cn/43467.html)
+- [更轻巧的状态管理工具——Hookstate](https://weixin.qdkfweb.cn/43391.html)
+- [讲给程序员的社群运营方法论](https://weixin.qdkfweb.cn/43430.html)
+- [掌握核心竞争力，这些前端公众号你值得关注！](https://weixin.qdkfweb.cn/43405.html)
 <!-- BLOG-POST-LIST:END -->
