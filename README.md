@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [4.22｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/43439.html)
-- [你发现没有，在公司里只要员工和领导发生过一次冲突，即使最后员工迫于压力向领导低头，两个人的关系也不可能再像以前一样](https://weixin.qdkfweb.cn/43467.html)
-- [更轻巧的状态管理工具——Hookstate](https://weixin.qdkfweb.cn/43391.html)
-- [讲给程序员的社群运营方法论](https://weixin.qdkfweb.cn/43430.html)
-- [掌握核心竞争力，这些前端公众号你值得关注！](https://weixin.qdkfweb.cn/43405.html)
+- [为什么京东员工强烈推荐京东plus会员不要直接在平台上买东西？](https://weixin.qdkfweb.cn/43521.html)
+- [来看看这个付费回答](https://weixin.qdkfweb.cn/43514.html)
+- [微信总部大楼这些小房子到底是做什么用的？](https://weixin.qdkfweb.cn/43525.html)
+- [一个排查了一天的BUG，你在摸鱼吧！](https://weixin.qdkfweb.cn/43482.html)
+- [强！又找到一个可免费使用的 Midjourney 绘画平台 +API](https://weixin.qdkfweb.cn/43480.html)
 <!-- BLOG-POST-LIST:END -->
