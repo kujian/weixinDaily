@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [为什么京东员工强烈推荐京东plus会员不要直接在平台上买东西？](https://weixin.qdkfweb.cn/43521.html)
-- [来看看这个付费回答](https://weixin.qdkfweb.cn/43514.html)
-- [微信总部大楼这些小房子到底是做什么用的？](https://weixin.qdkfweb.cn/43525.html)
-- [一个排查了一天的BUG，你在摸鱼吧！](https://weixin.qdkfweb.cn/43482.html)
-- [强！又找到一个可免费使用的 Midjourney 绘画平台 +API](https://weixin.qdkfweb.cn/43480.html)
+- [考了公务员，现在在省委办公厅，工作强度曝光](https://weixin.qdkfweb.cn/43619.html)
+- [越老越值钱！山西地质集团招聘307人，有技术、管理岗，非常适合普通家庭的孩子](https://weixin.qdkfweb.cn/43620.html)
+- [某公司发文：公司任何员工娶妻彩礼不得超过10万人民币，否则全公司通报批评并严惩](https://weixin.qdkfweb.cn/43657.html)
+- [4.24｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/43628.html)
+- [微软社招｜大中华区全球技术支持中心纳新，最新hc都在这！](https://weixin.qdkfweb.cn/43629.html)
 <!-- BLOG-POST-LIST:END -->
