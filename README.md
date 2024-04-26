@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [考了公务员，现在在省委办公厅，工作强度曝光](https://weixin.qdkfweb.cn/43619.html)
-- [越老越值钱！山西地质集团招聘307人，有技术、管理岗，非常适合普通家庭的孩子](https://weixin.qdkfweb.cn/43620.html)
-- [某公司发文：公司任何员工娶妻彩礼不得超过10万人民币，否则全公司通报批评并严惩](https://weixin.qdkfweb.cn/43657.html)
-- [4.24｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/43628.html)
-- [微软社招｜大中华区全球技术支持中心纳新，最新hc都在这！](https://weixin.qdkfweb.cn/43629.html)
+- [2024年养老金“20连涨”！企退事退差距明显，若企退3108.4元/月以下多涨；事退6151.6元/月以上停涨，可行吗？](https://weixin.qdkfweb.cn/43709.html)
+- [4.25｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/43718.html)
+- [靠写作建立影响力的底层原理是啥？](https://weixin.qdkfweb.cn/43706.html)
+- [支付宝，喊你来领红包啦！](https://weixin.qdkfweb.cn/43700.html)
+- [租金堪比劳斯莱斯，新能源豪车租赁生意有多火？](https://weixin.qdkfweb.cn/43727.html)
 <!-- BLOG-POST-LIST:END -->
