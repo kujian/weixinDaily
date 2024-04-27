@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [2024年养老金“20连涨”！企退事退差距明显，若企退3108.4元/月以下多涨；事退6151.6元/月以上停涨，可行吗？](https://weixin.qdkfweb.cn/43709.html)
-- [4.25｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/43718.html)
-- [靠写作建立影响力的底层原理是啥？](https://weixin.qdkfweb.cn/43706.html)
-- [支付宝，喊你来领红包啦！](https://weixin.qdkfweb.cn/43700.html)
-- [租金堪比劳斯莱斯，新能源豪车租赁生意有多火？](https://weixin.qdkfweb.cn/43727.html)
+- [我们团队前端的自学经历，三本又怎样？](https://weixin.qdkfweb.cn/43765.html)
+- [就因为开发环境用了 Docker，就被开除了？！](https://weixin.qdkfweb.cn/43766.html)
+- [代码小抄插件上线！一键分享代码](https://weixin.qdkfweb.cn/43767.html)
+- [突发！特斯拉毁约应届生offer！](https://weixin.qdkfweb.cn/43771.html)
+- [计算机科学里最大的难题：居中显示](https://weixin.qdkfweb.cn/43747.html)
 <!-- BLOG-POST-LIST:END -->
