@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [我们团队前端的自学经历，三本又怎样？](https://weixin.qdkfweb.cn/43765.html)
-- [就因为开发环境用了 Docker，就被开除了？！](https://weixin.qdkfweb.cn/43766.html)
-- [代码小抄插件上线！一键分享代码](https://weixin.qdkfweb.cn/43767.html)
-- [突发！特斯拉毁约应届生offer！](https://weixin.qdkfweb.cn/43771.html)
-- [计算机科学里最大的难题：居中显示](https://weixin.qdkfweb.cn/43747.html)
+- [新来个技术总监，把限流实现的那叫一个优雅，佩服！](https://weixin.qdkfweb.cn/43853.html)
+- [向Redis宣战？微软开源Garnet，性能提升几十倍！](https://weixin.qdkfweb.cn/43854.html)
+- [千万不要滥用Stream.toList（），有坑！](https://weixin.qdkfweb.cn/43855.html)
+- [重磅！清华大学成立人工智能学院！姚期智担任院长](https://weixin.qdkfweb.cn/43860.html)
+- [ICLR 2024 | AnomalyCLIP：零样本异常检测新范式](https://weixin.qdkfweb.cn/43861.html)
 <!-- BLOG-POST-LIST:END -->
