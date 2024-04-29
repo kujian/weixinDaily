@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [新来个技术总监，把限流实现的那叫一个优雅，佩服！](https://weixin.qdkfweb.cn/43853.html)
-- [向Redis宣战？微软开源Garnet，性能提升几十倍！](https://weixin.qdkfweb.cn/43854.html)
-- [千万不要滥用Stream.toList（），有坑！](https://weixin.qdkfweb.cn/43855.html)
-- [Mamba将在MICCAI 2024、ACM MM 2024和ECCV 2024上爆发？！](https://weixin.qdkfweb.cn/43859.html)
-- [重磅！清华大学成立人工智能学院！姚期智担任院长](https://weixin.qdkfweb.cn/43860.html)
+- [不太能共情男朋友，他的能力已经很强了，在大厂，也是拿高绩效的，可是他还是每天抱怨自己的工作，而且说自己很抑郁很想辞职](https://weixin.qdkfweb.cn/43963.html)
+- [字节跳动反腐：4人涉刑案，1人被拘留，61人被开除](https://weixin.qdkfweb.cn/43943.html)
+- [Module Federation 2.0 正式发布！](https://weixin.qdkfweb.cn/43888.html)
+- [谷歌微软，起飞了](https://weixin.qdkfweb.cn/43950.html)
+- [问界M7追尾养护车起火致司乘3人遇难 车企回应](https://weixin.qdkfweb.cn/43951.html)
 <!-- BLOG-POST-LIST:END -->
