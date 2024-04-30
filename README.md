@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [不太能共情男朋友，他的能力已经很强了，在大厂，也是拿高绩效的，可是他还是每天抱怨自己的工作，而且说自己很抑郁很想辞职](https://weixin.qdkfweb.cn/43963.html)
-- [字节跳动反腐：4人涉刑案，1人被拘留，61人被开除](https://weixin.qdkfweb.cn/43943.html)
-- [Module Federation 2.0 正式发布！](https://weixin.qdkfweb.cn/43888.html)
-- [谷歌微软，起飞了](https://weixin.qdkfweb.cn/43950.html)
-- [问界M7追尾养护车起火致司乘3人遇难 车企回应](https://weixin.qdkfweb.cn/43951.html)
+- [4.29｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/44019.html)
+- [字节跳动反腐通报！（附邮件原文）](https://weixin.qdkfweb.cn/44020.html)
+- [唯品会社招 | 春季最新hc放出，就等你来投！](https://weixin.qdkfweb.cn/44021.html)
+- [作业帮社招｜超多岗位上线，总有一个适合你！](https://weixin.qdkfweb.cn/44022.html)
+- [你用受控模式写组件？图啥呢？](https://weixin.qdkfweb.cn/43995.html)
 <!-- BLOG-POST-LIST:END -->
