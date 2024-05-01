@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [4.29｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/44019.html)
-- [字节跳动反腐通报！（附邮件原文）](https://weixin.qdkfweb.cn/44020.html)
-- [唯品会社招 | 春季最新hc放出，就等你来投！](https://weixin.qdkfweb.cn/44021.html)
-- [作业帮社招｜超多岗位上线，总有一个适合你！](https://weixin.qdkfweb.cn/44022.html)
-- [你用受控模式写组件？图啥呢？](https://weixin.qdkfweb.cn/43995.html)
+- [这年头，还有比“竞业”更好做的生意？](https://weixin.qdkfweb.cn/44086.html)
+- [崔永元点名罗永浩卖骗子产品？交个朋友直播间回应](https://weixin.qdkfweb.cn/44091.html)
+- [北京车展上的 BBA，太想进步了](https://weixin.qdkfweb.cn/44088.html)
+- [看剧赚钱，拉人头分红 又一短剧项目被曝涉嫌“杀猪盘”](https://weixin.qdkfweb.cn/44089.html)
+- [法拉第未来收到纳斯达克除名通知 将提出上诉](https://weixin.qdkfweb.cn/44090.html)
 <!-- BLOG-POST-LIST:END -->
