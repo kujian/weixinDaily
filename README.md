@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [这年头，还有比“竞业”更好做的生意？](https://weixin.qdkfweb.cn/44086.html)
-- [北京车展上的 BBA，太想进步了](https://weixin.qdkfweb.cn/44088.html)
-- [看剧赚钱，拉人头分红 又一短剧项目被曝涉嫌“杀猪盘”](https://weixin.qdkfweb.cn/44089.html)
-- [法拉第未来收到纳斯达克除名通知 将提出上诉](https://weixin.qdkfweb.cn/44090.html)
-- [崔永元点名罗永浩卖骗子产品？交个朋友直播间回应](https://weixin.qdkfweb.cn/44091.html)
+- [5.1｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/44135.html)
+- [某大厂员工自曝：已经定了，我们大批正编要被转外包了，以后就是软柿子，想怎么捏就怎么捏了！](https://weixin.qdkfweb.cn/44127.html)
+- [钱到账了，工龄19年，江西某企业职工实发退休金曝光](https://weixin.qdkfweb.cn/44128.html)
+- [Mamba再次击败Transformer！在视频理解任务中杀疯了！](https://weixin.qdkfweb.cn/44144.html)
+- [新晋中国科学院院士，任985校长！](https://weixin.qdkfweb.cn/44143.html)
 <!-- BLOG-POST-LIST:END -->
