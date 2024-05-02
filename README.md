@@ -18,6 +18,6 @@
 - [5.1｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/44135.html)
 - [某大厂员工自曝：已经定了，我们大批正编要被转外包了，以后就是软柿子，想怎么捏就怎么捏了！](https://weixin.qdkfweb.cn/44127.html)
 - [钱到账了，工龄19年，江西某企业职工实发退休金曝光](https://weixin.qdkfweb.cn/44128.html)
-- [Mamba再次击败Transformer！在视频理解任务中杀疯了！](https://weixin.qdkfweb.cn/44144.html)
 - [新晋中国科学院院士，任985校长！](https://weixin.qdkfweb.cn/44143.html)
+- [Mamba再次击败Transformer！在视频理解任务中杀疯了！](https://weixin.qdkfweb.cn/44144.html)
 <!-- BLOG-POST-LIST:END -->
