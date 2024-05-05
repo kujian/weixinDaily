@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [钱到账了，工龄31年，个人账户金额70341.99元，湖南某职工实发退休金曝光](https://weixin.qdkfweb.cn/44201.html)
-- [你在互联网大厂“打螺丝”，该怎么汇报？](https://weixin.qdkfweb.cn/44210.html)
-- [微信出现这条线，代表你被删好友了！](https://weixin.qdkfweb.cn/44197.html)
-- [很多朋友都消失了](https://weixin.qdkfweb.cn/44199.html)
-- [写出好代码的底层逻辑](https://weixin.qdkfweb.cn/44189.html)
+- [2024年养老金或将并轨，企事养老金待遇将同步，你期待吗？](https://weixin.qdkfweb.cn/44243.html)
+- [理工大学教授，当选院士！](https://weixin.qdkfweb.cn/44267.html)
+- [CVPR 2024 | 与任务无关的多模态数据也能提升Transformer性能！港中文&amp;腾讯新作](https://weixin.qdkfweb.cn/44268.html)
+- [MetaCLIP：带你揭秘CLIP数据](https://weixin.qdkfweb.cn/44269.html)
+- [一张触目惊心的截图](https://weixin.qdkfweb.cn/44237.html)
 <!-- BLOG-POST-LIST:END -->
