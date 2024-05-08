@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [5.6｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/44425.html)
-- [浏览器中观测 network 性能数据的 3 种方式](https://weixin.qdkfweb.cn/44411.html)
-- [创业一年 ， 一名普通前端的血泪史](https://weixin.qdkfweb.cn/44384.html)
-- [五一回老家，婆婆让在华为上班的老公拿10万块钱帮小叔子娶媳妇](https://weixin.qdkfweb.cn/44422.html)
-- [5月7日，华为苹果双雄对决！](https://weixin.qdkfweb.cn/44433.html)
+- [面试一个薪资2.8w的offer，被面试官各种刁难，直言我毫无经验，结果面试结束后，HR告诉我说他是公司总监，对我还算认可。](https://weixin.qdkfweb.cn/44509.html)
+- [5.7｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/44523.html)
+- [县城婆罗门没那么牛逼](https://weixin.qdkfweb.cn/44503.html)
+- [字节女员工：大厂被裁，带着260万存款回老家种地。每月利息4961.21元](https://weixin.qdkfweb.cn/44521.html)
+- [三年半未出新爆款 阿里游戏又一位核心人物离职](https://weixin.qdkfweb.cn/44531.html)
 <!-- BLOG-POST-LIST:END -->
