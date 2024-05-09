@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [面试一个薪资2.8w的offer，被面试官各种刁难，直言我毫无经验，结果面试结束后，HR告诉我说他是公司总监，对我还算认可。](https://weixin.qdkfweb.cn/44509.html)
-- [5.7｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/44523.html)
-- [县城婆罗门没那么牛逼](https://weixin.qdkfweb.cn/44503.html)
-- [字节女员工：大厂被裁，带着260万存款回老家种地。每月利息4961.21元](https://weixin.qdkfweb.cn/44521.html)
-- [三年半未出新爆款 阿里游戏又一位核心人物离职](https://weixin.qdkfweb.cn/44531.html)
+- [领导年薪30w，五一节后再没来上班，同事说被别的公司挖走了，就在下班时，同事悄悄告诉我领导让他跳槽过去，给他涨薪50%。](https://weixin.qdkfweb.cn/44602.html)
+- [百度副总裁璩静凌晨发文道歉](https://weixin.qdkfweb.cn/44613.html)
+- [快手员工爆料：跳槽抖音，轻松通过3轮面试，谈薪资时说上家公司税后5W，没想到HR竟让提供工资流水和扣税证明，怎么办？](https://weixin.qdkfweb.cn/44604.html)
+- [在boss上找了一个月工作，发现了一个问题：40岁以上基本没戏，又要求60岁退休，那35-60岁这25年间，喝西北风吗？](https://weixin.qdkfweb.cn/44603.html)
+- [5.8｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/44614.html)
 <!-- BLOG-POST-LIST:END -->
