@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [同事是HR总监，收到猎头推荐一个大厂候选人，要求年薪65w，我看了简历很不错，可总监说这种简历不会再看第二眼，更别提面试！](https://weixin.qdkfweb.cn/44694.html)
-- [CSS 强大得令人难以置信！](https://weixin.qdkfweb.cn/44676.html)
-- [94年，女，年薪45W，996；男朋友965，年薪35W。身体垮了，想考公上岸，男朋友不同意，怎么办？网友：分手！](https://weixin.qdkfweb.cn/44695.html)
-- [年薪百万校招岗位！极氪智驾团队诚聘博士](https://weixin.qdkfweb.cn/44725.html)
-- [LSTM卷土重来！xLSTM：一举超越Mamba、Transformer！](https://weixin.qdkfweb.cn/44726.html)
+- [同事2次晋升失败，被领导各种穿小鞋，跳槽拿到1.4w的offer，结果就在离职时，领导说那家公司试用期过了不转正，建议你别去！](https://weixin.qdkfweb.cn/44774.html)
+- [发现程序员圈一个很奇怪的现象，男程序员不管身高长相如何大部分都有女朋友，然而女程序员很多即使长的漂亮也是单身](https://weixin.qdkfweb.cn/44775.html)
+- [微信「已读」功能要来了？官方这么说……](https://weixin.qdkfweb.cn/44771.html)
+- [Midjourney API 的申请和使用](https://weixin.qdkfweb.cn/44738.html)
+- [小镇做题家出身，好不容易考上985，卷了保研，毕业进了大厂，工作后年薪也达到60万，却每天都在煎熬中度日](https://weixin.qdkfweb.cn/44817.html)
 <!-- BLOG-POST-LIST:END -->
