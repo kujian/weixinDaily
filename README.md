@@ -19,5 +19,5 @@
 - [某女程序员爆料，上个月刚跟男朋友一起买了个三百万的房子，准备明年结婚，这个月他突然被裁了](https://weixin.qdkfweb.cn/44838.html)
 - [一文让你完全弄懂Go语言打包和部署！](https://weixin.qdkfweb.cn/44834.html)
 - [Suno API 的申请及使用](https://weixin.qdkfweb.cn/44823.html)
-- [技术信仰者李彦宏再发声：我们要去勇闯无人区](https://weixin.qdkfweb.cn/44854.html)
+- [理想L9误将广告识别为真车致追尾，官方：后续会改进软件系统](https://weixin.qdkfweb.cn/44855.html)
 <!-- BLOG-POST-LIST:END -->
