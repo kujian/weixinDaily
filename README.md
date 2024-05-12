@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [同事2次晋升失败，被领导各种穿小鞋，跳槽拿到1.4w的offer，结果就在离职时，领导说那家公司试用期过了不转正，建议你别去！](https://weixin.qdkfweb.cn/44774.html)
-- [发现程序员圈一个很奇怪的现象，男程序员不管身高长相如何大部分都有女朋友，然而女程序员很多即使长的漂亮也是单身](https://weixin.qdkfweb.cn/44775.html)
-- [微信「已读」功能要来了？官方这么说……](https://weixin.qdkfweb.cn/44771.html)
-- [Midjourney API 的申请和使用](https://weixin.qdkfweb.cn/44738.html)
-- [小镇做题家出身，好不容易考上985，卷了保研，毕业进了大厂，工作后年薪也达到60万，却每天都在煎熬中度日](https://weixin.qdkfweb.cn/44817.html)
+- [5.11｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/44850.html)
+- [某女程序员爆料，上个月刚跟男朋友一起买了个三百万的房子，准备明年结婚，这个月他突然被裁了](https://weixin.qdkfweb.cn/44838.html)
+- [一文让你完全弄懂Go语言打包和部署！](https://weixin.qdkfweb.cn/44834.html)
+- [Suno API 的申请及使用](https://weixin.qdkfweb.cn/44823.html)
+- [技术信仰者李彦宏再发声：我们要去勇闯无人区](https://weixin.qdkfweb.cn/44854.html)
 <!-- BLOG-POST-LIST:END -->
