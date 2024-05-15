@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [今年45岁，以为200万用来退休够花了，五一接受住院时听了护士的谈话，我突然明白超过30万的治疗费，会把自己拖垮。](https://weixin.qdkfweb.cn/47308.html)
-- [华为员工爆料：华为有一大群顶级名校的，天天干一些很low的活。他们大多没有什么前途，常年17级以下，根本升不上去。](https://weixin.qdkfweb.cn/47309.html)
-- [【全网独享】vivo X100系列新品发布，拼多多百亿补贴，超实惠保真又保新](https://weixin.qdkfweb.cn/47305.html)
-- [裁员了，很严重，大家开始存钱吧…](https://weixin.qdkfweb.cn/47218.html)
-- [5.13｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/47322.html)
+- [前端在本地开发还能用https？](https://weixin.qdkfweb.cn/47369.html)
+- [29.3K star!一款快速构建机器学习 Web 应用的开源项目，无需前端技能！](https://weixin.qdkfweb.cn/47426.html)
+- [杭州某电商平台一员工收受贿赂1.3亿！](https://weixin.qdkfweb.cn/47409.html)
+- [33岁，字节被裁。老家学习不如我的高中同学已是副镇长](https://weixin.qdkfweb.cn/47407.html)
+- [软考证书，彻底爆了！！](https://weixin.qdkfweb.cn/47423.html)
 <!-- BLOG-POST-LIST:END -->
