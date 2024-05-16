@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [前端在本地开发还能用https？](https://weixin.qdkfweb.cn/47369.html)
-- [29.3K star!一款快速构建机器学习 Web 应用的开源项目，无需前端技能！](https://weixin.qdkfweb.cn/47426.html)
-- [杭州某电商平台一员工收受贿赂1.3亿！](https://weixin.qdkfweb.cn/47409.html)
-- [33岁，字节被裁。老家学习不如我的高中同学已是副镇长](https://weixin.qdkfweb.cn/47407.html)
-- [软考证书，彻底爆了！！](https://weixin.qdkfweb.cn/47423.html)
+- [公司刚发50万年终奖，部门技术团队全员提出离职，询问其中一个技术人员，他坦诚的告诉说：我们之所以留到现在，就是为了等这份年终奖！](https://weixin.qdkfweb.cn/47479.html)
+- [北京某大厂一高管被抓！犯罪细节全曝光](https://weixin.qdkfweb.cn/47483.html)
+- [希音社招｜5月最新hc放出，这些SHEIN岗位值得一投](https://weixin.qdkfweb.cn/47484.html)
+- [使用VPN“翻墙”违法，为什么大部分人都没事？](https://weixin.qdkfweb.cn/47477.html)
+- [你可能不需要 CSS 框架](https://weixin.qdkfweb.cn/47443.html)
 <!-- BLOG-POST-LIST:END -->
