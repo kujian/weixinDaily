@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [同事拿了2w年终奖，觉得少了找领导理论，当场被骂不知足，不久离职面试一家公司，结果HR说入职三年内薪资不给普调，年终奖也没有！](https://weixin.qdkfweb.cn/47551.html)
-- [突发！荣耀研发管理部总裁邓斌因严重违规被开除](https://weixin.qdkfweb.cn/47564.html)
-- [两篇毕业论文致谢同一个女朋友？哈哈哈哈！](https://weixin.qdkfweb.cn/47574.html)
-- [突然裁员，涉及超5600人！理想汽车多部门人员优化！智驾团队缩减！](https://weixin.qdkfweb.cn/47570.html)
-- [突发！OpenAI超级对齐团队负责人官宣离职！内部AGI或实现，全网陷大猜想](https://weixin.qdkfweb.cn/47571.html)
+- [钱到账了，工龄42年，个人账户金额316121.83元，江苏南京某职工实发退休金曝光，网友说：看完金额，我真的不淡定了](https://weixin.qdkfweb.cn/47608.html)
+- [博士5篇SCI，140万安家费！5年副教授待遇！地方小压力也小，成果要求明确！](https://weixin.qdkfweb.cn/47621.html)
+- [在 ICLR 2024，看见中国大模型的力量](https://weixin.qdkfweb.cn/47622.html)
+- [Vue 3 将推出新特性，可以抛弃虚拟DOM了！](https://weixin.qdkfweb.cn/47580.html)
+- [7.6K star！开源版「抖音/TikTok」，超火！](https://weixin.qdkfweb.cn/47629.html)
 <!-- BLOG-POST-LIST:END -->
