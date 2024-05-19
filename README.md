@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [钱到账了，工龄42年，个人账户金额316121.83元，江苏南京某职工实发退休金曝光，网友说：看完金额，我真的不淡定了](https://weixin.qdkfweb.cn/47608.html)
-- [博士5篇SCI，140万安家费！5年副教授待遇！地方小压力也小，成果要求明确！](https://weixin.qdkfweb.cn/47621.html)
-- [在 ICLR 2024，看见中国大模型的力量](https://weixin.qdkfweb.cn/47622.html)
-- [Vue 3 将推出新特性，可以抛弃虚拟DOM了！](https://weixin.qdkfweb.cn/47580.html)
-- [7.6K star！开源版「抖音/TikTok」，超火！](https://weixin.qdkfweb.cn/47629.html)
+- [和总监闹掰了，被通知让离职走人，五一后拿了个月薪2.1w的offer，没想到HR通知说有员工内部转岗，不用来入职了。](https://weixin.qdkfweb.cn/47653.html)
+- [钱到账了，工龄30年，个人账户金额64440.77元，湖南某灵活就业人员实发退休金曝光。网友：50岁就退休了？](https://weixin.qdkfweb.cn/47656.html)
+- [1篇SCI一区定A类博士！免费100㎡住房+60万安家费，夫妻博士追加10万！](https://weixin.qdkfweb.cn/47673.html)
+- [OpenAI解散Ilya重要团队！前高管怒斥，宫斗第二季开始！](https://weixin.qdkfweb.cn/47674.html)
+- [开源模型穷途末路？Stability AI欠下1亿美元，四处寻求「卖身」...](https://weixin.qdkfweb.cn/47675.html)
 <!-- BLOG-POST-LIST:END -->
