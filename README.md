@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [和总监闹掰了，被通知让离职走人，五一后拿了个月薪2.1w的offer，没想到HR通知说有员工内部转岗，不用来入职了。](https://weixin.qdkfweb.cn/47653.html)
-- [钱到账了，工龄30年，个人账户金额64440.77元，湖南某灵活就业人员实发退休金曝光。网友：50岁就退休了？](https://weixin.qdkfweb.cn/47656.html)
-- [1篇SCI一区定A类博士！免费100㎡住房+60万安家费，夫妻博士追加10万！](https://weixin.qdkfweb.cn/47673.html)
-- [OpenAI解散Ilya重要团队！前高管怒斥，宫斗第二季开始！](https://weixin.qdkfweb.cn/47674.html)
-- [开源模型穷途末路？Stability AI欠下1亿美元，四处寻求「卖身」...](https://weixin.qdkfweb.cn/47675.html)
+- [发布了个月薪40k财务总监职位，四个小时收到了83份简历，其中很多不但投递简历，还很真诚的给我写了一封信!](https://weixin.qdkfweb.cn/47733.html)
+- [为什么从阿里离职？因为我“卡”住了！](https://weixin.qdkfweb.cn/47740.html)
+- [钱到账了，工龄33年，个人账户金额55120元，个人职业年金78445，湖南某正科级公务员退休金曝光。网友：并轨后体制内就少了吧](https://weixin.qdkfweb.cn/47735.html)
+- [面试官让我手撕Transformer。。。](https://weixin.qdkfweb.cn/47752.html)
+- [李飞飞揭秘创业方向“空间智能”：视觉化为洞察！看见成为理解，理解导致行动！](https://weixin.qdkfweb.cn/47753.html)
 <!-- BLOG-POST-LIST:END -->
