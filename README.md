@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [发布了个月薪40k财务总监职位，四个小时收到了83份简历，其中很多不但投递简历，还很真诚的给我写了一封信!](https://weixin.qdkfweb.cn/47733.html)
-- [为什么从阿里离职？因为我“卡”住了！](https://weixin.qdkfweb.cn/47740.html)
-- [钱到账了，工龄33年，个人账户金额55120元，个人职业年金78445，湖南某正科级公务员退休金曝光。网友：并轨后体制内就少了吧](https://weixin.qdkfweb.cn/47735.html)
-- [面试官让我手撕Transformer。。。](https://weixin.qdkfweb.cn/47752.html)
-- [李飞飞揭秘创业方向“空间智能”：视觉化为洞察！看见成为理解，理解导致行动！](https://weixin.qdkfweb.cn/47753.html)
+- [女同事在公司干了12年，差5年退休时，突然被裁员，公司给她补偿15万，没过几天，领导又让她回公司上班，但要把15万补偿还回来](https://weixin.qdkfweb.cn/47821.html)
+- [钱到账了！工龄41年，河南某机关事业单位职工退休金曝光。网友：体制内就这个数？](https://weixin.qdkfweb.cn/47822.html)
+- [基于Vue3-如何封装一个超级好用的 Hook！](https://weixin.qdkfweb.cn/47794.html)
+- [5.20｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/47834.html)
+- [1.9K star！一款功能强大、实用的多用户文件管理项目！](https://weixin.qdkfweb.cn/47851.html)
 <!-- BLOG-POST-LIST:END -->
