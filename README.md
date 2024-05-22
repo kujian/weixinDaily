@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [女同事在公司干了12年，差5年退休时，突然被裁员，公司给她补偿15万，没过几天，领导又让她回公司上班，但要把15万补偿还回来](https://weixin.qdkfweb.cn/47821.html)
-- [钱到账了！工龄41年，河南某机关事业单位职工退休金曝光。网友：体制内就这个数？](https://weixin.qdkfweb.cn/47822.html)
-- [基于Vue3-如何封装一个超级好用的 Hook！](https://weixin.qdkfweb.cn/47794.html)
-- [5.20｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/47834.html)
-- [1.9K star！一款功能强大、实用的多用户文件管理项目！](https://weixin.qdkfweb.cn/47851.html)
+- [某大厂员工爆料：月薪15k，自己不同意降薪，没签字也给降了，HR私下说看看能不能走赔偿，自己同意了，反馈部门领导说要谈话。](https://weixin.qdkfweb.cn/47899.html)
+- [钱到账了！工龄20年，个人账户金额275593元，重庆某企业职工实发养老金曝光。网友：拿到这么多知足吧](https://weixin.qdkfweb.cn/47902.html)
+- [40w年薪入职比亚迪，工作一周后逃离，吐槽比亚迪管理制度毫无人性。在职员工对线硬刚。到底孰真孰假？](https://weixin.qdkfweb.cn/47901.html)
+- [百度 ECharts创始人“下海”养鱼！！！](https://weixin.qdkfweb.cn/47882.html)
+- [5.21｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/47915.html)
 <!-- BLOG-POST-LIST:END -->
