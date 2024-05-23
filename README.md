@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [某大厂员工爆料：月薪15k，自己不同意降薪，没签字也给降了，HR私下说看看能不能走赔偿，自己同意了，反馈部门领导说要谈话。](https://weixin.qdkfweb.cn/47899.html)
-- [钱到账了！工龄20年，个人账户金额275593元，重庆某企业职工实发养老金曝光。网友：拿到这么多知足吧](https://weixin.qdkfweb.cn/47902.html)
-- [40w年薪入职比亚迪，工作一周后逃离，吐槽比亚迪管理制度毫无人性。在职员工对线硬刚。到底孰真孰假？](https://weixin.qdkfweb.cn/47901.html)
-- [百度 ECharts创始人“下海”养鱼！！！](https://weixin.qdkfweb.cn/47882.html)
-- [5.21｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/47915.html)
+- [同事收到1w年终奖，快到下班点时，遇到领导来查岗，同事恰好不在工位，结果领导直接告诉负责人，让以后下班报备再走。](https://weixin.qdkfweb.cn/47990.html)
+- [搞懂 Vue 3 编译优化：静态提升的秘密](https://weixin.qdkfweb.cn/47971.html)
+- [3 款强大的开源低代码 LLM 编排工具，可视化定制专属 AI Agent 和 AI 工作流！](https://weixin.qdkfweb.cn/47972.html)
+- [微信终于可以转发语音了！不过一般人都不知道！](https://weixin.qdkfweb.cn/47985.html)
+- [前端需要知道的缓存知识总结](https://weixin.qdkfweb.cn/47939.html)
 <!-- BLOG-POST-LIST:END -->
