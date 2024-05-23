@@ -16,8 +16,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [同事收到1w年终奖，快到下班点时，遇到领导来查岗，同事恰好不在工位，结果领导直接告诉负责人，让以后下班报备再走。](https://weixin.qdkfweb.cn/47990.html)
-- [搞懂 Vue 3 编译优化：静态提升的秘密](https://weixin.qdkfweb.cn/47971.html)
 - [3 款强大的开源低代码 LLM 编排工具，可视化定制专属 AI Agent 和 AI 工作流！](https://weixin.qdkfweb.cn/47972.html)
+- [搞懂 Vue 3 编译优化：静态提升的秘密](https://weixin.qdkfweb.cn/47971.html)
 - [微信终于可以转发语音了！不过一般人都不知道！](https://weixin.qdkfweb.cn/47985.html)
-- [前端需要知道的缓存知识总结](https://weixin.qdkfweb.cn/47939.html)
+- [Vite 为何短短几年内变成这样？](https://weixin.qdkfweb.cn/47940.html)
 <!-- BLOG-POST-LIST:END -->
