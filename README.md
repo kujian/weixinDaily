@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [同事收到1w年终奖，快到下班点时，遇到领导来查岗，同事恰好不在工位，结果领导直接告诉负责人，让以后下班报备再走。](https://weixin.qdkfweb.cn/47990.html)
-- [搞懂 Vue 3 编译优化：静态提升的秘密](https://weixin.qdkfweb.cn/47971.html)
-- [3 款强大的开源低代码 LLM 编排工具，可视化定制专属 AI Agent 和 AI 工作流！](https://weixin.qdkfweb.cn/47972.html)
-- [微信终于可以转发语音了！不过一般人都不知道！](https://weixin.qdkfweb.cn/47985.html)
-- [Vite 为何短短几年内变成这样？](https://weixin.qdkfweb.cn/47940.html)
+- [五分钟搭建一个 Suno AI 音乐站点](https://weixin.qdkfweb.cn/48036.html)
+- [前端抱怨API响应慢，怎么办？](https://weixin.qdkfweb.cn/48043.html)
+- [国产 Kimi 智能助手，太炸裂了！](https://weixin.qdkfweb.cn/48110.html)
+- [Vue开发者必看：强制刷新组件的实用技巧！！](https://weixin.qdkfweb.cn/48042.html)
+- [Web 图片优化指导：最佳图片显示效果与用户体验](https://weixin.qdkfweb.cn/48032.html)
 <!-- BLOG-POST-LIST:END -->
