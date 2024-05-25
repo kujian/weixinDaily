@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [五分钟搭建一个 Suno AI 音乐站点](https://weixin.qdkfweb.cn/48036.html)
-- [前端抱怨API响应慢，怎么办？](https://weixin.qdkfweb.cn/48043.html)
-- [国产 Kimi 智能助手，太炸裂了！](https://weixin.qdkfweb.cn/48110.html)
-- [Vue开发者必看：强制刷新组件的实用技巧！！](https://weixin.qdkfweb.cn/48042.html)
-- [Web 图片优化指导：最佳图片显示效果与用户体验](https://weixin.qdkfweb.cn/48032.html)
+- [MambaOut：视觉任务真的需要Mamba吗？](https://weixin.qdkfweb.cn/48116.html)
+- [得克萨斯A&amp;M大学涂正中教授招收全奖博士生/硕士/实习生](https://weixin.qdkfweb.cn/48117.html)
+- [Mamba和扩散模型微信群成立！](https://weixin.qdkfweb.cn/48118.html)
+- [学妹拿下字节一面！](https://weixin.qdkfweb.cn/48115.html)
+- [4.6K star！Jina AI开源神器，一键优化网页让AI更懂你！](https://weixin.qdkfweb.cn/48127.html)
 <!-- BLOG-POST-LIST:END -->
