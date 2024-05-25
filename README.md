@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [MambaOut：视觉任务真的需要Mamba吗？](https://weixin.qdkfweb.cn/48116.html)
 - [得克萨斯A&amp;M大学涂正中教授招收全奖博士生/硕士/实习生](https://weixin.qdkfweb.cn/48117.html)
 - [Mamba和扩散模型微信群成立！](https://weixin.qdkfweb.cn/48118.html)
 - [学妹拿下字节一面！](https://weixin.qdkfweb.cn/48115.html)
+- [MambaOut：视觉任务真的需要Mamba吗？](https://weixin.qdkfweb.cn/48116.html)
 - [4.6K star！Jina AI开源神器，一键优化网页让AI更懂你！](https://weixin.qdkfweb.cn/48127.html)
 <!-- BLOG-POST-LIST:END -->
