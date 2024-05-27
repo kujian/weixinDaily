@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [钱到账了，工龄37年，个人账户金额148829.22元，天津某副高级职工退休金曝光。网友：企业职称与事业编职称没法比较](https://weixin.qdkfweb.cn/48178.html)
-- [博士2篇SCI二区，享120万引进费！5年副教授津贴！120㎡免费住房，硕士配偶人事代理！](https://weixin.qdkfweb.cn/48211.html)
-- [李飞飞亲自撰文：大模型不存在主观感觉能力，多少亿参数都不行！](https://weixin.qdkfweb.cn/48212.html)
-- [万万没想到，用浏览器打开终端竟这么容易实现](https://weixin.qdkfweb.cn/48131.html)
-- [老板“沟通”！你能听懂几句？](https://weixin.qdkfweb.cn/48198.html)
+- [请假出去面试，不巧被领导撞了个正着，还没等我开口，领导直接告诉我说：我刚刚面试完，工资给的太低了你别去！](https://weixin.qdkfweb.cn/48263.html)
+- [同事被辞退拿了8万赔偿，交接完离开后，新来的员工直接把电脑资料删除了，老板威胁他回来修复，不然就全行业封杀他](https://weixin.qdkfweb.cn/48264.html)
+- [钱到账了，工龄40年，山东事业单位职工退休金曝光，网友：劳有所得，羡慕不来！](https://weixin.qdkfweb.cn/48265.html)
+- [突发！上海两大 IT 养老院裁员](https://weixin.qdkfweb.cn/48283.html)
+- [图灵奖得主Bengio团队新作：注意力可视为RNN！新模型媲美Transformer](https://weixin.qdkfweb.cn/48284.html)
 <!-- BLOG-POST-LIST:END -->
