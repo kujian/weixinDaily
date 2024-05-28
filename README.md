@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [请假出去面试，不巧被领导撞了个正着，还没等我开口，领导直接告诉我说：我刚刚面试完，工资给的太低了你别去！](https://weixin.qdkfweb.cn/48263.html)
-- [同事被辞退拿了8万赔偿，交接完离开后，新来的员工直接把电脑资料删除了，老板威胁他回来修复，不然就全行业封杀他](https://weixin.qdkfweb.cn/48264.html)
-- [钱到账了，工龄40年，山东事业单位职工退休金曝光，网友：劳有所得，羡慕不来！](https://weixin.qdkfweb.cn/48265.html)
-- [突发！上海两大 IT 养老院裁员](https://weixin.qdkfweb.cn/48283.html)
-- [图灵奖得主Bengio团队新作：注意力可视为RNN！新模型媲美Transformer](https://weixin.qdkfweb.cn/48284.html)
+- [转正后月薪2.1w，年终奖90000，可带薪旅游，公积金8k，餐费800，要经常加班，这样的岗位你会接受吗？](https://weixin.qdkfweb.cn/48348.html)
+- [钱到账了，工龄29年，个人账户金额298737.7元，上海某国企职工退休金曝光。网友：退休前续上灵活就业会更高一些](https://weixin.qdkfweb.cn/48350.html)
+- [这些被同事喷的JS代码风格，你写过多少？](https://weixin.qdkfweb.cn/48301.html)
+- [这几个AI盈利新模式挺牛逼](https://weixin.qdkfweb.cn/48344.html)
+- [原生 canvas 如何实现大屏?](https://weixin.qdkfweb.cn/48321.html)
 <!-- BLOG-POST-LIST:END -->
