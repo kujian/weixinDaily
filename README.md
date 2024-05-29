@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [转正后月薪2.1w，年终奖90000，可带薪旅游，公积金8k，餐费800，要经常加班，这样的岗位你会接受吗？](https://weixin.qdkfweb.cn/48348.html)
-- [钱到账了，工龄29年，个人账户金额298737.7元，上海某国企职工退休金曝光。网友：退休前续上灵活就业会更高一些](https://weixin.qdkfweb.cn/48350.html)
-- [这些被同事喷的JS代码风格，你写过多少？](https://weixin.qdkfweb.cn/48301.html)
-- [这几个AI盈利新模式挺牛逼](https://weixin.qdkfweb.cn/48344.html)
-- [原生 canvas 如何实现大屏?](https://weixin.qdkfweb.cn/48321.html)
+- [经常加班熬不住了，写好了简历准备投递，同事提醒别用公司电脑，结果领导联系我说：看到你更新简历了，是准备要跳槽吗？](https://weixin.qdkfweb.cn/48427.html)
+- [5.28｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/48436.html)
+- [2.8K star!一款功能强大的轻型级论坛系统项目，开源免费！](https://weixin.qdkfweb.cn/48450.html)
+- [阿里云云大使2.0升级：0门槛副业每月多挣几万，不来试试吗？](https://weixin.qdkfweb.cn/48452.html)
+- [大学老师感叹：1990年就会写的程序，现在的计算机系同学反而写不出](https://weixin.qdkfweb.cn/48453.html)
 <!-- BLOG-POST-LIST:END -->
