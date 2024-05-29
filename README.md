@@ -18,6 +18,6 @@
 - [经常加班熬不住了，写好了简历准备投递，同事提醒别用公司电脑，结果领导联系我说：看到你更新简历了，是准备要跳槽吗？](https://weixin.qdkfweb.cn/48427.html)
 - [5.28｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/48436.html)
 - [2.8K star!一款功能强大的轻型级论坛系统项目，开源免费！](https://weixin.qdkfweb.cn/48450.html)
-- [阿里云云大使2.0升级：0门槛副业每月多挣几万，不来试试吗？](https://weixin.qdkfweb.cn/48452.html)
 - [大学老师感叹：1990年就会写的程序，现在的计算机系同学反而写不出](https://weixin.qdkfweb.cn/48453.html)
+- [“马化腾开发的企鹅系统”](https://weixin.qdkfweb.cn/48454.html)
 <!-- BLOG-POST-LIST:END -->
