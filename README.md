@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [经常加班熬不住了，写好了简历准备投递，同事提醒别用公司电脑，结果领导联系我说：看到你更新简历了，是准备要跳槽吗？](https://weixin.qdkfweb.cn/48427.html)
-- [5.28｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/48436.html)
-- [2.8K star!一款功能强大的轻型级论坛系统项目，开源免费！](https://weixin.qdkfweb.cn/48450.html)
-- [大学老师感叹：1990年就会写的程序，现在的计算机系同学反而写不出](https://weixin.qdkfweb.cn/48453.html)
-- [“马化腾开发的企鹅系统”](https://weixin.qdkfweb.cn/48454.html)
+- [昨天面试了一家公司，面试官40多岁楚楚动人，做完介绍后她拿起应聘表，开口就说：你如今26岁了，已经不年轻了，我礼貌性地笑笑。](https://weixin.qdkfweb.cn/48507.html)
+- [盘点：2023年互联网公司到底“减”了多少人？](https://weixin.qdkfweb.cn/48526.html)
+- [钱到账了，工龄32年，退休金2633.94元，账户余额70798.02。网友：你这灵活就业也太少了吧，我国企，同工龄，比你多点](https://weixin.qdkfweb.cn/48510.html)
+- [比亚迪算法岗面试，问的贼细！](https://weixin.qdkfweb.cn/48533.html)
+- [YOLOv10 惊天问世！目标检测最新SOTA！清华重磅开源！](https://weixin.qdkfweb.cn/48534.html)
 <!-- BLOG-POST-LIST:END -->
