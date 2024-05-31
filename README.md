@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [昨天面试了一家公司，面试官40多岁楚楚动人，做完介绍后她拿起应聘表，开口就说：你如今26岁了，已经不年轻了，我礼貌性地笑笑。](https://weixin.qdkfweb.cn/48507.html)
-- [盘点：2023年互联网公司到底“减”了多少人？](https://weixin.qdkfweb.cn/48526.html)
-- [钱到账了，工龄32年，退休金2633.94元，账户余额70798.02。网友：你这灵活就业也太少了吧，我国企，同工龄，比你多点](https://weixin.qdkfweb.cn/48510.html)
-- [YOLOv10 惊天问世！目标检测最新SOTA！清华重磅开源！](https://weixin.qdkfweb.cn/48534.html)
-- [比亚迪算法岗面试，问的贼细！](https://weixin.qdkfweb.cn/48533.html)
+- [坐标新加坡，字节跳动员工爆料，在新加坡爽得一匹，10%的税，没有国内卷](https://weixin.qdkfweb.cn/48602.html)
+- [钱到账了，工龄42年，个人账户金额112694.1元，吉林某职工退休金曝光。网友：可以享受生活了！](https://weixin.qdkfweb.cn/48603.html)
+- [新时代的三点生存法则](https://weixin.qdkfweb.cn/48597.html)
+- [华为招聘宣讲现场，某同学提问：为什么加班这么多，华为主管回应称：想成世界第一，只能艰苦奋斗](https://weixin.qdkfweb.cn/48623.html)
+- [29K star!一款打造极简 web 界面的利器！](https://weixin.qdkfweb.cn/48625.html)
 <!-- BLOG-POST-LIST:END -->
