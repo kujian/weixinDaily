@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [坐标新加坡，字节跳动员工爆料，在新加坡爽得一匹，10%的税，没有国内卷](https://weixin.qdkfweb.cn/48602.html)
-- [钱到账了，工龄42年，个人账户金额112694.1元，吉林某职工退休金曝光。网友：可以享受生活了！](https://weixin.qdkfweb.cn/48603.html)
-- [新时代的三点生存法则](https://weixin.qdkfweb.cn/48597.html)
-- [华为招聘宣讲现场，某同学提问：为什么加班这么多，华为主管回应称：想成世界第一，只能艰苦奋斗](https://weixin.qdkfweb.cn/48623.html)
-- [29K star!一款打造极简 web 界面的利器！](https://weixin.qdkfweb.cn/48625.html)
+- [钱到账了，工龄37年，个人账户金额486711.61元，北京某职工实发退休金曝光，网友：企退天花板，羡慕但学不来！](https://weixin.qdkfweb.cn/48657.html)
+- [忍不住说点真话了...](https://weixin.qdkfweb.cn/48653.html)
+- [某大厂员工：一张图证明公司要“裁员”了，厕所的纸“薄如蝉翼”，一擦一个洞](https://weixin.qdkfweb.cn/48668.html)
+- [前端跨平台开发框架大盘点](https://weixin.qdkfweb.cn/48633.html)
+- [又火一个惊艳的AI项目，已开源！](https://weixin.qdkfweb.cn/48654.html)
 <!-- BLOG-POST-LIST:END -->
