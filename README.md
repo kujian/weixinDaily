@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [钱到账了，工龄37年，个人账户金额486711.61元，北京某职工实发退休金曝光，网友：企退天花板，羡慕但学不来！](https://weixin.qdkfweb.cn/48657.html)
-- [忍不住说点真话了...](https://weixin.qdkfweb.cn/48653.html)
-- [某大厂员工：一张图证明公司要“裁员”了，厕所的纸“薄如蝉翼”，一擦一个洞](https://weixin.qdkfweb.cn/48668.html)
-- [前端跨平台开发框架大盘点](https://weixin.qdkfweb.cn/48633.html)
-- [又火一个惊艳的AI项目，已开源！](https://weixin.qdkfweb.cn/48654.html)
+- [博士6篇SCI：110万安家费！配偶本科可安置工作，省属高校招聘！](https://weixin.qdkfweb.cn/48705.html)
+- [LeCun直言：ViT速度慢且效率低，实时图像处理还得看卷积！](https://weixin.qdkfweb.cn/48706.html)
+- [6.1｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/48697.html)
+- [程序员上线出了bug，导致几小时内无法下单，第二天才发现，公司要求他赔偿损失并扣除工资](https://weixin.qdkfweb.cn/48721.html)
+- [Java是最能打的编程语言](https://weixin.qdkfweb.cn/48723.html)
 <!-- BLOG-POST-LIST:END -->
