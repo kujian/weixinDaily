@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [博士6篇SCI：110万安家费！配偶本科可安置工作，省属高校招聘！](https://weixin.qdkfweb.cn/48705.html)
-- [LeCun直言：ViT速度慢且效率低，实时图像处理还得看卷积！](https://weixin.qdkfweb.cn/48706.html)
-- [6.1｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/48697.html)
-- [程序员上线出了bug，导致几小时内无法下单，第二天才发现，公司要求他赔偿损失并扣除工资](https://weixin.qdkfweb.cn/48721.html)
-- [Java是最能打的编程语言](https://weixin.qdkfweb.cn/48723.html)
+- [同事家在广东，北漂了整10年，提了离职回家照顾父母，结果领导不同意，说可以向公司请1个月假，但是不会发工资，然后回来上班。](https://weixin.qdkfweb.cn/48776.html)
+- [为什么劝你一定要进外企，仅从公积金就能看出来](https://weixin.qdkfweb.cn/48778.html)
+- [钱到账了，工龄42年，个人账户金额112652.29元，山东某职工实发退休金曝光，网友说：还给少算了](https://weixin.qdkfweb.cn/48780.html)
+- [华为员工爆料：你以为的华为上班早9晚9很累，其实并不累。很多家里有娃的员工就打着加班的借口，让老婆带娃，实际出去玩了](https://weixin.qdkfweb.cn/48781.html)
+- [AAAI 2024 | 广西师范大学提出ODTrack：目标跟踪新框架](https://weixin.qdkfweb.cn/48801.html)
 <!-- BLOG-POST-LIST:END -->
