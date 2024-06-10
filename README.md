@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [在滴滴开发H5一年了，我遇到了这些问题](https://weixin.qdkfweb.cn/49153.html)
-- [领导最懂怎么恶心人！离职一个多月才拿到离职证明，领导竟在上面留下自己电话用来背调！](https://weixin.qdkfweb.cn/48950.html)
-- [明确了！社保降费！医保、养老保险缴费费率下调！](https://weixin.qdkfweb.cn/49178.html)
-- [社保新规！2024年7月起不再自动扣费，需自行申报缴费！](https://weixin.qdkfweb.cn/49179.html)
-- [突发！微软裁员1500人！](https://weixin.qdkfweb.cn/48825.html)
+- [钱到账了，工龄17年，江苏南京某职工退休金明细曝光，网友：退休之后可以干点副业了](https://weixin.qdkfweb.cn/49213.html)
+- [男朋友和领导大吵了一架，被裁员了，离职前月薪8000，不到一周找了个18000，就在准备收拾去下家上班时，结果HR说不用去了](https://weixin.qdkfweb.cn/49208.html)
+- [C9官宣：年薪20万读博！](https://weixin.qdkfweb.cn/49231.html)
+- [Mamba是一种线性注意力？清华黄高团队揭秘视觉Mamba的真实面目！](https://weixin.qdkfweb.cn/49232.html)
+- [让Mamba涨点！树形SSM来了！清华和腾讯提出GrootVL：多功能多模态框架](https://weixin.qdkfweb.cn/49233.html)
 <!-- BLOG-POST-LIST:END -->
