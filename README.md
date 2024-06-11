@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [钱到账了，工龄17年，江苏南京某职工退休金明细曝光，网友：退休之后可以干点副业了](https://weixin.qdkfweb.cn/49213.html)
-- [男朋友和领导大吵了一架，被裁员了，离职前月薪8000，不到一周找了个18000，就在准备收拾去下家上班时，结果HR说不用去了](https://weixin.qdkfweb.cn/49208.html)
-- [C9官宣：年薪20万读博！](https://weixin.qdkfweb.cn/49231.html)
-- [Mamba是一种线性注意力？清华黄高团队揭秘视觉Mamba的真实面目！](https://weixin.qdkfweb.cn/49232.html)
-- [让Mamba涨点！树形SSM来了！清华和腾讯提出GrootVL：多功能多模态框架](https://weixin.qdkfweb.cn/49233.html)
+- [端午请假回家被拒，领导安排让拜访客户，拿了2盒粽子送了过去，结果客户说：听说今年的粽子好吃，不知道打开香不香？](https://weixin.qdkfweb.cn/49280.html)
+- [女程序员，你们每天上班会化妆么？](https://weixin.qdkfweb.cn/49294.html)
+- [以前在大厂没感觉，直到失业的第四个月，我才意识到，挣的高工资不是靠自己而是市场，真正能抵抗裁员潮的，还得是搞钱能力](https://weixin.qdkfweb.cn/49281.html)
+- [字节跳动算法岗面试，问的贼细！](https://weixin.qdkfweb.cn/49304.html)
+- [细胞大模型登上Nature子刊！清华提出scFoundation：1亿参数！对人类2万基因同时建模！](https://weixin.qdkfweb.cn/49305.html)
 <!-- BLOG-POST-LIST:END -->
