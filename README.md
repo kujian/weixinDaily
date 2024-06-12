@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [端午请假回家被拒，领导安排让拜访客户，拿了2盒粽子送了过去，结果客户说：听说今年的粽子好吃，不知道打开香不香？](https://weixin.qdkfweb.cn/49280.html)
-- [女程序员，你们每天上班会化妆么？](https://weixin.qdkfweb.cn/49294.html)
-- [以前在大厂没感觉，直到失业的第四个月，我才意识到，挣的高工资不是靠自己而是市场，真正能抵抗裁员潮的，还得是搞钱能力](https://weixin.qdkfweb.cn/49281.html)
-- [字节跳动算法岗面试，问的贼细！](https://weixin.qdkfweb.cn/49304.html)
-- [细胞大模型登上Nature子刊！清华提出scFoundation：1亿参数！对人类2万基因同时建模！](https://weixin.qdkfweb.cn/49305.html)
+- [原本端午节后要来上班的候选人不见踪影，同事和HR分别联系也没接，结果同事用外地号码的手机给人选打电话，他接了不停说抱歉。](https://weixin.qdkfweb.cn/49367.html)
+- [6.11｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/49387.html)
+- [阿里云社招｜IDC事业部纳新，20+岗位招募中！](https://weixin.qdkfweb.cn/49388.html)
+- [如何在 Python 中编写干净的代码](https://weixin.qdkfweb.cn/49325.html)
+- [大厂员工新型“炫富”方式，晒裁员赔偿](https://weixin.qdkfweb.cn/49385.html)
 <!-- BLOG-POST-LIST:END -->
