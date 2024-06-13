@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [原本端午节后要来上班的候选人不见踪影，同事和HR分别联系也没接，结果同事用外地号码的手机给人选打电话，他接了不停说抱歉。](https://weixin.qdkfweb.cn/49367.html)
-- [6.11｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/49387.html)
-- [阿里云社招｜IDC事业部纳新，20+岗位招募中！](https://weixin.qdkfweb.cn/49388.html)
-- [如何在 Python 中编写干净的代码](https://weixin.qdkfweb.cn/49325.html)
-- [大厂员工新型“炫富”方式，晒裁员赔偿](https://weixin.qdkfweb.cn/49385.html)
+- [客户通知评审项目，领导临时安排我汇报，可还没有汇报完，结果评委说：我怀疑你这项目水分很大，得砍掉500w。](https://weixin.qdkfweb.cn/49451.html)
+- [2024年养老金调整出人意料，人社部透露养老金调整机制有变，或大幅上调？“20连涨”有戏了？调整方案尚未出炉，六月是关键期？](https://weixin.qdkfweb.cn/49453.html)
+- [公司裁员不给赔偿，员工不同意和公司硬刚，死耗9个月35000月薪照拿，拒绝阿里百度滴滴offer，到底值不值？](https://weixin.qdkfweb.cn/49452.html)
+- [30岁P8，37岁还是P8](https://weixin.qdkfweb.cn/49468.html)
+- [今年，很多软件公司搞新媒体IP获客，业绩都爆发了](https://weixin.qdkfweb.cn/49472.html)
 <!-- BLOG-POST-LIST:END -->
