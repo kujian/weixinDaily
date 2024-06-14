@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [客户通知评审项目，领导临时安排我汇报，可还没有汇报完，结果评委说：我怀疑你这项目水分很大，得砍掉500w。](https://weixin.qdkfweb.cn/49451.html)
-- [2024年养老金调整出人意料，人社部透露养老金调整机制有变，或大幅上调？“20连涨”有戏了？调整方案尚未出炉，六月是关键期？](https://weixin.qdkfweb.cn/49453.html)
-- [公司裁员不给赔偿，员工不同意和公司硬刚，死耗9个月35000月薪照拿，拒绝阿里百度滴滴offer，到底值不值？](https://weixin.qdkfweb.cn/49452.html)
-- [30岁P8，37岁还是P8](https://weixin.qdkfweb.cn/49468.html)
-- [今年，很多软件公司搞新媒体IP获客，业绩都爆发了](https://weixin.qdkfweb.cn/49472.html)
+- [同事月薪6800，端午节后上班就收拾东西，她说组长给领导反馈说，因为自己端午放假没接电话，把项目验收给耽误了！](https://weixin.qdkfweb.cn/49535.html)
+- [跟人事聊天，发现40上的中年妇女开始吃香，虽然工资按趋势下调，但可以找到工作。原来用人单位要的是：已婚已育不能生育呀！](https://weixin.qdkfweb.cn/49537.html)
+- [好消息！2024年养老金标准“再提高”！3类退休人员的“涨幅”更高！瞧瞧有你吗？](https://weixin.qdkfweb.cn/49540.html)
+- [6.13｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/49555.html)
+- [如何用 Suno 生成高质量歌曲：从前奏到尾奏的全流程解析](https://weixin.qdkfweb.cn/49490.html)
 <!-- BLOG-POST-LIST:END -->
