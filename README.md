@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [同事月薪6800，端午节后上班就收拾东西，她说组长给领导反馈说，因为自己端午放假没接电话，把项目验收给耽误了！](https://weixin.qdkfweb.cn/49535.html)
-- [跟人事聊天，发现40上的中年妇女开始吃香，虽然工资按趋势下调，但可以找到工作。原来用人单位要的是：已婚已育不能生育呀！](https://weixin.qdkfweb.cn/49537.html)
-- [好消息！2024年养老金标准“再提高”！3类退休人员的“涨幅”更高！瞧瞧有你吗？](https://weixin.qdkfweb.cn/49540.html)
-- [6.13｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/49555.html)
-- [如何用 Suno 生成高质量歌曲：从前奏到尾奏的全流程解析](https://weixin.qdkfweb.cn/49490.html)
+- [同事给我介绍了个私活儿，说1万报酬全给我，昨天快要交片之前，我私下问了下甲方，结果甲方说你同事白拿了很多。](https://weixin.qdkfweb.cn/49606.html)
+- [女程序员失业半年，某央企以为她已婚已孕，准备发offer，结果发现她未婚未孕，立马反悔，直接取消offer了](https://weixin.qdkfweb.cn/49607.html)
+- [软科中国大学人工智能专业排名出炉！清华第一！北大爆冷！仅排第13名。。。](https://weixin.qdkfweb.cn/49632.html)
+- [2025届校招又爆了！](https://weixin.qdkfweb.cn/49633.html)
+- [PointMamba迎来更新！​Mamba在点云分析中是否能替代Transformer？](https://weixin.qdkfweb.cn/49634.html)
 <!-- BLOG-POST-LIST:END -->
