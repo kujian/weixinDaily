@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [同事给我介绍了个私活儿，说1万报酬全给我，昨天快要交片之前，我私下问了下甲方，结果甲方说你同事白拿了很多。](https://weixin.qdkfweb.cn/49606.html)
-- [女程序员失业半年，某央企以为她已婚已孕，准备发offer，结果发现她未婚未孕，立马反悔，直接取消offer了](https://weixin.qdkfweb.cn/49607.html)
-- [软科中国大学人工智能专业排名出炉！清华第一！北大爆冷！仅排第13名。。。](https://weixin.qdkfweb.cn/49632.html)
-- [2025届校招又爆了！](https://weixin.qdkfweb.cn/49633.html)
-- [PointMamba迎来更新！​Mamba在点云分析中是否能替代Transformer？](https://weixin.qdkfweb.cn/49634.html)
+- [突发！OpenAI宣布终止对中国提供API服务](https://weixin.qdkfweb.cn/49787.html)
+- [晋升2次全失败了，经常被新来领导打压，吵了一架后提了辞呈，结果新领导说你干了这么久了，好似分辨不出来我是在考验你？](https://weixin.qdkfweb.cn/49831.html)
+- [工资4100元，五险一金，住双人间，包吃包住，工作轻松，你愿意做护林员么？](https://weixin.qdkfweb.cn/49851.html)
+- [6.24｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/49789.html)
+- [字节-高级前端三轮面经](https://weixin.qdkfweb.cn/49946.html)
 <!-- BLOG-POST-LIST:END -->
