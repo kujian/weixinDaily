@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [突发！OpenAI宣布终止对中国提供API服务](https://weixin.qdkfweb.cn/49787.html)
-- [晋升2次全失败了，经常被新来领导打压，吵了一架后提了辞呈，结果新领导说你干了这么久了，好似分辨不出来我是在考验你？](https://weixin.qdkfweb.cn/49831.html)
-- [工资4100元，五险一金，住双人间，包吃包住，工作轻松，你愿意做护林员么？](https://weixin.qdkfweb.cn/49851.html)
-- [6.24｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/49789.html)
-- [字节-高级前端三轮面经](https://weixin.qdkfweb.cn/49946.html)
+- [领导分了70w的奖金，随后宣布团队就此解散，结果同事不接受，直言说她已经干了5年了，这算是变相把她裁了，这点钱根本不够赔偿！](https://weixin.qdkfweb.cn/50178.html)
+- [大厂程序员自爆：跟了领导6年，成了嫡系，每年绩效都是S，现在领导要离职了，感觉自己也要被毕业了，该怎么办好？](https://weixin.qdkfweb.cn/50179.html)
+- [6.9K star！轻量的开源自托管屏幕分享项目，高质量低延迟！](https://weixin.qdkfweb.cn/50207.html)
+- [VS Code劲敌、Atom原作者主导、Rust编写的“最好”编辑器——Zed开始支持Linux](https://weixin.qdkfweb.cn/50200.html)
+- [阿里也出手了！Spring Cloud Alibaba AI 初体验](https://weixin.qdkfweb.cn/50198.html)
 <!-- BLOG-POST-LIST:END -->
