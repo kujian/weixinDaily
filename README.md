@@ -19,5 +19,5 @@
 - [大疆员工爆料：在大疆老实本分的干了六年多，天天加班到深夜，却比不上供应商的一句诬陷，单凭一个口供就被辞退了！](https://weixin.qdkfweb.cn/50259.html)
 - [别想调试我的前端代码！](https://weixin.qdkfweb.cn/50221.html)
 - [83.7K star!你还不知道这个开源免费的Win/Office激活项目？](https://weixin.qdkfweb.cn/50291.html)
-- [下属月薪12000，每天加班到11点。作为领导，我月薪25000，每天7点就下班了，感觉卷不过员工，该如何处理这种关系？](https://weixin.qdkfweb.cn/50261.html)
+- [这家央企，本科最高18万，正编机会，七险二金，福利超好，无失业风险，工资待遇比公务员好](https://weixin.qdkfweb.cn/50264.html)
 <!-- BLOG-POST-LIST:END -->
