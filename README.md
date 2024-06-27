@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [领导分了70w的奖金，随后宣布团队就此解散，结果同事不接受，直言说她已经干了5年了，这算是变相把她裁了，这点钱根本不够赔偿！](https://weixin.qdkfweb.cn/50178.html)
-- [大厂程序员自爆：跟了领导6年，成了嫡系，每年绩效都是S，现在领导要离职了，感觉自己也要被毕业了，该怎么办好？](https://weixin.qdkfweb.cn/50179.html)
-- [6.9K star！轻量的开源自托管屏幕分享项目，高质量低延迟！](https://weixin.qdkfweb.cn/50207.html)
-- [阿里也出手了！Spring Cloud Alibaba AI 初体验](https://weixin.qdkfweb.cn/50198.html)
-- [XXL-JOB内部机制大揭秘，任务飞起来！](https://weixin.qdkfweb.cn/50199.html)
+- [公司庆功会上，同事发了5w奖金，我说你欠的1万是不是该还了，结果同事说：你就不能等庆功会结束了再说吗？非得在这时候让我找骂？](https://weixin.qdkfweb.cn/50258.html)
+- [大疆员工爆料：在大疆老实本分的干了六年多，天天加班到深夜，却比不上供应商的一句诬陷，单凭一个口供就被辞退了！](https://weixin.qdkfweb.cn/50259.html)
+- [别想调试我的前端代码！](https://weixin.qdkfweb.cn/50221.html)
+- [83.7K star!你还不知道这个开源免费的Win/Office激活项目？](https://weixin.qdkfweb.cn/50291.html)
+- [下属月薪12000，每天加班到11点。作为领导，我月薪25000，每天7点就下班了，感觉卷不过员工，该如何处理这种关系？](https://weixin.qdkfweb.cn/50261.html)
 <!-- BLOG-POST-LIST:END -->
