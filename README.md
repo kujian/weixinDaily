@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [公司庆功会上，同事发了5w奖金，我说你欠的1万是不是该还了，结果同事说：你就不能等庆功会结束了再说吗？非得在这时候让我找骂？](https://weixin.qdkfweb.cn/50258.html)
-- [大疆员工爆料：在大疆老实本分的干了六年多，天天加班到深夜，却比不上供应商的一句诬陷，单凭一个口供就被辞退了！](https://weixin.qdkfweb.cn/50259.html)
-- [别想调试我的前端代码！](https://weixin.qdkfweb.cn/50221.html)
-- [83.7K star!你还不知道这个开源免费的Win/Office激活项目？](https://weixin.qdkfweb.cn/50291.html)
-- [这家央企，本科最高18万，正编机会，七险二金，福利超好，无失业风险，工资待遇比公务员好](https://weixin.qdkfweb.cn/50264.html)
+- [字节跳动发布“豆包MarsCode”智能开发工具，面向国内开发者免费](https://weixin.qdkfweb.cn/50305.html)
+- [React 19 可能会让你的网站变得更慢！](https://weixin.qdkfweb.cn/50304.html)
+- [从入门到入魔，100个Python实战项目练习&lpar;附答案&rpar;！](https://weixin.qdkfweb.cn/50312.html)
+- [推荐 2 个 昨日 火火火 的开源项目](https://weixin.qdkfweb.cn/50308.html)
+- [字节跳动发布“豆包MarsCode”智能开发工具，面向国内开发者免费](https://weixin.qdkfweb.cn/50314.html)
 <!-- BLOG-POST-LIST:END -->
