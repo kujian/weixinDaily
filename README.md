@@ -19,5 +19,5 @@
 - [某大厂员工，领导让他报裁员名单，结果这哥们竟然想把自己写上去，拿着20多万的赔偿，去付买房的首付](https://weixin.qdkfweb.cn/50770.html)
 - [7月起，养老金迎“重算补发”！20、30和40年工龄，分别能涨多少钱？能超200元/月吗？](https://weixin.qdkfweb.cn/50772.html)
 - [比亚迪员工爆料：比亚迪开始强制有人背不合格了，背了年度待改进，基础工资降低15%，没有利润奖，也不能涨薪](https://weixin.qdkfweb.cn/50769.html)
-- [大厂上来就手撕Transformer，心凉一半。。。](https://weixin.qdkfweb.cn/50794.html)
+- [ECCV 2024 | 新注意力！清华黄高团队提出Agent Attention：Softmax与线性注意力的整合](https://weixin.qdkfweb.cn/50795.html)
 <!-- BLOG-POST-LIST:END -->
