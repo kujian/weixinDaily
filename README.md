@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [离职后发现工资卡里多了5万，以为发项目奖金了，找财务核实，结果财务说：这是公司领导安排给你的补偿，10年员工离职有补贴！](https://weixin.qdkfweb.cn/50768.html)
-- [某大厂员工，领导让他报裁员名单，结果这哥们竟然想把自己写上去，拿着20多万的赔偿，去付买房的首付](https://weixin.qdkfweb.cn/50770.html)
-- [7月起，养老金迎“重算补发”！20、30和40年工龄，分别能涨多少钱？能超200元/月吗？](https://weixin.qdkfweb.cn/50772.html)
-- [比亚迪员工爆料：比亚迪开始强制有人背不合格了，背了年度待改进，基础工资降低15%，没有利润奖，也不能涨薪](https://weixin.qdkfweb.cn/50769.html)
-- [大厂上来就手撕Transformer，心凉一半。。。](https://weixin.qdkfweb.cn/50794.html)
+- [连续加班3个月，项目终于上线，在庆功宴上喝多了，结果同事说：昨天饭局上你吐槽领导不给涨薪，当时喝多了你还记得不？](https://weixin.qdkfweb.cn/50861.html)
+- [基本工资5500元，年终奖4500，五险一金，上5休2特轻松，工作又香又稳的工资待遇分享](https://weixin.qdkfweb.cn/50864.html)
+- [男朋友在阿里，股票亏了6、7万，安慰他好一阵，直到他打开支付宝...100多万！他才工作了一年啊，大厂都这么豪的吗？](https://weixin.qdkfweb.cn/50862.html)
+- [最高40K+13薪！国企香港子公司招兵买马，外派俄罗斯，优先考虑这些人，一起看看你符合条件吗？](https://weixin.qdkfweb.cn/50869.html)
+- [自由职业三年教会了我如何不焦虑](https://weixin.qdkfweb.cn/50860.html)
 <!-- BLOG-POST-LIST:END -->
