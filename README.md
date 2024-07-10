@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [连续加班3个月，项目终于上线，在庆功宴上喝多了，结果同事说：昨天饭局上你吐槽领导不给涨薪，当时喝多了你还记得不？](https://weixin.qdkfweb.cn/50861.html)
-- [基本工资5500元，年终奖4500，五险一金，上5休2特轻松，工作又香又稳的工资待遇分享](https://weixin.qdkfweb.cn/50864.html)
-- [男朋友在阿里，股票亏了6、7万，安慰他好一阵，直到他打开支付宝...100多万！他才工作了一年啊，大厂都这么豪的吗？](https://weixin.qdkfweb.cn/50862.html)
-- [最高40K+13薪！国企香港子公司招兵买马，外派俄罗斯，优先考虑这些人，一起看看你符合条件吗？](https://weixin.qdkfweb.cn/50869.html)
-- [自由职业三年教会了我如何不焦虑](https://weixin.qdkfweb.cn/50860.html)
+- [工资144000，年终奖24000，年收入近17万，上5休2偶尔加班，越老越吃香的工作工资待遇分享](https://weixin.qdkfweb.cn/50952.html)
+- [互联网公司们补办一张工卡要多少钱？](https://weixin.qdkfweb.cn/50969.html)
+- [从零开始带你写一个前端脚手架](https://weixin.qdkfweb.cn/50931.html)
+- [某大厂HR爆料：公司正在捡漏35岁+的人员，被时代抛弃还是价值回归？](https://weixin.qdkfweb.cn/50985.html)
+- [突发！小红书或将裁员高达20%！？](https://weixin.qdkfweb.cn/50945.html)
 <!-- BLOG-POST-LIST:END -->
