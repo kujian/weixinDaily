@@ -17,7 +17,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [某程序员从大厂离职后，进入国企工作，虽然安逸，但却也丧失了拼搏的动力](https://weixin.qdkfweb.cn/51069.html)
 - [阿里西溪C区惊现120救护车](https://weixin.qdkfweb.cn/51054.html)
-- [2024中国大学计算机专业排名一览表](https://weixin.qdkfweb.cn/51066.html)
 - [百度秋招提前批，开始了！](https://weixin.qdkfweb.cn/51067.html)
 - [新员工一口气写完这些C语言例子，领导直接给他转正了！](https://weixin.qdkfweb.cn/51068.html)
+- [2024中国大学计算机专业排名一览表](https://weixin.qdkfweb.cn/51066.html)
 <!-- BLOG-POST-LIST:END -->
