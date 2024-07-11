@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [工资144000，年终奖24000，年收入近17万，上5休2偶尔加班，越老越吃香的工作工资待遇分享](https://weixin.qdkfweb.cn/50952.html)
-- [互联网公司们补办一张工卡要多少钱？](https://weixin.qdkfweb.cn/50969.html)
-- [从零开始带你写一个前端脚手架](https://weixin.qdkfweb.cn/50931.html)
-- [某大厂HR爆料：公司正在捡漏35岁+的人员，被时代抛弃还是价值回归？](https://weixin.qdkfweb.cn/50985.html)
-- [突发！小红书或将裁员高达20%！？](https://weixin.qdkfweb.cn/50945.html)
+- [某程序员从大厂离职后，进入国企工作，虽然安逸，但却也丧失了拼搏的动力](https://weixin.qdkfweb.cn/51069.html)
+- [阿里西溪C区惊现120救护车](https://weixin.qdkfweb.cn/51054.html)
+- [2024中国大学计算机专业排名一览表](https://weixin.qdkfweb.cn/51066.html)
+- [百度秋招提前批，开始了！](https://weixin.qdkfweb.cn/51067.html)
+- [新员工一口气写完这些C语言例子，领导直接给他转正了！](https://weixin.qdkfweb.cn/51068.html)
 <!-- BLOG-POST-LIST:END -->
