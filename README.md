@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [某程序员从大厂离职后，进入国企工作，虽然安逸，但却也丧失了拼搏的动力](https://weixin.qdkfweb.cn/51069.html)
-- [阿里西溪C区惊现120救护车](https://weixin.qdkfweb.cn/51054.html)
-- [百度秋招提前批，开始了！](https://weixin.qdkfweb.cn/51067.html)
-- [新员工一口气写完这些C语言例子，领导直接给他转正了！](https://weixin.qdkfweb.cn/51068.html)
-- [2024中国大学计算机专业排名一览表](https://weixin.qdkfweb.cn/51066.html)
+- [tailwindcss 高级思维模型](https://weixin.qdkfweb.cn/51104.html)
+- [需求指数级增加！普通打工人的 AI 入门法！](https://weixin.qdkfweb.cn/51144.html)
+- [360员工：GWY最显著的优势是稳定。朋友患癌，工资福利依然享有，活了7、8年仍未离世](https://weixin.qdkfweb.cn/51124.html)
+- [腾讯和去哪儿网官宣两件大事，上热搜了！](https://weixin.qdkfweb.cn/51103.html)
+- [GPT4.0，彻底爆了。。](https://weixin.qdkfweb.cn/51088.html)
 <!-- BLOG-POST-LIST:END -->
