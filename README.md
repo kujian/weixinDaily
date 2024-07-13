@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [tailwindcss 高级思维模型](https://weixin.qdkfweb.cn/51104.html)
-- [需求指数级增加！普通打工人的 AI 入门法！](https://weixin.qdkfweb.cn/51144.html)
-- [360员工：GWY最显著的优势是稳定。朋友患癌，工资福利依然享有，活了7、8年仍未离世](https://weixin.qdkfweb.cn/51124.html)
-- [腾讯和去哪儿网官宣两件大事，上热搜了！](https://weixin.qdkfweb.cn/51103.html)
-- [GPT4.0，彻底爆了。。](https://weixin.qdkfweb.cn/51088.html)
+- [编程语言是怎么被实现出来的？](https://weixin.qdkfweb.cn/51209.html)
+- [程序员凭一己之力自研浏览器，挑战Chrome：GitHub联合创始人力挺，投百万美元支持！](https://weixin.qdkfweb.cn/51210.html)
+- [不仅是输出信息，console.log 也能玩出花](https://weixin.qdkfweb.cn/51211.html)
+- [我工资5000，找到月薪11k工作后，开心地交了辞呈，租了新房子！结果入职前一天HR说：原来岗位的人不走了，你offer被取消了](https://weixin.qdkfweb.cn/51193.html)
+- [女生，985硕士，目前在西安某大厂，月薪到手17k，今年绩效背了C，压力大想去读博了](https://weixin.qdkfweb.cn/51194.html)
 <!-- BLOG-POST-LIST:END -->
