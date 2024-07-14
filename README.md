@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [编程语言是怎么被实现出来的？](https://weixin.qdkfweb.cn/51209.html)
-- [程序员凭一己之力自研浏览器，挑战Chrome：GitHub联合创始人力挺，投百万美元支持！](https://weixin.qdkfweb.cn/51210.html)
-- [不仅是输出信息，console.log 也能玩出花](https://weixin.qdkfweb.cn/51211.html)
-- [我工资5000，找到月薪11k工作后，开心地交了辞呈，租了新房子！结果入职前一天HR说：原来岗位的人不走了，你offer被取消了](https://weixin.qdkfweb.cn/51193.html)
-- [女生，985硕士，目前在西安某大厂，月薪到手17k，今年绩效背了C，压力大想去读博了](https://weixin.qdkfweb.cn/51194.html)
+- [院士退出机制，定了！](https://weixin.qdkfweb.cn/51269.html)
+- [Mamba真比Transformer更优吗？Mamba作者：我全都要！混合架构才是最优解！](https://weixin.qdkfweb.cn/51270.html)
+- [OpenAI机密五级AGI路线图曝光！GPT-4仍处L1，内部AI接近博士水平18个月诞生](https://weixin.qdkfweb.cn/51271.html)
+- [1.7K star！美观小巧的桌面快速启动管理神器！](https://weixin.qdkfweb.cn/51277.html)
+- [大厂P7老公被裁，说以后房贷要靠我还](https://weixin.qdkfweb.cn/51263.html)
 <!-- BLOG-POST-LIST:END -->
