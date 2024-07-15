@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [院士退出机制，定了！](https://weixin.qdkfweb.cn/51269.html)
-- [Mamba真比Transformer更优吗？Mamba作者：我全都要！混合架构才是最优解！](https://weixin.qdkfweb.cn/51270.html)
-- [OpenAI机密五级AGI路线图曝光！GPT-4仍处L1，内部AI接近博士水平18个月诞生](https://weixin.qdkfweb.cn/51271.html)
-- [1.7K star！美观小巧的桌面快速启动管理神器！](https://weixin.qdkfweb.cn/51277.html)
-- [大厂P7老公被裁，说以后房贷要靠我还](https://weixin.qdkfweb.cn/51263.html)
+- [怒怼“大橘”，他被大厂开除了！](https://weixin.qdkfweb.cn/51335.html)
+- [ECMAScript 2024新特性](https://weixin.qdkfweb.cn/51347.html)
+- [本周推荐的6个火火火的Github开源项目！](https://weixin.qdkfweb.cn/51345.html)
+- [Java之父宣布退休！69 岁大神：干了这么多年软件工程师，是时候享受人生了！](https://weixin.qdkfweb.cn/51342.html)
+- [Navicat 竟然免费了？可惜我有更好用的。。](https://weixin.qdkfweb.cn/51343.html)
 <!-- BLOG-POST-LIST:END -->
