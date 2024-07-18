@@ -17,7 +17,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [很严重，开始存钱、开始改变吧。](https://weixin.qdkfweb.cn/51562.html)
 - [这是今天阿里内网最火的一篇文章：此刻！](https://weixin.qdkfweb.cn/51585.html)
-- [未来3年，只有“含AI量”高的企业，能活下来](https://weixin.qdkfweb.cn/51588.html)
 - [35岁还没转管理，后来都怎么样了？](https://weixin.qdkfweb.cn/51589.html)
+- [未来3年，只有“含AI量”高的企业，能活下来](https://weixin.qdkfweb.cn/51588.html)
 - [大模型集体失智！9.11和9.9哪个大，几乎全翻车了](https://weixin.qdkfweb.cn/51602.html)
 <!-- BLOG-POST-LIST:END -->
