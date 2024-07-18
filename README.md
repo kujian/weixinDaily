@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [uniapp 真的很垃圾吗？](https://weixin.qdkfweb.cn/51356.html)
-- [我，在A司月薪6万，离职后突然惊醒：人越努力，只会越平庸。](https://weixin.qdkfweb.cn/51415.html)
-- [某大厂HR：很难受，今天开了一个要“割腕”的女生](https://weixin.qdkfweb.cn/51416.html)
-- [window.ai 开启你的内置AI之旅](https://weixin.qdkfweb.cn/51354.html)
-- [区区1万张表就把MySQL给整崩溃了](https://weixin.qdkfweb.cn/51443.html)
+- [很严重，开始存钱、开始改变吧。](https://weixin.qdkfweb.cn/51562.html)
+- [这是今天阿里内网最火的一篇文章：此刻！](https://weixin.qdkfweb.cn/51585.html)
+- [未来3年，只有“含AI量”高的企业，能活下来](https://weixin.qdkfweb.cn/51588.html)
+- [35岁还没转管理，后来都怎么样了？](https://weixin.qdkfweb.cn/51589.html)
+- [大模型集体失智！9.11和9.9哪个大，几乎全翻车了](https://weixin.qdkfweb.cn/51602.html)
 <!-- BLOG-POST-LIST:END -->
