@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [很严重，开始存钱、开始改变吧。](https://weixin.qdkfweb.cn/51562.html)
-- [这是今天阿里内网最火的一篇文章：此刻！](https://weixin.qdkfweb.cn/51585.html)
-- [35岁还没转管理，后来都怎么样了？](https://weixin.qdkfweb.cn/51589.html)
-- [未来3年，只有“含AI量”高的企业，能活下来](https://weixin.qdkfweb.cn/51588.html)
-- [大模型集体失智！9.11和9.9哪个大，几乎全翻车了](https://weixin.qdkfweb.cn/51602.html)
+- [百度员工：曾经年薪百万，失业后现在吃块肉也要看老婆脸色](https://weixin.qdkfweb.cn/51652.html)
+- [开源独角兽GitLab将被“卖身”](https://weixin.qdkfweb.cn/51663.html)
+- [萝卜快跑，断了我跑网约车的退路](https://weixin.qdkfweb.cn/51664.html)
+- [10 个冷门却好用到爆的 VSCode 插件！](https://weixin.qdkfweb.cn/51665.html)
+- [国外程序员吃饱了撑的？居然将Windows NT移植到“上古”的苹果麦金塔电脑](https://weixin.qdkfweb.cn/51666.html)
 <!-- BLOG-POST-LIST:END -->
