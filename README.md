@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [百度员工：曾经年薪百万，失业后现在吃块肉也要看老婆脸色](https://weixin.qdkfweb.cn/51652.html)
-- [开源独角兽GitLab将被“卖身”](https://weixin.qdkfweb.cn/51663.html)
-- [萝卜快跑，断了我跑网约车的退路](https://weixin.qdkfweb.cn/51664.html)
-- [10 个冷门却好用到爆的 VSCode 插件！](https://weixin.qdkfweb.cn/51665.html)
-- [国外程序员吃饱了撑的？居然将Windows NT移植到“上古”的苹果麦金塔电脑](https://weixin.qdkfweb.cn/51666.html)
+- [今天才知道，微信打电话和手机打电话区别这么大，涨知识了](https://weixin.qdkfweb.cn/51693.html)
+- [华为工作第10年，每当想辞职的时候就看看银行存单，给了我干下去的动力](https://weixin.qdkfweb.cn/51712.html)
+- [JavaScript装饰器初探：简单易懂的初学者入门指南](https://weixin.qdkfweb.cn/51689.html)
+- [如何使用JavaScript原生方法获取元素的背景图片URL？](https://weixin.qdkfweb.cn/51690.html)
+- [绝了，电脑被监控了！还怎么摸鱼？](https://weixin.qdkfweb.cn/51695.html)
 <!-- BLOG-POST-LIST:END -->
