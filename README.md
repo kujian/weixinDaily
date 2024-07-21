@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [今天才知道，微信打电话和手机打电话区别这么大，涨知识了](https://weixin.qdkfweb.cn/51693.html)
-- [华为工作第10年，每当想辞职的时候就看看银行存单，给了我干下去的动力](https://weixin.qdkfweb.cn/51712.html)
-- [JavaScript装饰器初探：简单易懂的初学者入门指南](https://weixin.qdkfweb.cn/51689.html)
-- [如何使用JavaScript原生方法获取元素的背景图片URL？](https://weixin.qdkfweb.cn/51690.html)
-- [绝了，电脑被监控了！还怎么摸鱼？](https://weixin.qdkfweb.cn/51695.html)
+- [100w了，我决定入局！](https://weixin.qdkfweb.cn/51761.html)
+- [你不知道的 async、await 魔鬼细节](https://weixin.qdkfweb.cn/51748.html)
+- [Pdd员工：大厂上班的我和基层Gwy媳妇互相羡慕着对方的工作](https://weixin.qdkfweb.cn/51781.html)
+- [Next.js为何不用Vite？却选择了自造轮子Turbopack！](https://weixin.qdkfweb.cn/51742.html)
+- [基于Apify+node+react/vue搭建一个有点意思的爬虫平台](https://weixin.qdkfweb.cn/51760.html)
 <!-- BLOG-POST-LIST:END -->
