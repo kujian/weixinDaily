@@ -18,6 +18,6 @@
 - [快要下班的时候，主管在群里通知要开会，大家都回复好的，我随口说了句可不可以请假，结果老板看到后把我直接开除了！](https://weixin.qdkfweb.cn/51909.html)
 - [面试官：如果一个NPM包部分功能不满足需求，如何修改其部分功能~](https://weixin.qdkfweb.cn/51991.html)
 - [独家｜京东绩效改革了！](https://weixin.qdkfweb.cn/51915.html)
-- [月薪10500～20000，9小时工作制，国内路费报销，发放劳保费，俄罗斯国企项目工人待遇曝光！网友：好机会啊](https://weixin.qdkfweb.cn/51887.html)
-- [中字头某国企员工爆出实发工资明细，网友说：意想不到！真的猛啊](https://weixin.qdkfweb.cn/51889.html)
+- [年薪70万大厂员工爆料：很难想象，我拿年薪70万的工作，主要工作内容是天天做PPT和开会讲PPT。这么下去快被养废了！](https://weixin.qdkfweb.cn/51882.html)
+- [华为员工爆料：在华为，转岗基本等于离职，被不是很熟的师兄忽悠过去，不到半年，就抗C背绩效了](https://weixin.qdkfweb.cn/51883.html)
 <!-- BLOG-POST-LIST:END -->
