@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [100w了，我决定入局！](https://weixin.qdkfweb.cn/51761.html)
-- [你不知道的 async、await 魔鬼细节](https://weixin.qdkfweb.cn/51748.html)
-- [Pdd员工：大厂上班的我和基层Gwy媳妇互相羡慕着对方的工作](https://weixin.qdkfweb.cn/51781.html)
-- [Next.js为何不用Vite？却选择了自造轮子Turbopack！](https://weixin.qdkfweb.cn/51742.html)
-- [基于Apify+node+react/vue搭建一个有点意思的爬虫平台](https://weixin.qdkfweb.cn/51760.html)
+- [快要下班的时候，主管在群里通知要开会，大家都回复好的，我随口说了句可不可以请假，结果老板看到后把我直接开除了！](https://weixin.qdkfweb.cn/51909.html)
+- [面试官：如果一个NPM包部分功能不满足需求，如何修改其部分功能~](https://weixin.qdkfweb.cn/51991.html)
+- [独家｜京东绩效改革了！](https://weixin.qdkfweb.cn/51915.html)
+- [月薪10500～20000，9小时工作制，国内路费报销，发放劳保费，俄罗斯国企项目工人待遇曝光！网友：好机会啊](https://weixin.qdkfweb.cn/51887.html)
+- [中字头某国企员工爆出实发工资明细，网友说：意想不到！真的猛啊](https://weixin.qdkfweb.cn/51889.html)
 <!-- BLOG-POST-LIST:END -->
