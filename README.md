@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [快要下班的时候，主管在群里通知要开会，大家都回复好的，我随口说了句可不可以请假，结果老板看到后把我直接开除了！](https://weixin.qdkfweb.cn/51909.html)
-- [面试官：如果一个NPM包部分功能不满足需求，如何修改其部分功能~](https://weixin.qdkfweb.cn/51991.html)
-- [独家｜京东绩效改革了！](https://weixin.qdkfweb.cn/51915.html)
-- [年薪70万大厂员工爆料：很难想象，我拿年薪70万的工作，主要工作内容是天天做PPT和开会讲PPT。这么下去快被养废了！](https://weixin.qdkfweb.cn/51882.html)
-- [华为员工爆料：在华为，转岗基本等于离职，被不是很熟的师兄忽悠过去，不到半年，就抗C背绩效了](https://weixin.qdkfweb.cn/51883.html)
+- [刚升任部门副经理，就被通知要裁掉2个下属，我不忍心下手，结果领导说：不裁别人也行，副经理你就别干了！](https://weixin.qdkfweb.cn/52066.html)
+- [中兴员工爆料，来了一个女同事，华为劝退的，又菜事又多，领导却感觉捡到宝了。华为网友：突然觉得有退路了。](https://weixin.qdkfweb.cn/52069.html)
+- [腾讯2024届的薪资。。。](https://weixin.qdkfweb.cn/52091.html)
+- [CVPR 2024 | 李飞飞团队提出超强仿真数据生成工具BVS](https://weixin.qdkfweb.cn/52092.html)
+- [MICCAI 2024 Semi-TeethSeg 牙齿分割挑战赛全面启动！](https://weixin.qdkfweb.cn/52093.html)
 <!-- BLOG-POST-LIST:END -->
