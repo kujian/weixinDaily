@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [刚升任部门副经理，就被通知要裁掉2个下属，我不忍心下手，结果领导说：不裁别人也行，副经理你就别干了！](https://weixin.qdkfweb.cn/52066.html)
-- [中兴员工爆料，来了一个女同事，华为劝退的，又菜事又多，领导却感觉捡到宝了。华为网友：突然觉得有退路了。](https://weixin.qdkfweb.cn/52069.html)
-- [课题组要求：每篇论文只允许导师修改3次，否则你将失去一作](https://weixin.qdkfweb.cn/52090.html)
-- [腾讯2024届的薪资。。。](https://weixin.qdkfweb.cn/52091.html)
-- [CVPR 2024 | 李飞飞团队提出超强仿真数据生成工具BVS](https://weixin.qdkfweb.cn/52092.html)
+- [同事月薪12k，忘记打卡被扣了双倍工资，我主动给他作证确实来了，结果领导说：既然你这么清楚，以后所有人考勤你来管！](https://weixin.qdkfweb.cn/52143.html)
+- [老板说今年效益不好要降薪，部门就我一个人同意了，在月底发工资时，结果发现就我的工资降了30%，同事们都讥讽我。](https://weixin.qdkfweb.cn/52145.html)
+- [使用LangChain4j构建本地RAG系统](https://weixin.qdkfweb.cn/52180.html)
+- [打造AI与开源技术盛宴，GOTC 2024共探未来发展新趋势](https://weixin.qdkfweb.cn/52181.html)
+- [独家｜姜萍被写进了暑假作业](https://weixin.qdkfweb.cn/52162.html)
 <!-- BLOG-POST-LIST:END -->
