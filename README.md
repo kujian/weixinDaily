@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [同事月薪12k，忘记打卡被扣了双倍工资，我主动给他作证确实来了，结果领导说：既然你这么清楚，以后所有人考勤你来管！](https://weixin.qdkfweb.cn/52143.html)
-- [老板说今年效益不好要降薪，部门就我一个人同意了，在月底发工资时，结果发现就我的工资降了30%，同事们都讥讽我。](https://weixin.qdkfweb.cn/52145.html)
-- [使用LangChain4j构建本地RAG系统](https://weixin.qdkfweb.cn/52180.html)
-- [打造AI与开源技术盛宴，GOTC 2024共探未来发展新趋势](https://weixin.qdkfweb.cn/52181.html)
-- [独家｜姜萍被写进了暑假作业](https://weixin.qdkfweb.cn/52162.html)
+- [晚上打印材料加班到凌晨2点，第二天迟到10分钟，结果全勤奖取消了，跟领导理论，他说：我们只看结果，不看过程！](https://weixin.qdkfweb.cn/52225.html)
+- [被公司辞退，领导说再给我一次机会，让我负责一个新项目，结果就干了一个月被客户骂了，临走时他说：看吧，你果然不行！](https://weixin.qdkfweb.cn/52226.html)
+- [7.29｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/52245.html)
+- [自从用了这些监控工具，我连续几天没睡好觉！](https://weixin.qdkfweb.cn/52216.html)
+- [用 AI 答题项目拿下 Offer，去苏州了~](https://weixin.qdkfweb.cn/52217.html)
 <!-- BLOG-POST-LIST:END -->
