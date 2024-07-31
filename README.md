@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [晚上打印材料加班到凌晨2点，第二天迟到10分钟，结果全勤奖取消了，跟领导理论，他说：我们只看结果，不看过程！](https://weixin.qdkfweb.cn/52225.html)
-- [被公司辞退，领导说再给我一次机会，让我负责一个新项目，结果就干了一个月被客户骂了，临走时他说：看吧，你果然不行！](https://weixin.qdkfweb.cn/52226.html)
-- [7.29｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/52245.html)
-- [自从用了这些监控工具，我连续几天没睡好觉！](https://weixin.qdkfweb.cn/52216.html)
-- [用 AI 答题项目拿下 Offer，去苏州了~](https://weixin.qdkfweb.cn/52217.html)
+- [同事月薪2万，天天抱怨加班，跳槽到一家公司，月薪1.5万，问他为什么，他说：现在能准时下班，比啥都强！](https://weixin.qdkfweb.cn/52304.html)
+- [UI: 为啥你这个页面边框1px看起来这么粗？](https://weixin.qdkfweb.cn/52270.html)
+- [被某大厂以违反“竞业协议”告了，赔偿687959.86元](https://weixin.qdkfweb.cn/52318.html)
+- [平台大动作！终于向“仅退款”下手了，商家权益公平守护！](https://weixin.qdkfweb.cn/52320.html)
+- [别弄错了Python里的这几个运算符](https://weixin.qdkfweb.cn/52331.html)
 <!-- BLOG-POST-LIST:END -->
