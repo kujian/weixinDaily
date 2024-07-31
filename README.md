@@ -19,5 +19,5 @@
 - [UI: 为啥你这个页面边框1px看起来这么粗？](https://weixin.qdkfweb.cn/52270.html)
 - [被某大厂以违反“竞业协议”告了，赔偿687959.86元](https://weixin.qdkfweb.cn/52318.html)
 - [平台大动作！终于向“仅退款”下手了，商家权益公平守护！](https://weixin.qdkfweb.cn/52320.html)
-- [别弄错了Python里的这几个运算符](https://weixin.qdkfweb.cn/52331.html)
+- [AMD CPU问题找到了：离谱到家了](https://weixin.qdkfweb.cn/52329.html)
 <!-- BLOG-POST-LIST:END -->
