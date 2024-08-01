@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [同事月薪2万，天天抱怨加班，跳槽到一家公司，月薪1.5万，问他为什么，他说：现在能准时下班，比啥都强！](https://weixin.qdkfweb.cn/52304.html)
-- [UI: 为啥你这个页面边框1px看起来这么粗？](https://weixin.qdkfweb.cn/52270.html)
-- [被某大厂以违反“竞业协议”告了，赔偿687959.86元](https://weixin.qdkfweb.cn/52318.html)
-- [平台大动作！终于向“仅退款”下手了，商家权益公平守护！](https://weixin.qdkfweb.cn/52320.html)
-- [AMD CPU问题找到了：离谱到家了](https://weixin.qdkfweb.cn/52329.html)
+- [面试个薪资1.8万的岗位，自我介绍只说了一半，面试官就打断说：我觉得你能力很一般，如果不能打动我，面试就到此结束吧！](https://weixin.qdkfweb.cn/52378.html)
+- [前华为员工考上了公务员，真实感受曝光：公务员太累了，办不完的文，加不完的班，周末都是待命的。和自己想的不一样！](https://weixin.qdkfweb.cn/52380.html)
+- [2024年互联网公司北京积分落户名单出炉！](https://weixin.qdkfweb.cn/52400.html)
+- [“flex: 1”有什么用？](https://weixin.qdkfweb.cn/52366.html)
+- [50个开发人员都应该知道的 React.js 超级技巧（下）](https://weixin.qdkfweb.cn/52367.html)
 <!-- BLOG-POST-LIST:END -->
