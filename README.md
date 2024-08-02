@@ -19,5 +19,5 @@
 - [这 2 个 AI 开源项目，好玩儿。](https://weixin.qdkfweb.cn/52434.html)
 - [北漂家庭“反向”组合：男部委下属事业单位+女字节程序媛。男主内，女主外](https://weixin.qdkfweb.cn/52482.html)
 - [前端必读书籍推荐（2024年最新版）](https://weixin.qdkfweb.cn/52424.html)
-- [Go micro/cli 很不专业，居然直接删库了！](https://weixin.qdkfweb.cn/52497.html)
+- [GitHub代码删了也无用，任何人仍可永久访问？！微软：这不是Bug而是有意设计](https://weixin.qdkfweb.cn/52495.html)
 <!-- BLOG-POST-LIST:END -->
