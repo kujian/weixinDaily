@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [领导让我带新人，说要是能让他留下来就给我加薪，费劲教了3个月，结果在转正的时候，才知道新人的工资比我还高！](https://weixin.qdkfweb.cn/52466.html)
-- [这 2 个 AI 开源项目，好玩儿。](https://weixin.qdkfweb.cn/52434.html)
-- [北漂家庭“反向”组合：男部委下属事业单位+女字节程序媛。男主内，女主外](https://weixin.qdkfweb.cn/52482.html)
-- [前端必读书籍推荐（2024年最新版）](https://weixin.qdkfweb.cn/52424.html)
-- [Go micro/cli 很不专业，居然直接删库了！](https://weixin.qdkfweb.cn/52497.html)
+- [年薪百万华为主管爆料：在华为，工作非常忙，巨忙，一个人同时带三四个项目，每个项目时长2-3个月，期间需要同时跟进](https://weixin.qdkfweb.cn/52545.html)
+- [华为员工爆料：真心劝大家，不要因为找不到工作而过度焦虑。找不到工作，真的不是你能力不够，而是这两年求职异常困难](https://weixin.qdkfweb.cn/52546.html)
+- [佳能苏州裁员补偿2N+12？官方最新回应！](https://weixin.qdkfweb.cn/52531.html)
+- [前端又叠buff！拥有近4万star的超级HTML增强工具：HTMX](https://weixin.qdkfweb.cn/52559.html)
+- [大模型与小模型、LLM应用可观测、SK与LangChain同台竞技——尽在“LLMOps最佳实践论坛”（免费领499元专业票）](https://weixin.qdkfweb.cn/52560.html)
 <!-- BLOG-POST-LIST:END -->
