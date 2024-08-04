@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [年薪百万华为主管爆料：在华为，工作非常忙，巨忙，一个人同时带三四个项目，每个项目时长2-3个月，期间需要同时跟进](https://weixin.qdkfweb.cn/52545.html)
-- [华为员工爆料：真心劝大家，不要因为找不到工作而过度焦虑。找不到工作，真的不是你能力不够，而是这两年求职异常困难](https://weixin.qdkfweb.cn/52546.html)
-- [佳能苏州裁员补偿2N+12？官方最新回应！](https://weixin.qdkfweb.cn/52531.html)
-- [前端又叠buff！拥有近4万star的超级HTML增强工具：HTMX](https://weixin.qdkfweb.cn/52559.html)
-- [大模型与小模型、LLM应用可观测、SK与LangChain同台竞技——尽在“LLMOps最佳实践论坛”（免费领499元专业票）](https://weixin.qdkfweb.cn/52560.html)
+- [知乎热议：为什么多数程序员都不做个人独立开发？](https://weixin.qdkfweb.cn/52569.html)
+- [如何让自己开心的工作？](https://weixin.qdkfweb.cn/52582.html)
+- [HTML，你所了解的恐怕仅仅是冰山一角【送书】](https://weixin.qdkfweb.cn/52562.html)
+- [这两个大龄程序员，打算搞垮一个世界软件巨头！](https://weixin.qdkfweb.cn/52604.html)
+- [MySQL六十六问，两万字+五十图详解！有点六！](https://weixin.qdkfweb.cn/52605.html)
 <!-- BLOG-POST-LIST:END -->
