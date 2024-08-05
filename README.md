@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [知乎热议：为什么多数程序员都不做个人独立开发？](https://weixin.qdkfweb.cn/52569.html)
-- [如何让自己开心的工作？](https://weixin.qdkfweb.cn/52582.html)
-- [HTML，你所了解的恐怕仅仅是冰山一角【送书】](https://weixin.qdkfweb.cn/52562.html)
-- [这两个大龄程序员，打算搞垮一个世界软件巨头！](https://weixin.qdkfweb.cn/52604.html)
-- [MySQL六十六问，两万字+五十图详解！有点六！](https://weixin.qdkfweb.cn/52605.html)
+- [本周推荐的5个火火火的Github开源项目！](https://weixin.qdkfweb.cn/52682.html)
+- [豆瓣9.3，这本书火了29年，被哈佛、剑桥、清华等1500多所大学用作教材！](https://weixin.qdkfweb.cn/52614.html)
+- [基本工资7000-8000，五险一金，年终奖金20000，工作轻松，唯独要倒班，这样的工作你愿意干到退休么？](https://weixin.qdkfweb.cn/52660.html)
+- [事业编制，工资12500，公积金4000，钱多事少，工作轻松！这样的工作你能接受吗？](https://weixin.qdkfweb.cn/52661.html)
+- [工资8000，五险一金，上5休2，偶尔加班，又香又稳，这样的工作你要吗？](https://weixin.qdkfweb.cn/52662.html)
 <!-- BLOG-POST-LIST:END -->
