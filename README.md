@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [本周推荐的5个火火火的Github开源项目！](https://weixin.qdkfweb.cn/52682.html)
-- [豆瓣9.3，这本书火了29年，被哈佛、剑桥、清华等1500多所大学用作教材！](https://weixin.qdkfweb.cn/52614.html)
-- [华为签约高校人数最多的大学排行，整理出来了，看完受益匪浅！](https://weixin.qdkfweb.cn/52655.html)
-- [哈工大硕士，入职华为od，快2年了，定级d2，月薪不到2万。工作日加班到10点半，没请过一天假，转正遥遥无期，想跳槽了！](https://weixin.qdkfweb.cn/52656.html)
-- [字节员工：快38岁了，合同期满，offer年包300万，职业生涯感觉快结束了](https://weixin.qdkfweb.cn/52658.html)
+- [取代后端岗，中国又一新兴岗位在崛起！这才是程序员未来5年最好的就业方向！](https://weixin.qdkfweb.cn/52741.html)
+- [史上最贵 Bug，一行代码=5亿欧元](https://weixin.qdkfweb.cn/52742.html)
+- [RocketMQ 为什么性能不如 Kafka？](https://weixin.qdkfweb.cn/52743.html)
+- [被百度严格拷打 62 分钟，汗流浃背！](https://weixin.qdkfweb.cn/52734.html)
+- [神仙公司名单（苏州篇）](https://weixin.qdkfweb.cn/52724.html)
 <!-- BLOG-POST-LIST:END -->
