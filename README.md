@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [取代后端岗，中国又一新兴岗位在崛起！这才是程序员未来5年最好的就业方向！](https://weixin.qdkfweb.cn/52741.html)
-- [史上最贵 Bug，一行代码=5亿欧元](https://weixin.qdkfweb.cn/52742.html)
-- [RocketMQ 为什么性能不如 Kafka？](https://weixin.qdkfweb.cn/52743.html)
-- [被百度严格拷打 62 分钟，汗流浃背！](https://weixin.qdkfweb.cn/52734.html)
-- [神仙公司名单（苏州篇）](https://weixin.qdkfweb.cn/52724.html)
+- [滴滴员工：工作7年，攒了300万。准备回老家“靠利息”可行？](https://weixin.qdkfweb.cn/52818.html)
+- [程序员转行送外卖，被嘲笑？](https://weixin.qdkfweb.cn/52806.html)
+- [可信开源，产业共进——2024 OSCAR开源产业大会正式启动](https://weixin.qdkfweb.cn/52791.html)
+- [在阿里月薪6万，昨晚看了拼多多黄峥一句话，越想越后怕…](https://weixin.qdkfweb.cn/52816.html)
+- [我在美团实习犯下的七宗罪](https://weixin.qdkfweb.cn/52817.html)
 <!-- BLOG-POST-LIST:END -->
