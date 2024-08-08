@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [滴滴员工：工作7年，攒了300万。准备回老家“靠利息”可行？](https://weixin.qdkfweb.cn/52818.html)
-- [程序员转行送外卖，被嘲笑？](https://weixin.qdkfweb.cn/52806.html)
-- [可信开源，产业共进——2024 OSCAR开源产业大会正式启动](https://weixin.qdkfweb.cn/52791.html)
-- [在阿里月薪6万，昨晚看了拼多多黄峥一句话，越想越后怕…](https://weixin.qdkfweb.cn/52816.html)
-- [我在美团实习犯下的七宗罪](https://weixin.qdkfweb.cn/52817.html)
+- [&quot;50万定律&quot;？据说只要年薪超过50万，不管你是医生、程序员、送外卖还是搬砖，都没有个人生活了。这是真的吗？](https://weixin.qdkfweb.cn/52887.html)
+- [华为离职员工爆料：一同事家里拆迁赔了2000万，但干着月薪8500的工作。平时上班就是炒炒股，打杂；人很低调](https://weixin.qdkfweb.cn/52888.html)
+- [35岁被裁员，拿了40万赔偿金，待业在家4个月，准备好好规划下未来，结果丈母娘背地怂恿媳妇离婚，以为女婿不务正业，这叫什么事啊](https://weixin.qdkfweb.cn/52893.html)
+- [Tauri：将JavaScript与Rust混用于GUI桌面应用程序](https://weixin.qdkfweb.cn/52851.html)
+- [大模型，彻底炸了。。。](https://weixin.qdkfweb.cn/52859.html)
 <!-- BLOG-POST-LIST:END -->
