@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;50万定律&quot;？据说只要年薪超过50万，不管你是医生、程序员、送外卖还是搬砖，都没有个人生活了。这是真的吗？](https://weixin.qdkfweb.cn/52887.html)
-- [华为离职员工爆料：一同事家里拆迁赔了2000万，但干着月薪8500的工作。平时上班就是炒炒股，打杂；人很低调](https://weixin.qdkfweb.cn/52888.html)
-- [35岁被裁员，拿了40万赔偿金，待业在家4个月，准备好好规划下未来，结果丈母娘背地怂恿媳妇离婚，以为女婿不务正业，这叫什么事啊](https://weixin.qdkfweb.cn/52893.html)
-- [Tauri：将JavaScript与Rust混用于GUI桌面应用程序](https://weixin.qdkfweb.cn/52851.html)
-- [大模型，彻底炸了。。。](https://weixin.qdkfweb.cn/52859.html)
+- [同事2017年花160万买的房，前段时间总价跌到39万，向领导抱怨了下，结果领导说：你都已经干了10年了，再买一套就又赚回来了呀](https://weixin.qdkfweb.cn/52972.html)
+- [React Compiler : useRef 也可以被淘汰啦](https://weixin.qdkfweb.cn/52971.html)
+- [8.8｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/52989.html)
+- [字节被裁，鹅厂六轮面试涨薪0.1%入职](https://weixin.qdkfweb.cn/52986.html)
+- [上海一对夫妻被裁员：名下有一套1700万的房子，贷款超过1000万，每月需还6万多元，不知道还能撑多久。你觉的高杠杆买房值得吗？](https://weixin.qdkfweb.cn/52978.html)
 <!-- BLOG-POST-LIST:END -->
