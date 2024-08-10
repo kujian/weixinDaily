@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [同事2017年花160万买的房，前段时间总价跌到39万，向领导抱怨了下，结果领导说：你都已经干了10年了，再买一套就又赚回来了呀](https://weixin.qdkfweb.cn/52972.html)
-- [React Compiler : useRef 也可以被淘汰啦](https://weixin.qdkfweb.cn/52971.html)
-- [8.8｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/52989.html)
-- [字节被裁，鹅厂六轮面试涨薪0.1%入职](https://weixin.qdkfweb.cn/52986.html)
-- [上海一对夫妻被裁员：名下有一套1700万的房子，贷款超过1000万，每月需还6万多元，不知道还能撑多久。你觉的高杠杆买房值得吗？](https://weixin.qdkfweb.cn/52978.html)
+- [SAM 2无法分割一切？SAM2-Adapter：首次让SAM 2在下游任务适应调优！](https://weixin.qdkfweb.cn/53043.html)
+- [Karpathy观点惹争议：RLHF不是真正的强化学习！谷歌、Meta下场反对](https://weixin.qdkfweb.cn/53044.html)
+- [腾讯机器狗登上Nature子刊！动作敏捷如真狗，能玩定向越野](https://weixin.qdkfweb.cn/53045.html)
+- [动真格！大批高校事业编，取消](https://weixin.qdkfweb.cn/53047.html)
+- [应届生身份，或将取消](https://weixin.qdkfweb.cn/53042.html)
 <!-- BLOG-POST-LIST:END -->
