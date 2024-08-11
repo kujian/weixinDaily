@@ -19,5 +19,5 @@
 - [取代后端岗，又一新兴岗位在崛起！这才是程序员未来5年最好的就业方向！](https://weixin.qdkfweb.cn/53083.html)
 - [程序是怎么一步步变成机器指令的？](https://weixin.qdkfweb.cn/53116.html)
 - [美团二面：MySQL 支持哪些存储引擎？MyISAM 和 InnoDB 有什么区别？](https://weixin.qdkfweb.cn/53117.html)
-- [字节跳动员工：估计好多人以为，年薪60万，平均每个月五万块工资......实际上根本不是这么回事儿](https://weixin.qdkfweb.cn/53094.html)
+- [前海康威视员工曾年薪25万，120万存款，炒股全亏光，最后负债85万，每月还6000房贷+2000利息，还失业了](https://weixin.qdkfweb.cn/53096.html)
 <!-- BLOG-POST-LIST:END -->
