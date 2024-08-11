@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [SAM 2无法分割一切？SAM2-Adapter：首次让SAM 2在下游任务适应调优！](https://weixin.qdkfweb.cn/53043.html)
-- [Karpathy观点惹争议：RLHF不是真正的强化学习！谷歌、Meta下场反对](https://weixin.qdkfweb.cn/53044.html)
-- [腾讯机器狗登上Nature子刊！动作敏捷如真狗，能玩定向越野](https://weixin.qdkfweb.cn/53045.html)
-- [动真格！大批高校事业编，取消](https://weixin.qdkfweb.cn/53047.html)
-- [应届生身份，或将取消](https://weixin.qdkfweb.cn/53042.html)
+- [6.9K star！推荐一款好用的跨平台备份工具，还支持定时快照！](https://weixin.qdkfweb.cn/53118.html)
+- [取代后端岗，又一新兴岗位在崛起！这才是程序员未来5年最好的就业方向！](https://weixin.qdkfweb.cn/53083.html)
+- [程序是怎么一步步变成机器指令的？](https://weixin.qdkfweb.cn/53116.html)
+- [美团二面：MySQL 支持哪些存储引擎？MyISAM 和 InnoDB 有什么区别？](https://weixin.qdkfweb.cn/53117.html)
+- [字节跳动员工：估计好多人以为，年薪60万，平均每个月五万块工资......实际上根本不是这么回事儿](https://weixin.qdkfweb.cn/53094.html)
 <!-- BLOG-POST-LIST:END -->
