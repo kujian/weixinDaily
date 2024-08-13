@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [字节跳动开源Linux内核网络抓包工具netcap](https://weixin.qdkfweb.cn/53165.html)
-- [​本周推荐的5个火火火的Github开源项目！](https://weixin.qdkfweb.cn/53164.html)
-- [真正的自然语言编程](https://weixin.qdkfweb.cn/53121.html)
-- [「差生文具多系列」VSCode中还能养宠物，于是我养了几个同事在里面](https://weixin.qdkfweb.cn/53161.html)
-- [Linux 上的 TTY 是什么？](https://weixin.qdkfweb.cn/53162.html)
+- [快报名了，如何确保软考“一把就过”？](https://weixin.qdkfweb.cn/53243.html)
+- [阿里P8：高血压，差点见“太奶”。高压213，低压140](https://weixin.qdkfweb.cn/53230.html)
+- [堪比Windows蓝屏危机！Linux被曝12年史诗级漏洞，“投毒者”是谷歌？](https://weixin.qdkfweb.cn/53240.html)
+- [大量家用路由器被入侵并DNS劫持 附排查方法](https://weixin.qdkfweb.cn/53241.html)
+- [这可能又是一款 Java 程序员的必备插件了](https://weixin.qdkfweb.cn/53242.html)
 <!-- BLOG-POST-LIST:END -->
