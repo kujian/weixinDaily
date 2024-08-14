@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [快报名了，如何确保软考“一把就过”？](https://weixin.qdkfweb.cn/53243.html)
-- [阿里P8：高血压，差点见“太奶”。高压213，低压140](https://weixin.qdkfweb.cn/53230.html)
-- [堪比Windows蓝屏危机！Linux被曝12年史诗级漏洞，“投毒者”是谷歌？](https://weixin.qdkfweb.cn/53240.html)
-- [大量家用路由器被入侵并DNS劫持 附排查方法](https://weixin.qdkfweb.cn/53241.html)
-- [这可能又是一款 Java 程序员的必备插件了](https://weixin.qdkfweb.cn/53242.html)
+- [2024年最新版男女退休年龄出炉，最低45岁、最高60岁退休！早退与晚退，领取的养老金差距有多大？](https://weixin.qdkfweb.cn/53291.html)
+- [血与泪的教训，税前40w被爸妈吹成税后五六十万，亲戚直接以为我能两年存100万，后悔告诉家里人真实工资了。。。](https://weixin.qdkfweb.cn/53290.html)
+- [8.13｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/53306.html)
+- [从 never 切入，摸透 TypeScript 的学习思路](https://weixin.qdkfweb.cn/53287.html)
+- [产品：网络不给力，前端页面就不能展示了吗？](https://weixin.qdkfweb.cn/53255.html)
 <!-- BLOG-POST-LIST:END -->
