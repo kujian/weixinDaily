@@ -15,9 +15,15 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [2024年最新版男女退休年龄出炉，最低45岁、最高60岁退休！早退与晚退，领取的养老金差距有多大？](https://weixin.qdkfweb.cn/53291.html)
-- [血与泪的教训，税前40w被爸妈吹成税后五六十万，亲戚直接以为我能两年存100万，后悔告诉家里人真实工资了。。。](https://weixin.qdkfweb.cn/53290.html)
-- [8.13｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/53306.html)
-- [从 never 切入，摸透 TypeScript 的学习思路](https://weixin.qdkfweb.cn/53287.html)
-- [产品：网络不给力，前端页面就不能展示了吗？](https://weixin.qdkfweb.cn/53255.html)
+- [40w年薪入职比亚迪，工作一周后逃离，吐槽比亚迪管理制度毫无人性，在职员工对线硬刚，到底孰真孰假？](https://weixin.qdkfweb.cn/53391.html)
+- [折腾我2周的分页打印和下载pdf](https://weixin.qdkfweb.cn/53341.html)
+- [1.请别人提意见，然而别人一提就爆炸，咔咔咔反驳。
+
+2.认不清形式，时过境迁后还老幻想回到从前。
+
+3.享乐主义，前些年瞎逼贷款，现在头都大了。
+
+4.毕业后就没看过几本有用的书，现在快35岁了，开](https://weixin.qdkfweb.cn/53385.html)
+- [接单小赚两千，有期徒刑两年！](https://weixin.qdkfweb.cn/53339.html)
+- [7.6K star! 一款好用轻量的Redis桌面GUI项目！](https://weixin.qdkfweb.cn/53412.html)
 <!-- BLOG-POST-LIST:END -->
