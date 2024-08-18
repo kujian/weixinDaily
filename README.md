@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [腾讯前员工爆料：20年贷款680多万，在深圳买了房，现在跌成狗，每天特别焦虑，该怎么办？](https://weixin.qdkfweb.cn/53469.html)
-- [延迟退休已成定局，我们这代人要开始极限攒钱啦！](https://weixin.qdkfweb.cn/53470.html)
-- [全球开源技术峰会 GOTC 2024 圆满落幕](https://weixin.qdkfweb.cn/53491.html)
-- [滴滴开源Flutter混合开发框架Unify](https://weixin.qdkfweb.cn/53492.html)
-- [离职证明把“仲裁案件号”写上去了](https://weixin.qdkfweb.cn/53481.html)
+- [手把手教你玩转 Nginx 配置](https://weixin.qdkfweb.cn/53500.html)
+- [23.5K star！最近爆火的实时换脸项目，有点恐怖！](https://weixin.qdkfweb.cn/53518.html)
+- [某大厂员工：91年，存款80多万。没车没房，月薪3万能娶上媳妇么？](https://weixin.qdkfweb.cn/53514.html)
+- [工资8000+，五险二金，周末休息，央企平台，需要24小时随叫随到，越老越吃香的工作薪资待遇曝光](https://weixin.qdkfweb.cn/53512.html)
+- [华为老员工爆料：没有裙带关系，全凭自己努力，每年10%淘汰率，个别985毕业，能力不行走后门进来的，也会被淘汰](https://weixin.qdkfweb.cn/53506.html)
 <!-- BLOG-POST-LIST:END -->
