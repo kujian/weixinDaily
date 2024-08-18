@@ -18,6 +18,6 @@
 - [手把手教你玩转 Nginx 配置](https://weixin.qdkfweb.cn/53500.html)
 - [23.5K star！最近爆火的实时换脸项目，有点恐怖！](https://weixin.qdkfweb.cn/53518.html)
 - [某大厂员工：91年，存款80多万。没车没房，月薪3万能娶上媳妇么？](https://weixin.qdkfweb.cn/53514.html)
-- [工资8000+，五险二金，周末休息，央企平台，需要24小时随叫随到，越老越吃香的工作薪资待遇曝光](https://weixin.qdkfweb.cn/53512.html)
 - [华为老员工爆料：没有裙带关系，全凭自己努力，每年10%淘汰率，个别985毕业，能力不行走后门进来的，也会被淘汰](https://weixin.qdkfweb.cn/53506.html)
+- [华为女员工爆料：已婚已育，211本985硕，提前知道不续签了，想转行，但发现啥也不会，本专业电子通信荒废了，人生灰暗啊](https://weixin.qdkfweb.cn/53508.html)
 <!-- BLOG-POST-LIST:END -->
