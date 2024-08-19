@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [手把手教你玩转 Nginx 配置](https://weixin.qdkfweb.cn/53500.html)
-- [23.5K star！最近爆火的实时换脸项目，有点恐怖！](https://weixin.qdkfweb.cn/53518.html)
-- [某大厂员工：91年，存款80多万。没车没房，月薪3万能娶上媳妇么？](https://weixin.qdkfweb.cn/53514.html)
-- [华为老员工爆料：没有裙带关系，全凭自己努力，每年10%淘汰率，个别985毕业，能力不行走后门进来的，也会被淘汰](https://weixin.qdkfweb.cn/53506.html)
-- [华为女员工爆料：已婚已育，211本985硕，提前知道不续签了，想转行，但发现啥也不会，本专业电子通信荒废了，人生灰暗啊](https://weixin.qdkfweb.cn/53508.html)
+- [前字节员工爆料，一直以为是就业环境差，学历改成211，大厂4年经验，结果超出想象](https://weixin.qdkfweb.cn/53533.html)
+- [华为参与编写的软件工程系列教材：基于开源鸿蒙OpenHarmony、openEuler、鲲鹏等](https://weixin.qdkfweb.cn/53553.html)
+- [摆脱复杂环境配置！教你如何直接在浏览器编译ES6+/TS代码](https://weixin.qdkfweb.cn/53521.html)
+- [月入3万的字节女生参加“相亲大会”，输给了月入8000元的女Gwy](https://weixin.qdkfweb.cn/53543.html)
+- [本周推荐的5个火火火的Github开源项目！](https://weixin.qdkfweb.cn/53552.html)
 <!-- BLOG-POST-LIST:END -->
