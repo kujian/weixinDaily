@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [很严重了，劝大家极限存钱吧，从今天开始！](https://weixin.qdkfweb.cn/53624.html)
-- [手把手教你用Spring Boot搭建AI原生应用](https://weixin.qdkfweb.cn/53546.html)
-- [用好对象池，性能提升10倍！](https://weixin.qdkfweb.cn/53547.html)
-- [面试官：要保证消息不丢失，又不重复，消息队列怎么选型？](https://weixin.qdkfweb.cn/53548.html)
-- [前端怎么这么多新轮子啊？？？](https://weixin.qdkfweb.cn/53586.html)
+- [博主，华为这些黑话都是什么意思？](https://weixin.qdkfweb.cn/53706.html)
+- [第一批使用大模型的程序员，已经碾压同事了...](https://weixin.qdkfweb.cn/53722.html)
+- [入职“猪厂”第一天，网易云音乐“崩”了。问： 出现这种级别大事故，会被开除不？](https://weixin.qdkfweb.cn/53702.html)
+- [这是我见过最强的AI大模型教程！可以上车！！](https://weixin.qdkfweb.cn/53703.html)
+- [为什么QQ有会员功能，微信却没有？](https://weixin.qdkfweb.cn/53683.html)
 <!-- BLOG-POST-LIST:END -->
