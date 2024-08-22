@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [博主，华为这些黑话都是什么意思？](https://weixin.qdkfweb.cn/53706.html)
-- [第一批使用大模型的程序员，已经碾压同事了...](https://weixin.qdkfweb.cn/53722.html)
-- [入职“猪厂”第一天，网易云音乐“崩”了。问： 出现这种级别大事故，会被开除不？](https://weixin.qdkfweb.cn/53702.html)
-- [这是我见过最强的AI大模型教程！可以上车！！](https://weixin.qdkfweb.cn/53703.html)
-- [为什么QQ有会员功能，微信却没有？](https://weixin.qdkfweb.cn/53683.html)
+- [我的新项目又来咯！](https://weixin.qdkfweb.cn/53769.html)
+- [离职两年多了，昨天人事给我打了电话，问我之前的工资卡还在不在用，结果今天早上我看到银行卡余额变动的通知，收到了5位数的奖金。](https://weixin.qdkfweb.cn/53780.html)
+- [8.21｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/53800.html)
+- [低谷期要做个傻逼](https://weixin.qdkfweb.cn/53775.html)
+- [6.6K star! 又一款跨平台的开源手绘笔记工具推荐！](https://weixin.qdkfweb.cn/53812.html)
 <!-- BLOG-POST-LIST:END -->
