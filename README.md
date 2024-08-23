@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [我的新项目又来咯！](https://weixin.qdkfweb.cn/53769.html)
-- [离职两年多了，昨天人事给我打了电话，问我之前的工资卡还在不在用，结果今天早上我看到银行卡余额变动的通知，收到了5位数的奖金。](https://weixin.qdkfweb.cn/53780.html)
-- [8.21｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/53800.html)
-- [低谷期要做个傻逼](https://weixin.qdkfweb.cn/53775.html)
-- [6.6K star! 又一款跨平台的开源手绘笔记工具推荐！](https://weixin.qdkfweb.cn/53812.html)
+- [离职半年收到财务来电，说是我已经离职了，当时拿了一笔年终奖，结果要求我把年终奖里面的激励金，按照比例尽快退回给公司！](https://weixin.qdkfweb.cn/53863.html)
+- [腾讯内部员工爆料：公司都不知道有多少在考公了，最近老看到在会议室有刷题和准备面试的人](https://weixin.qdkfweb.cn/53864.html)
+- [110万奖金！目标检测、多模态融合等全新赛事！2024长三角&lpar;芜湖&rpar;算力算法创新应用大赛全面启动！](https://weixin.qdkfweb.cn/53885.html)
+- [Mamba一作最新工作：多亏Transformer，让Mamba更强了！](https://weixin.qdkfweb.cn/53886.html)
+- [华为招聘多模态/AIGC实习生](https://weixin.qdkfweb.cn/53887.html)
 <!-- BLOG-POST-LIST:END -->
