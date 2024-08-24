@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [离职半年收到财务来电，说是我已经离职了，当时拿了一笔年终奖，结果要求我把年终奖里面的激励金，按照比例尽快退回给公司！](https://weixin.qdkfweb.cn/53863.html)
-- [腾讯内部员工爆料：公司都不知道有多少在考公了，最近老看到在会议室有刷题和准备面试的人](https://weixin.qdkfweb.cn/53864.html)
-- [110万奖金！目标检测、多模态融合等全新赛事！2024长三角&lpar;芜湖&rpar;算力算法创新应用大赛全面启动！](https://weixin.qdkfweb.cn/53885.html)
-- [Mamba一作最新工作：多亏Transformer，让Mamba更强了！](https://weixin.qdkfweb.cn/53886.html)
-- [华为招聘多模态/AIGC实习生](https://weixin.qdkfweb.cn/53887.html)
+- [面试了一个公司，然后说是免费培训，通过了就能入职，两年不能离职，结果就让我们去一个培训班培训，接下来培训不通过，但是可以继续学！](https://weixin.qdkfweb.cn/53918.html)
+- [封装WebSocket消息推送，干翻Ajax轮询方式](https://weixin.qdkfweb.cn/53897.html)
+- [年薪200万的阿里P9，试用期转正失败](https://weixin.qdkfweb.cn/53933.html)
+- [8.23｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/53935.html)
+- [华为员工爆料：朋友（孕妇）被裁，赔偿82W，我有点“羡慕”，可以安心在家养胎了](https://weixin.qdkfweb.cn/53931.html)
 <!-- BLOG-POST-LIST:END -->
