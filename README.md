@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [面试了一个公司，然后说是免费培训，通过了就能入职，两年不能离职，结果就让我们去一个培训班培训，接下来培训不通过，但是可以继续学！](https://weixin.qdkfweb.cn/53918.html)
-- [封装WebSocket消息推送，干翻Ajax轮询方式](https://weixin.qdkfweb.cn/53897.html)
-- [年薪200万的阿里P9，试用期转正失败](https://weixin.qdkfweb.cn/53933.html)
-- [8.23｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/53935.html)
-- [华为员工爆料：朋友（孕妇）被裁，赔偿82W，我有点“羡慕”，可以安心在家养胎了](https://weixin.qdkfweb.cn/53931.html)
+- [把黑神话悟空视频设置为vscode背景，真的太炫酷了。](https://weixin.qdkfweb.cn/53947.html)
+- [博主，我要爆料某头部互联网公司暴力裁员，裁员比例30%！](https://weixin.qdkfweb.cn/53970.html)
+- [中国有多少Java程序员？](https://weixin.qdkfweb.cn/53984.html)
+- [为什么中小企业没法接盘大厂毕业的高P们？](https://weixin.qdkfweb.cn/53985.html)
+- [3 种从 JavaScript 对象中删除属性的方法](https://weixin.qdkfweb.cn/53958.html)
 <!-- BLOG-POST-LIST:END -->
