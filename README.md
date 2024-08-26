@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [把黑神话悟空视频设置为vscode背景，真的太炫酷了。](https://weixin.qdkfweb.cn/53947.html)
-- [博主，我要爆料某头部互联网公司暴力裁员，裁员比例30%！](https://weixin.qdkfweb.cn/53970.html)
-- [中国有多少Java程序员？](https://weixin.qdkfweb.cn/53984.html)
-- [为什么中小企业没法接盘大厂毕业的高P们？](https://weixin.qdkfweb.cn/53985.html)
-- [3 种从 JavaScript 对象中删除属性的方法](https://weixin.qdkfweb.cn/53958.html)
+- [部门大哥被老板逼着离职了，他交接工作讲的非常仔细，结果大哥的手段在后面，所有他留下的资料都是完整的，但被刻意更改了数据参数！](https://weixin.qdkfweb.cn/54013.html)
+- [华为离职员工爆料：一同事家里拆迁赔了2000万，但干着月薪8500的工作。平时上班就是炒炒股，打杂；不上班时，就去旅游，人很低调](https://weixin.qdkfweb.cn/54015.html)
+- [不得不安利的新一代富文本编辑器，太赞了！](https://weixin.qdkfweb.cn/53990.html)
+- [高中生独立开发Android浏览器：安装包大小不到5M、可高度定制、支持脚本和多种窗口管理布局](https://weixin.qdkfweb.cn/54049.html)
+- [本周推荐的5个火火火的Github开源项目！](https://weixin.qdkfweb.cn/54048.html)
 <!-- BLOG-POST-LIST:END -->
