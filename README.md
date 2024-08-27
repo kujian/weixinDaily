@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [部门大哥被老板逼着离职了，他交接工作讲的非常仔细，结果大哥的手段在后面，所有他留下的资料都是完整的，但被刻意更改了数据参数！](https://weixin.qdkfweb.cn/54013.html)
-- [华为离职员工爆料：一同事家里拆迁赔了2000万，但干着月薪8500的工作。平时上班就是炒炒股，打杂；不上班时，就去旅游，人很低调](https://weixin.qdkfweb.cn/54015.html)
-- [不得不安利的新一代富文本编辑器，太赞了！](https://weixin.qdkfweb.cn/53990.html)
-- [高中生独立开发Android浏览器：安装包大小不到5M、可高度定制、支持脚本和多种窗口管理布局](https://weixin.qdkfweb.cn/54049.html)
-- [本周推荐的5个火火火的Github开源项目！](https://weixin.qdkfweb.cn/54048.html)
+- [入职一家外包公司，年会时建了个工作群，在群内吐槽外包的待遇问题，结果被外包公司知道了以后，要求把外包人员拉进来，但不能讨论问题！](https://weixin.qdkfweb.cn/54095.html)
+- [五年前朋友入职了字节跳动，月薪9万，当时他很高兴。后来他说在北京买了房，再见面时明显看到他变的很憔悴了](https://weixin.qdkfweb.cn/54097.html)
+- [25 个JavaScript单行代码让你看起来像个专业人士](https://weixin.qdkfweb.cn/54085.html)
+- [精进 JavaScript ｜ 这些手写你都会吗 ？](https://weixin.qdkfweb.cn/54080.html)
+- [上海电信“崩了”：大量用户反馈宽带断网](https://weixin.qdkfweb.cn/54116.html)
 <!-- BLOG-POST-LIST:END -->
