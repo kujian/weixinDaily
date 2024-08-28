@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [入职一家外包公司，年会时建了个工作群，在群内吐槽外包的待遇问题，结果被外包公司知道了以后，要求把外包人员拉进来，但不能讨论问题！](https://weixin.qdkfweb.cn/54095.html)
-- [五年前朋友入职了字节跳动，月薪9万，当时他很高兴。后来他说在北京买了房，再见面时明显看到他变的很憔悴了](https://weixin.qdkfweb.cn/54097.html)
-- [25 个JavaScript单行代码让你看起来像个专业人士](https://weixin.qdkfweb.cn/54085.html)
-- [精进 JavaScript ｜ 这些手写你都会吗 ？](https://weixin.qdkfweb.cn/54080.html)
-- [上海电信“崩了”：大量用户反馈宽带断网](https://weixin.qdkfweb.cn/54116.html)
+- [降薪入职到现公司，领导给我一个项目，我谈了下来，一共赚了65万，我给领导拿了20万，结果领导给我回赠了一瓶酒，还问我好喝吗？](https://weixin.qdkfweb.cn/54161.html)
+- [中产就是扯淡](https://weixin.qdkfweb.cn/54159.html)
+- [8.27｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/54172.html)
+- [我不应该用JWT的！](https://weixin.qdkfweb.cn/54123.html)
+- [鹅厂裸辞，在深圳小学当“信息技术老师”](https://weixin.qdkfweb.cn/54171.html)
 <!-- BLOG-POST-LIST:END -->
