@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [降薪入职到现公司，领导给我一个项目，我谈了下来，一共赚了65万，我给领导拿了20万，结果领导给我回赠了一瓶酒，还问我好喝吗？](https://weixin.qdkfweb.cn/54161.html)
-- [中产就是扯淡](https://weixin.qdkfweb.cn/54159.html)
-- [8.27｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/54172.html)
-- [我不应该用JWT的！](https://weixin.qdkfweb.cn/54123.html)
-- [鹅厂裸辞，在深圳小学当“信息技术老师”](https://weixin.qdkfweb.cn/54171.html)
+- [面试了一家公司，感觉还可以，薪资待遇和年终奖都谈妥了，没忍住和领导提了离职，结果对方HR说因为业务调整，岗位被冻结，就这么失业了](https://weixin.qdkfweb.cn/54220.html)
+- [国家电网员工自爆：40岁了，基层员工，年收入不到50万，干了10年，不加班双休，没有工作激情，无法确定能干到退休，想赚钱...](https://weixin.qdkfweb.cn/54221.html)
+- [《黑神话：悟空》研发公司的薪资水平](https://weixin.qdkfweb.cn/54247.html)
+- [8.28｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/54231.html)
+- [前端问答：flat&lpar;&rpar;和flatMap&lpar;&rpar;有啥不同？](https://weixin.qdkfweb.cn/54211.html)
 <!-- BLOG-POST-LIST:END -->
