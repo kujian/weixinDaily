@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [面试了一家公司，感觉还可以，薪资待遇和年终奖都谈妥了，没忍住和领导提了离职，结果对方HR说因为业务调整，岗位被冻结，就这么失业了](https://weixin.qdkfweb.cn/54220.html)
-- [国家电网员工自爆：40岁了，基层员工，年收入不到50万，干了10年，不加班双休，没有工作激情，无法确定能干到退休，想赚钱...](https://weixin.qdkfweb.cn/54221.html)
-- [《黑神话：悟空》研发公司的薪资水平](https://weixin.qdkfweb.cn/54247.html)
-- [8.28｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/54231.html)
-- [前端问答：flat&lpar;&rpar;和flatMap&lpar;&rpar;有啥不同？](https://weixin.qdkfweb.cn/54211.html)
+- [昨天面试了三个会计，都很年轻，学历符合，但是实操的时候出现了问题，结果其中的2个会计。。。](https://weixin.qdkfweb.cn/54296.html)
+- [2024年上半年互联网各大厂营收排行](https://weixin.qdkfweb.cn/54311.html)
+- [前端面试题每日一练，测测你对 WeakMap 和数组操作的理解](https://weixin.qdkfweb.cn/54292.html)
+- [前端问答：如何判断变量是否为数组？](https://weixin.qdkfweb.cn/54293.html)
+- [一个阿里女孩的奋斗史，完整吃到互联网红利。身价千万](https://weixin.qdkfweb.cn/54309.html)
 <!-- BLOG-POST-LIST:END -->
