@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [昨天面试了三个会计，都很年轻，学历符合，但是实操的时候出现了问题，结果其中的2个会计。。。](https://weixin.qdkfweb.cn/54296.html)
-- [2024年上半年互联网各大厂营收排行](https://weixin.qdkfweb.cn/54311.html)
-- [前端面试题每日一练，测测你对 WeakMap 和数组操作的理解](https://weixin.qdkfweb.cn/54292.html)
-- [前端问答：如何判断变量是否为数组？](https://weixin.qdkfweb.cn/54293.html)
-- [一个阿里女孩的奋斗史，完整吃到互联网红利。身价千万](https://weixin.qdkfweb.cn/54309.html)
+- [公司竞聘高级副总裁，区域经理说他报名上去后，但被副总给驳回了，副总解释说：你还是别报了，因为公司的高管不会选从底层爬上来的员工！](https://weixin.qdkfweb.cn/54360.html)
+- [8.30｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/54375.html)
+- [14K star! 这个 Linux 桌面项目，太炫酷了！](https://weixin.qdkfweb.cn/54395.html)
+- [从百度工程师到北师大“正教授”](https://weixin.qdkfweb.cn/54374.html)
+- [Linux崩溃了先别慌，掌握这些技巧就能淡定应对](https://weixin.qdkfweb.cn/54398.html)
 <!-- BLOG-POST-LIST:END -->
