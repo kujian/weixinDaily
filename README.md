@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [公司竞聘高级副总裁，区域经理说他报名上去后，但被副总给驳回了，副总解释说：你还是别报了，因为公司的高管不会选从底层爬上来的员工！](https://weixin.qdkfweb.cn/54360.html)
-- [8.30｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/54375.html)
-- [14K star! 这个 Linux 桌面项目，太炫酷了！](https://weixin.qdkfweb.cn/54395.html)
-- [从百度工程师到北师大“正教授”](https://weixin.qdkfweb.cn/54374.html)
-- [Linux崩溃了先别慌，掌握这些技巧就能淡定应对](https://weixin.qdkfweb.cn/54398.html)
+- [同事今年33岁被裁员，上班看到他退群了，中午吃完饭准备交接工作时，却发现部门同事好友都被删了！那么问题来了，这种同事值得深交吗？](https://weixin.qdkfweb.cn/54425.html)
+- [杭州一高校博导涉嫌强奸女研究生，警方通报！校方回应！](https://weixin.qdkfweb.cn/54438.html)
+- [Mamba作者最新力作：将Llama3蒸馏成混合线性RNN！性能提升显著！](https://weixin.qdkfweb.cn/54439.html)
+- [IJCAI 2024 | 西电提出PGTFormer：第一个视频人脸修复方法](https://weixin.qdkfweb.cn/54440.html)
+- [RAG不存在了？世界首个1亿token神级上下文模型诞生！前OpenAI大佬加盟获4.65亿融资！](https://weixin.qdkfweb.cn/54441.html)
 <!-- BLOG-POST-LIST:END -->
