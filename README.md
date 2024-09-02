@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [同事今年33岁被裁员，上班看到他退群了，中午吃完饭准备交接工作时，却发现部门同事好友都被删了！那么问题来了，这种同事值得深交吗？](https://weixin.qdkfweb.cn/54425.html)
-- [杭州一高校博导涉嫌强奸女研究生，警方通报！校方回应！](https://weixin.qdkfweb.cn/54438.html)
-- [Mamba作者最新力作：将Llama3蒸馏成混合线性RNN！性能提升显著！](https://weixin.qdkfweb.cn/54439.html)
-- [IJCAI 2024 | 西电提出PGTFormer：第一个视频人脸修复方法](https://weixin.qdkfweb.cn/54440.html)
-- [RAG不存在了？世界首个1亿token神级上下文模型诞生！前OpenAI大佬加盟获4.65亿融资！](https://weixin.qdkfweb.cn/54441.html)
+- [早上上班迟到20分钟，到办公室也坐着摸鱼，没多久被上级叫到办公室，结果告诉我手下被裁了，我说事情很多，然后说我也被优化了。](https://weixin.qdkfweb.cn/54476.html)
+- [微信账单明细如何导出？钱都用在哪儿了？一目了然！](https://weixin.qdkfweb.cn/54473.html)
+- [“清华系”开源时序数据库破世界纪录](https://weixin.qdkfweb.cn/54508.html)
+- [超强 AI 背景移除：在线批量处理，支持 WebGPU 加速，无需登录，可无限次免费使用！](https://weixin.qdkfweb.cn/54468.html)
+- [阿里P8们全面溃败](https://weixin.qdkfweb.cn/54474.html)
 <!-- BLOG-POST-LIST:END -->
