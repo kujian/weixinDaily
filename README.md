@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [早上上班迟到20分钟，到办公室也坐着摸鱼，没多久被上级叫到办公室，结果告诉我手下被裁了，我说事情很多，然后说我也被优化了。](https://weixin.qdkfweb.cn/54476.html)
-- [微信账单明细如何导出？钱都用在哪儿了？一目了然！](https://weixin.qdkfweb.cn/54473.html)
-- [“清华系”开源时序数据库破世界纪录](https://weixin.qdkfweb.cn/54508.html)
-- [超强 AI 背景移除：在线批量处理，支持 WebGPU 加速，无需登录，可无限次免费使用！](https://weixin.qdkfweb.cn/54468.html)
-- [阿里P8们全面溃败](https://weixin.qdkfweb.cn/54474.html)
+- [我工资5500，新来的工资9500，我知道后很不舒服，和老板大吵了一架，结果我辞职去别的公司给了13000，但昨天老板打电话给我](https://weixin.qdkfweb.cn/54548.html)
+- [早上我刚解雇一个下属，结果第二天直接没来上班，可离职日期是下个月，结果现在工作没交接电话打不通，我亲自联系被删了好友，好心寒呀](https://weixin.qdkfweb.cn/54549.html)
+- [9.2｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/54564.html)
+- [9.3K star！据说这是最强的Java版开源在线网盘项目，之一！](https://weixin.qdkfweb.cn/54587.html)
+- [某大厂员工：癌症晚期，放弃治疗。也许下个星期，就要“走”了，变成小盒子啦](https://weixin.qdkfweb.cn/54562.html)
 <!-- BLOG-POST-LIST:END -->
