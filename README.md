@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [我工资5500，新来的工资9500，我知道后很不舒服，和老板大吵了一架，结果我辞职去别的公司给了13000，但昨天老板打电话给我](https://weixin.qdkfweb.cn/54548.html)
-- [早上我刚解雇一个下属，结果第二天直接没来上班，可离职日期是下个月，结果现在工作没交接电话打不通，我亲自联系被删了好友，好心寒呀](https://weixin.qdkfweb.cn/54549.html)
-- [9.2｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/54564.html)
-- [9.3K star！据说这是最强的Java版开源在线网盘项目，之一！](https://weixin.qdkfweb.cn/54587.html)
-- [某大厂员工：癌症晚期，放弃治疗。也许下个星期，就要“走”了，变成小盒子啦](https://weixin.qdkfweb.cn/54562.html)
+- [上级说我态度不行，其次是能力欠缺，把我辞退赔了28000，我本想留下来，结果大厂的表哥说：其实不上班的出路，远比你现在想的要多！](https://weixin.qdkfweb.cn/54639.html)
+- [为了拿到8千高薪和5万年终奖，我经常加班，每天忙的焦头烂额，结果上级还是对我很失望，他说：你上班最大的错误，就是不会控制情绪！](https://weixin.qdkfweb.cn/54640.html)
+- [2.6K star！免root安卓定位修改工具，牛逼！](https://weixin.qdkfweb.cn/54662.html)
+- [放弃年薪60万的阿里P7，选择年薪25万的国企。结果被裁](https://weixin.qdkfweb.cn/54652.html)
+- [Bun.js 太强了，每秒处理 129 万个请求！](https://weixin.qdkfweb.cn/54624.html)
 <!-- BLOG-POST-LIST:END -->
