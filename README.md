@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [上级说我态度不行，其次是能力欠缺，把我辞退赔了28000，我本想留下来，结果大厂的表哥说：其实不上班的出路，远比你现在想的要多！](https://weixin.qdkfweb.cn/54639.html)
-- [为了拿到8千高薪和5万年终奖，我经常加班，每天忙的焦头烂额，结果上级还是对我很失望，他说：你上班最大的错误，就是不会控制情绪！](https://weixin.qdkfweb.cn/54640.html)
-- [2.6K star！免root安卓定位修改工具，牛逼！](https://weixin.qdkfweb.cn/54662.html)
-- [放弃年薪60万的阿里P7，选择年薪25万的国企。结果被裁](https://weixin.qdkfweb.cn/54652.html)
-- [Bun.js 太强了，每秒处理 129 万个请求！](https://weixin.qdkfweb.cn/54624.html)
+- [百度内部员工爆料，真实的工作体验](https://weixin.qdkfweb.cn/54693.html)
+- [3.8K star！再见了mstsc，这款win远程会话管理项目绝对更优雅！](https://weixin.qdkfweb.cn/54707.html)
+- [阿里面试失败。理由是“我们招P6，你目前能力P5，老板意思待定”](https://weixin.qdkfweb.cn/54695.html)
+- [微软撤回一个对用户友好的&quot;Bug&quot;，连红衣教主都得直呼内行！](https://weixin.qdkfweb.cn/54708.html)
+- [火狐浏览器Firefox 130正式发布](https://weixin.qdkfweb.cn/54709.html)
 <!-- BLOG-POST-LIST:END -->
