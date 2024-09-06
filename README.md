@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [百度内部员工爆料，真实的工作体验](https://weixin.qdkfweb.cn/54693.html)
-- [3.8K star！再见了mstsc，这款win远程会话管理项目绝对更优雅！](https://weixin.qdkfweb.cn/54707.html)
-- [阿里面试失败。理由是“我们招P6，你目前能力P5，老板意思待定”](https://weixin.qdkfweb.cn/54695.html)
-- [微软撤回一个对用户友好的&quot;Bug&quot;，连红衣教主都得直呼内行！](https://weixin.qdkfweb.cn/54708.html)
-- [火狐浏览器Firefox 130正式发布](https://weixin.qdkfweb.cn/54709.html)
+- [这些前端安全领域知识，你掌握了哪些？](https://weixin.qdkfweb.cn/54724.html)
+- [时序，永远滴神](https://weixin.qdkfweb.cn/54717.html)
+- [这应该是全网最详细的Vue3.5版本解读](https://weixin.qdkfweb.cn/54712.html)
+- [京东再次加薪，同时扩招2000人！](https://weixin.qdkfweb.cn/54752.html)
+- [这个网站，又爆了！](https://weixin.qdkfweb.cn/54753.html)
 <!-- BLOG-POST-LIST:END -->
