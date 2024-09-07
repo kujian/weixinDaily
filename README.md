@@ -16,8 +16,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [32.8K star！爆火的微信聊天记录整理工具，功能超强！](https://weixin.qdkfweb.cn/54832.html)
-- [技术人才供需失衡何解？专访Linux基金会LF Education高级副总裁及总经理Clyde Seepersad](https://weixin.qdkfweb.cn/54836.html)
 - [“宇宙最强”开源代码编辑器——VS Code优化Linux版本UI、改进Copilot功能……](https://weixin.qdkfweb.cn/54835.html)
+- [技术人才供需失衡何解？专访Linux基金会LF Education高级副总裁及总经理Clyde Seepersad](https://weixin.qdkfweb.cn/54836.html)
 - [鹅厂工作7年，攒了近200万。离职三年后，房子断供，被起诉](https://weixin.qdkfweb.cn/54820.html)
 - [今天面试了一个字节女生，当场想给她offer！](https://weixin.qdkfweb.cn/54829.html)
 <!-- BLOG-POST-LIST:END -->
