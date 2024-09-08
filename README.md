@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [32.8K star！爆火的微信聊天记录整理工具，功能超强！](https://weixin.qdkfweb.cn/54832.html)
-- [“宇宙最强”开源代码编辑器——VS Code优化Linux版本UI、改进Copilot功能……](https://weixin.qdkfweb.cn/54835.html)
-- [技术人才供需失衡何解？专访Linux基金会LF Education高级副总裁及总经理Clyde Seepersad](https://weixin.qdkfweb.cn/54836.html)
-- [鹅厂工作7年，攒了近200万。离职三年后，房子断供，被起诉](https://weixin.qdkfweb.cn/54820.html)
-- [今天面试了一个字节女生，当场想给她offer！](https://weixin.qdkfweb.cn/54829.html)
+- [深度学习时代图像与视频阴影的检测、去除与生成：全面综述](https://weixin.qdkfweb.cn/54875.html)
+- [Nature子刊！北京大学提出多智能体强化学习新工作](https://weixin.qdkfweb.cn/54876.html)
+- [Mamba和遥感微信群成立！](https://weixin.qdkfweb.cn/54877.html)
+- [“95后”！清华博士，履新小学校长](https://weixin.qdkfweb.cn/54878.html)
+- [惋惜！吴瑛教授自杀离世](https://weixin.qdkfweb.cn/54873.html)
 <!-- BLOG-POST-LIST:END -->
