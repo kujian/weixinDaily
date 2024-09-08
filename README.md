@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [惋惜！吴瑛教授自杀离世](https://weixin.qdkfweb.cn/54873.html)
+- [PyTorch官宣：告别CUDA，GPU推理迎来Triton加速新时代！](https://weixin.qdkfweb.cn/54874.html)
 - [深度学习时代图像与视频阴影的检测、去除与生成：全面综述](https://weixin.qdkfweb.cn/54875.html)
 - [Nature子刊！北京大学提出多智能体强化学习新工作](https://weixin.qdkfweb.cn/54876.html)
 - [Mamba和遥感微信群成立！](https://weixin.qdkfweb.cn/54877.html)
-- [“95后”！清华博士，履新小学校长](https://weixin.qdkfweb.cn/54878.html)
-- [惋惜！吴瑛教授自杀离世](https://weixin.qdkfweb.cn/54873.html)
 <!-- BLOG-POST-LIST:END -->
