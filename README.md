@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [惋惜！吴瑛教授自杀离世](https://weixin.qdkfweb.cn/54873.html)
-- [PyTorch官宣：告别CUDA，GPU推理迎来Triton加速新时代！](https://weixin.qdkfweb.cn/54874.html)
-- [深度学习时代图像与视频阴影的检测、去除与生成：全面综述](https://weixin.qdkfweb.cn/54875.html)
-- [Nature子刊！北京大学提出多智能体强化学习新工作](https://weixin.qdkfweb.cn/54876.html)
-- [Mamba和遥感微信群成立！](https://weixin.qdkfweb.cn/54877.html)
+- [两男子自建视频平台App——“盗链”影视作品、获利3.92亿](https://weixin.qdkfweb.cn/54935.html)
+- [本周推荐的6个火火火的Github开源项目！](https://weixin.qdkfweb.cn/54933.html)
+- [我是如何实现网页颜色自适应的](https://weixin.qdkfweb.cn/54893.html)
+- [短视频二次创作，Python 让效率飞起来！](https://weixin.qdkfweb.cn/54889.html)
+- [大家都用什么工具提交代码？腾讯也出了一个 Git 客户端，免费但不开源](https://weixin.qdkfweb.cn/54915.html)
 <!-- BLOG-POST-LIST:END -->
