@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [两男子自建视频平台App——“盗链”影视作品、获利3.92亿](https://weixin.qdkfweb.cn/54935.html)
-- [本周推荐的6个火火火的Github开源项目！](https://weixin.qdkfweb.cn/54933.html)
-- [我是如何实现网页颜色自适应的](https://weixin.qdkfweb.cn/54893.html)
-- [短视频二次创作，Python 让效率飞起来！](https://weixin.qdkfweb.cn/54889.html)
-- [大家都用什么工具提交代码？腾讯也出了一个 Git 客户端，免费但不开源](https://weixin.qdkfweb.cn/54915.html)
+- [7.7K star！爆火的轻量级AI证件照工具，一键就搞定！](https://weixin.qdkfweb.cn/55009.html)
+- [Claude Artifacts 会成为前端标配么？](https://weixin.qdkfweb.cn/54975.html)
+- [某大厂市场总监（对标“福报厂”P8）上半年复盘：收入104万，纳税19.8万](https://weixin.qdkfweb.cn/54992.html)
+- [一个贼有意思的 UI 组件库，最近很火！](https://weixin.qdkfweb.cn/54942.html)
+- [Electron 32 正式发布](https://weixin.qdkfweb.cn/54962.html)
 <!-- BLOG-POST-LIST:END -->
