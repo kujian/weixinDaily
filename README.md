@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [7.7K star！爆火的轻量级AI证件照工具，一键就搞定！](https://weixin.qdkfweb.cn/55009.html)
-- [Claude Artifacts 会成为前端标配么？](https://weixin.qdkfweb.cn/54975.html)
-- [某大厂市场总监（对标“福报厂”P8）上半年复盘：收入104万，纳税19.8万](https://weixin.qdkfweb.cn/54992.html)
-- [一个贼有意思的 UI 组件库，最近很火！](https://weixin.qdkfweb.cn/54942.html)
-- [Electron 32 正式发布](https://weixin.qdkfweb.cn/54962.html)
+- [5K Star! 一款高逼格的开源前端监控系统！](https://weixin.qdkfweb.cn/55084.html)
+- [某大厂HR：被离职人员威胁了。拿照片AI生成“那种”视频发布到网上](https://weixin.qdkfweb.cn/55059.html)
+- [大家都用什么工具提交代码？腾讯也出了一个 Git 客户端，免费但不开源](https://weixin.qdkfweb.cn/55079.html)
+- [写书33年不休息，被全球程序员称为“我的第一位Java老师”，Java男神又出神作啦！](https://weixin.qdkfweb.cn/55080.html)
+- [1.5万字+30张图盘点索引常见的11个知识点](https://weixin.qdkfweb.cn/55081.html)
 <!-- BLOG-POST-LIST:END -->
