@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [5K Star! 一款高逼格的开源前端监控系统！](https://weixin.qdkfweb.cn/55084.html)
-- [某大厂HR：被离职人员威胁了。拿照片AI生成“那种”视频发布到网上](https://weixin.qdkfweb.cn/55059.html)
-- [大家都用什么工具提交代码？腾讯也出了一个 Git 客户端，免费但不开源](https://weixin.qdkfweb.cn/55079.html)
-- [写书33年不休息，被全球程序员称为“我的第一位Java老师”，Java男神又出神作啦！](https://weixin.qdkfweb.cn/55080.html)
-- [1.5万字+30张图盘点索引常见的11个知识点](https://weixin.qdkfweb.cn/55081.html)
+- [36岁当上985高校院长！女教授称“最强大的背景”是。。。](https://weixin.qdkfweb.cn/55249.html)
+- [字节跳动2024届的薪资。。。](https://weixin.qdkfweb.cn/55250.html)
+- [ECCV 2024 | RAW-Adapter：将预训练视觉模型适配到相机RAW图像](https://weixin.qdkfweb.cn/55251.html)
+- [布里斯托大学胡国圣教授招收AI/CV/大模型方向博士生](https://weixin.qdkfweb.cn/55252.html)
+- [异常检测和缺陷检测微信群成立！](https://weixin.qdkfweb.cn/55253.html)
 <!-- BLOG-POST-LIST:END -->
