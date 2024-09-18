@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [ECCV 2024 | RAW-Adapter：将预训练视觉模型适配到相机RAW图像](https://weixin.qdkfweb.cn/55251.html)
-- [布里斯托大学胡国圣教授招收AI/CV/大模型方向博士生](https://weixin.qdkfweb.cn/55252.html)
-- [异常检测和缺陷检测微信群成立！](https://weixin.qdkfweb.cn/55253.html)
-- [36岁当上985高校院长！女教授称“最强大的背景”是。。。](https://weixin.qdkfweb.cn/55249.html)
-- [字节跳动2024届的薪资。。。](https://weixin.qdkfweb.cn/55250.html)
+- [去高校做老师了，爆料真实的状况](https://weixin.qdkfweb.cn/55345.html)
+- [多所高校，官宣裁员！](https://weixin.qdkfweb.cn/55376.html)
+- [OpenAI o1方法性能无上限！姚班马腾宇等人数学证明：推理token够多，就能解决任意问题](https://weixin.qdkfweb.cn/55377.html)
+- [ECCV 2024 | 一眼模仿你的笔迹！One-DM：一眼临摹，以假乱真！](https://weixin.qdkfweb.cn/55378.html)
+- [比LoRA更高效！上海交大&amp;哈佛推出LoRA-Dash：新微调框架](https://weixin.qdkfweb.cn/55379.html)
 <!-- BLOG-POST-LIST:END -->
