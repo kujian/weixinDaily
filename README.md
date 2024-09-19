@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [去高校做老师了，爆料真实的状况](https://weixin.qdkfweb.cn/55345.html)
-- [多所高校，官宣裁员！](https://weixin.qdkfweb.cn/55376.html)
-- [OpenAI o1方法性能无上限！姚班马腾宇等人数学证明：推理token够多，就能解决任意问题](https://weixin.qdkfweb.cn/55377.html)
-- [ECCV 2024 | 一眼模仿你的笔迹！One-DM：一眼临摹，以假乱真！](https://weixin.qdkfweb.cn/55378.html)
-- [比LoRA更高效！上海交大&amp;哈佛推出LoRA-Dash：新微调框架](https://weixin.qdkfweb.cn/55379.html)
+- [​9.9K Star！无需代码，快速构建自己的 AI 知识库问答系统！](https://weixin.qdkfweb.cn/55441.html)
+- [Chrome 的性能分析面板更新了](https://weixin.qdkfweb.cn/55416.html)
+- [前端如何实现权限控制？看这一篇就够了](https://weixin.qdkfweb.cn/55390.html)
+- [尊嘟假嘟？在Vue3.5中解构props不会丢失响应式](https://weixin.qdkfweb.cn/55387.html)
+- [核心Python开发者竟被停职3个月，“罪名”之一是“太三俗了”](https://weixin.qdkfweb.cn/55438.html)
 <!-- BLOG-POST-LIST:END -->
