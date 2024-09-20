@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [​9.9K Star！无需代码，快速构建自己的 AI 知识库问答系统！](https://weixin.qdkfweb.cn/55441.html)
-- [Chrome 的性能分析面板更新了](https://weixin.qdkfweb.cn/55416.html)
-- [前端如何实现权限控制？看这一篇就够了](https://weixin.qdkfweb.cn/55390.html)
-- [尊嘟假嘟？在Vue3.5中解构props不会丢失响应式](https://weixin.qdkfweb.cn/55387.html)
-- [核心Python开发者竟被停职3个月，“罪名”之一是“太三俗了”](https://weixin.qdkfweb.cn/55438.html)
+- [Java 23 发布，人麻了。。。](https://weixin.qdkfweb.cn/55485.html)
+- [新项目即将完结，还能上车](https://weixin.qdkfweb.cn/55486.html)
+- [直接爆了！阿里再次第一！](https://weixin.qdkfweb.cn/55500.html)
+- [一句话证明你是字节人：同学，加个微信吧。啊！你要离职啦？](https://weixin.qdkfweb.cn/55509.html)
+- [90年代的硬盘已大规模变砖，存储数据时这样做很有必要](https://weixin.qdkfweb.cn/55519.html)
 <!-- BLOG-POST-LIST:END -->
