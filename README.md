@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [Java 23 发布，人麻了。。。](https://weixin.qdkfweb.cn/55485.html)
-- [新项目即将完结，还能上车](https://weixin.qdkfweb.cn/55486.html)
-- [直接爆了！阿里再次第一！](https://weixin.qdkfweb.cn/55500.html)
-- [一句话证明你是字节人：同学，加个微信吧。啊！你要离职啦？](https://weixin.qdkfweb.cn/55509.html)
-- [90年代的硬盘已大规模变砖，存储数据时这样做很有必要](https://weixin.qdkfweb.cn/55519.html)
+- [当下“退休金”的三个梯队：1、第一梯队，高校教授、科研人员、高层管理；2、第二梯队，中层干部、高级技术人员；3、第三梯队普通职工](https://weixin.qdkfweb.cn/55550.html)
+- [当下地位“断崖式下降”的六大职业：1、“空少”曾经是高贵帅气；2、邮递员过去是“香饽饽”；3、银行柜员曾是令人羡慕的高薪职业](https://weixin.qdkfweb.cn/55551.html)
+- [未来10年“含金量”将暴涨的12本冷门证书：1、老年人能力评估师；2、光电仪器操作师；3、陪诊师；4、整理收纳师；5、殡葬礼仪师](https://weixin.qdkfweb.cn/55552.html)
+- [我们究竟为什么痛恨“降本增效”？](https://weixin.qdkfweb.cn/55570.html)
+- [1.1K star!基于Llama3几秒钟完成一本书，这个项目有点厉害！](https://weixin.qdkfweb.cn/55582.html)
 <!-- BLOG-POST-LIST:END -->
