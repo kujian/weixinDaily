@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [比亚迪员工爆料：清华硕，感觉迪子还行，同学去华为跟比亚迪的大概五五开，深圳这边两家薪酬差不多，西安迪子比华为的年包高10个](https://weixin.qdkfweb.cn/55612.html)
-- [国家电网员工爆料：月薪7500多，想要辞职去干互联网，几个朋友都离开了一天能挣2300，干几天就顶一个月工资，年薪百万](https://weixin.qdkfweb.cn/55613.html)
-- [国家奖学金，最有用的一次。。。](https://weixin.qdkfweb.cn/55635.html)
-- [Office 2024已正式发布！](https://weixin.qdkfweb.cn/55636.html)
-- [你管这破玩意叫网络？](https://weixin.qdkfweb.cn/55601.html)
+- [上级说他来公司10年了，下半年开会总被领导挑毛病，中秋节后退出了群，结果看到他发邮件是把工作交接给了其他人，说他不干部门负责人了](https://weixin.qdkfweb.cn/55661.html)
+- [面试官：假如有几十个请求，如何去控制并发？](https://weixin.qdkfweb.cn/55643.html)
+- [本周推荐的5个火火火的Github开源项目！](https://weixin.qdkfweb.cn/55686.html)
+- [“革命性”「Safe C++」扩展提案：质疑Rust、理解Rust、成为Rust？](https://weixin.qdkfweb.cn/55688.html)
+- [一文搞懂大语言模型的发展历程和未来应用场景](https://weixin.qdkfweb.cn/55689.html)
 <!-- BLOG-POST-LIST:END -->
