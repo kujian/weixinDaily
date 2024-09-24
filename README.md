@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [上级说他来公司10年了，下半年开会总被领导挑毛病，中秋节后退出了群，结果看到他发邮件是把工作交接给了其他人，说他不干部门负责人了](https://weixin.qdkfweb.cn/55661.html)
-- [面试官：假如有几十个请求，如何去控制并发？](https://weixin.qdkfweb.cn/55643.html)
-- [本周推荐的5个火火火的Github开源项目！](https://weixin.qdkfweb.cn/55686.html)
-- [“革命性”「Safe C++」扩展提案：质疑Rust、理解Rust、成为Rust？](https://weixin.qdkfweb.cn/55688.html)
-- [一文搞懂大语言模型的发展历程和未来应用场景](https://weixin.qdkfweb.cn/55689.html)
+- [2024年平均工资最高的20种工作：1、榜首不是企业高管；2、芯片制造工程师杀入前三；3、汽车电子工程师进入前十](https://weixin.qdkfweb.cn/55741.html)
+- [借鉴日本经验未来30年的六个”黄金赛道“：1、低客单价的“特种兵旅游”；2、提供生活必需品的行业；3、能提供“情绪价值”的领域](https://weixin.qdkfweb.cn/55742.html)
+- [我天，太难了！2024届毕业生就业率崩的越来越离谱了！](https://weixin.qdkfweb.cn/55736.html)
+- [道歉声明（置顶30天）。高端的“避雷”方式](https://weixin.qdkfweb.cn/55753.html)
+- [解决PC端和移动端的CSS简单适配问题](https://weixin.qdkfweb.cn/55693.html)
 <!-- BLOG-POST-LIST:END -->
