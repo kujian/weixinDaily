@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [2024年平均工资最高的20种工作：1、榜首不是企业高管；2、芯片制造工程师杀入前三；3、汽车电子工程师进入前十](https://weixin.qdkfweb.cn/55741.html)
-- [借鉴日本经验未来30年的六个”黄金赛道“：1、低客单价的“特种兵旅游”；2、提供生活必需品的行业；3、能提供“情绪价值”的领域](https://weixin.qdkfweb.cn/55742.html)
-- [我天，太难了！2024届毕业生就业率崩的越来越离谱了！](https://weixin.qdkfweb.cn/55736.html)
-- [道歉声明（置顶30天）。高端的“避雷”方式](https://weixin.qdkfweb.cn/55753.html)
-- [解决PC端和移动端的CSS简单适配问题](https://weixin.qdkfweb.cn/55693.html)
+- [我中秋节报了3天加班，审批时被领导拒了，我借此提了离职，结果领导说你提离职可以，但要退还上半年给你发的项目奖金！](https://weixin.qdkfweb.cn/55794.html)
+- [字节内部员工自爆，最近一年真实的工作感受](https://weixin.qdkfweb.cn/55796.html)
+- [未来3-5年热度暴涨的12大新兴行业：1、陪伴经济爆发，需求令人意外；2、单身经济崛起，“一人居一人食”火爆；3、圈层经济](https://weixin.qdkfweb.cn/55797.html)
+- [9.24｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/55805.html)
+- [12.2K star！JSON到代码的快速转换神器，程序员必备！](https://weixin.qdkfweb.cn/55826.html)
 <!-- BLOG-POST-LIST:END -->
