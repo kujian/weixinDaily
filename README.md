@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [我中秋节报了3天加班，审批时被领导拒了，我借此提了离职，结果领导说你提离职可以，但要退还上半年给你发的项目奖金！](https://weixin.qdkfweb.cn/55794.html)
-- [字节内部员工自爆，最近一年真实的工作感受](https://weixin.qdkfweb.cn/55796.html)
-- [未来3-5年热度暴涨的12大新兴行业：1、陪伴经济爆发，需求令人意外；2、单身经济崛起，“一人居一人食”火爆；3、圈层经济](https://weixin.qdkfweb.cn/55797.html)
-- [9.24｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/55805.html)
-- [12.2K star！JSON到代码的快速转换神器，程序员必备！](https://weixin.qdkfweb.cn/55826.html)
+- [9.25｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/55883.html)
+- [冲了！2025年中石化正式编机会！名额超过10000人，大专起报，几百种岗位可选，招聘正在进行中！](https://weixin.qdkfweb.cn/55869.html)
+- [2024年下半年正在“闷声发大财”的六大冷门领域：1、成人纸尿裤销量创新高；2、私密护理，撬动千亿市场；3、生殖辅助行业正在升温](https://weixin.qdkfweb.cn/55870.html)
+- [12.1K star！这款轻量级 Mac 工具非常推荐使用！](https://weixin.qdkfweb.cn/55893.html)
+- [普通人年入百万的9点机会](https://weixin.qdkfweb.cn/55865.html)
 <!-- BLOG-POST-LIST:END -->
