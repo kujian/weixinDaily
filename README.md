@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [9.25｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/55883.html)
-- [冲了！2025年中石化正式编机会！名额超过10000人，大专起报，几百种岗位可选，招聘正在进行中！](https://weixin.qdkfweb.cn/55869.html)
-- [2024年下半年正在“闷声发大财”的六大冷门领域：1、成人纸尿裤销量创新高；2、私密护理，撬动千亿市场；3、生殖辅助行业正在升温](https://weixin.qdkfweb.cn/55870.html)
-- [12.1K star！这款轻量级 Mac 工具非常推荐使用！](https://weixin.qdkfweb.cn/55893.html)
-- [普通人年入百万的9点机会](https://weixin.qdkfweb.cn/55865.html)
+- [9.26｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/55955.html)
+- [6.5K star！这个开源聊天室项目，有点意思！](https://weixin.qdkfweb.cn/55967.html)
+- [OpenAI 奥特曼成“光杆司令”了！](https://weixin.qdkfweb.cn/55937.html)
+- [全世界流浪的程序员，用最原始的技术，每月赚17.6万美元！](https://weixin.qdkfweb.cn/55964.html)
+- [上海交大ACM班总教头俞勇教授团队第4本重磅新作出版啦！&lpar;文末送书&rpar;](https://weixin.qdkfweb.cn/55965.html)
 <!-- BLOG-POST-LIST:END -->
