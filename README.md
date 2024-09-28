@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [9.26｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/55955.html)
-- [6.5K star！这个开源聊天室项目，有点意思！](https://weixin.qdkfweb.cn/55967.html)
-- [OpenAI 奥特曼成“光杆司令”了！](https://weixin.qdkfweb.cn/55937.html)
-- [全世界流浪的程序员，用最原始的技术，每月赚17.6万美元！](https://weixin.qdkfweb.cn/55964.html)
-- [上海交大ACM班总教头俞勇教授团队第4本重磅新作出版啦！&lpar;文末送书&rpar;](https://weixin.qdkfweb.cn/55965.html)
+- [有很多新兴职业，赚的不比上班少，关键是很多人都不知道，今天就来扒几个赚钱比较好的：1、职业倾听师；2、高端家教；3、婚礼管家](https://weixin.qdkfweb.cn/56001.html)
+- [堂弟天津大学化学专业，去年居然进了华为，家人都非常高兴，一说小孩在华为工作，脸上无比骄傲，现在华为在他们心目中就是好工作和高工资](https://weixin.qdkfweb.cn/56002.html)
+- [未来5-7年前景不错、有增量、竞争不激烈的五个细分领域：1、头发经济，男人怕秃顶；2、单身经济一人居一人食；3、二次元，盲盒手办](https://weixin.qdkfweb.cn/56003.html)
+- [又开始疯狂起来了.....](https://weixin.qdkfweb.cn/55995.html)
+- [flowmix/docx 文档引擎最新更新:  开启全新视界!](https://weixin.qdkfweb.cn/55992.html)
 <!-- BLOG-POST-LIST:END -->
