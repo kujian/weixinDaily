@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [有很多新兴职业，赚的不比上班少，关键是很多人都不知道，今天就来扒几个赚钱比较好的：1、职业倾听师；2、高端家教；3、婚礼管家](https://weixin.qdkfweb.cn/56001.html)
-- [堂弟天津大学化学专业，去年居然进了华为，家人都非常高兴，一说小孩在华为工作，脸上无比骄傲，现在华为在他们心目中就是好工作和高工资](https://weixin.qdkfweb.cn/56002.html)
-- [未来5-7年前景不错、有增量、竞争不激烈的五个细分领域：1、头发经济，男人怕秃顶；2、单身经济一人居一人食；3、二次元，盲盒手办](https://weixin.qdkfweb.cn/56003.html)
-- [又开始疯狂起来了.....](https://weixin.qdkfweb.cn/55995.html)
-- [flowmix/docx 文档引擎最新更新:  开启全新视界!](https://weixin.qdkfweb.cn/55992.html)
+- [2025年即将“报复性上升”的四大风口赛道：1、“疗愈助眠”需求井喷；2、两亿单身人口点燃独居经济；3、“老年情感”赛道异军突起](https://weixin.qdkfweb.cn/56051.html)
+- [年薪59万大厂员工爆料：真刺头，还真不敢裁，裁的基本都是比较内向，低头做事的人。毕竟上级、上上级都是从周报，ppt上看功劳。](https://weixin.qdkfweb.cn/56052.html)
+- [微信重磅功能来袭！查看好友添加时间，加友纪念日一目了然！](https://weixin.qdkfweb.cn/56045.html)
+- [封装WebSocket消息推送，干翻Ajax轮询方式](https://weixin.qdkfweb.cn/56029.html)
+- [华为员工爆料：14级到17级都是牛马，业务线平行，互相PUA不了，除非事儿搞不定得让别人擦屁股。有资格PUA你的只有你的PL](https://weixin.qdkfweb.cn/56054.html)
 <!-- BLOG-POST-LIST:END -->
