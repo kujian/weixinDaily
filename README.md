@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [领导让我做假报表，我拒绝后被边缘化，结果被客户投诉数据造假，看到公司发的处罚通报，结果我是唯一没被处分的。](https://weixin.qdkfweb.cn/56102.html)
-- [本周推荐的5个火火火的Github开源项目！](https://weixin.qdkfweb.cn/56138.html)
-- [33岁，上海市属国企合同不续签](https://weixin.qdkfweb.cn/56120.html)
-- [别错过！一款不错的轻量级拖拽库 drag-kit](https://weixin.qdkfweb.cn/56081.html)
-- [这个 JavaScript API 的功能太强大了！](https://weixin.qdkfweb.cn/56093.html)
+- [9.30｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/56181.html)
+- [19K star！终端文件管理神器，爽到起飞！](https://weixin.qdkfweb.cn/56202.html)
+- [某大厂P8：清仓，提前还房贷113W](https://weixin.qdkfweb.cn/56180.html)
+- [横空出世，比Visio快10倍的画图工具来了。](https://weixin.qdkfweb.cn/56191.html)
+- [分库分表，可能真的要退出历史舞台了！](https://weixin.qdkfweb.cn/56192.html)
 <!-- BLOG-POST-LIST:END -->
