@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [9.30｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/56181.html)
-- [19K star！终端文件管理神器，爽到起飞！](https://weixin.qdkfweb.cn/56202.html)
-- [某大厂P8：清仓，提前还房贷113W](https://weixin.qdkfweb.cn/56180.html)
-- [横空出世，比Visio快10倍的画图工具来了。](https://weixin.qdkfweb.cn/56191.html)
-- [分库分表，可能真的要退出历史舞台了！](https://weixin.qdkfweb.cn/56192.html)
+- [国庆放假领导打来3个电话，我因为赶高铁就一直没接，晚上到家后回了过去，结果领导说放个假你们就消失了一样，是不是平时加班加够了？](https://weixin.qdkfweb.cn/56214.html)
+- [俞敏洪亲自出面辟谣了！](https://weixin.qdkfweb.cn/56221.html)
+- [首次证实：读博对人心理健康的负面影响，比父母意外去世还要大。。。](https://weixin.qdkfweb.cn/56225.html)
+- [打破Transformer霸权！MIT系初创公司提出LFM液体基础模型，刷新SOTA，非GPT架构显著超越Transformer](https://weixin.qdkfweb.cn/56226.html)
+- [ECCV 2024 冠军方案！SURE-OOD拿下开放集识别比赛第一名！](https://weixin.qdkfweb.cn/56227.html)
 <!-- BLOG-POST-LIST:END -->
