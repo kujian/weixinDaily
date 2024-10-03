@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [国庆放假领导打来3个电话，我因为赶高铁就一直没接，晚上到家后回了过去，结果领导说放个假你们就消失了一样，是不是平时加班加够了？](https://weixin.qdkfweb.cn/56214.html)
-- [俞敏洪亲自出面辟谣了！](https://weixin.qdkfweb.cn/56221.html)
-- [首次证实：读博对人心理健康的负面影响，比父母意外去世还要大。。。](https://weixin.qdkfweb.cn/56225.html)
-- [打破Transformer霸权！MIT系初创公司提出LFM液体基础模型，刷新SOTA，非GPT架构显著超越Transformer](https://weixin.qdkfweb.cn/56226.html)
-- [ECCV 2024 冠军方案！SURE-OOD拿下开放集识别比赛第一名！](https://weixin.qdkfweb.cn/56227.html)
+- [如何将谷歌开源的V8引擎移植到纯血鸿蒙系统？](https://weixin.qdkfweb.cn/56262.html)
+- [2024年，只有搞颜色的 P 站真正关心网站性能](https://weixin.qdkfweb.cn/56250.html)
+- [从零开始搭建一个通用的业务技术架构，这套架构有点牛逼！](https://weixin.qdkfweb.cn/56251.html)
+- [您需要模块，而不是微服务](https://weixin.qdkfweb.cn/56252.html)
+- [你知道吗，还有基于 Ubuntu 的滚动发行版！](https://weixin.qdkfweb.cn/56260.html)
 <!-- BLOG-POST-LIST:END -->
