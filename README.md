@@ -19,5 +19,5 @@
 - [2024年，只有搞颜色的 P 站真正关心网站性能](https://weixin.qdkfweb.cn/56250.html)
 - [从零开始搭建一个通用的业务技术架构，这套架构有点牛逼！](https://weixin.qdkfweb.cn/56251.html)
 - [您需要模块，而不是微服务](https://weixin.qdkfweb.cn/56252.html)
-- [你知道吗，还有基于 Ubuntu 的滚动发行版！](https://weixin.qdkfweb.cn/56260.html)
+- [一个神奇的网站 0.30000000000000004.com](https://weixin.qdkfweb.cn/56259.html)
 <!-- BLOG-POST-LIST:END -->
