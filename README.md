@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [如何将谷歌开源的V8引擎移植到纯血鸿蒙系统？](https://weixin.qdkfweb.cn/56262.html)
-- [2024年，只有搞颜色的 P 站真正关心网站性能](https://weixin.qdkfweb.cn/56250.html)
-- [从零开始搭建一个通用的业务技术架构，这套架构有点牛逼！](https://weixin.qdkfweb.cn/56251.html)
-- [您需要模块，而不是微服务](https://weixin.qdkfweb.cn/56252.html)
-- [一个神奇的网站 0.30000000000000004.com](https://weixin.qdkfweb.cn/56259.html)
+- [领导在群里说国庆要加班5天，几个关系户都说愿意加班，结果领导让我也留下，还吐槽说关系化加班就是只拿钱不干活，但是不让报还不行！](https://weixin.qdkfweb.cn/56282.html)
+- [未来10年宠物赛道还有哪些“金矿”待挖掘？1、宠物保健市场兴起；2、宠物家庭服务将是刚需；3、线下连锁“宠物店”开始出现](https://weixin.qdkfweb.cn/56285.html)
+- [尤雨溪：新公司已融资3200万，致力于打造下一代 JavaScript 工具链！](https://weixin.qdkfweb.cn/56263.html)
+- [24.6K star！发现一款金融交易开源项目，希望能赶上节后爆火行情！](https://weixin.qdkfweb.cn/56309.html)
+- [某大厂员工家属：老公猝死前的体检报告](https://weixin.qdkfweb.cn/56299.html)
 <!-- BLOG-POST-LIST:END -->
