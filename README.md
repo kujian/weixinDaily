@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [领导在群里说国庆要加班5天，几个关系户都说愿意加班，结果领导让我也留下，还吐槽说关系化加班就是只拿钱不干活，但是不让报还不行！](https://weixin.qdkfweb.cn/56282.html)
-- [未来10年宠物赛道还有哪些“金矿”待挖掘？1、宠物保健市场兴起；2、宠物家庭服务将是刚需；3、线下连锁“宠物店”开始出现](https://weixin.qdkfweb.cn/56285.html)
-- [尤雨溪：新公司已融资3200万，致力于打造下一代 JavaScript 工具链！](https://weixin.qdkfweb.cn/56263.html)
-- [24.6K star！发现一款金融交易开源项目，希望能赶上节后爆火行情！](https://weixin.qdkfweb.cn/56309.html)
-- [某大厂员工家属：老公猝死前的体检报告](https://weixin.qdkfweb.cn/56299.html)
+- [未来十年将要爆发的12大风口行业：1、氛围经济，香薰、蜡烛、咖啡机热卖；2、圈层经济，球鞋、卡牌、盲盒“复购率”高；3、宠物陪伴](https://weixin.qdkfweb.cn/56325.html)
+- [10.4｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/56328.html)
+- [入职大厂，我在字节当“保安”。月薪5000元](https://weixin.qdkfweb.cn/56327.html)
+- [React 渲染流程可视化，有大佬实现了！](https://weixin.qdkfweb.cn/56313.html)
+- [PostgreSQL 17 发布：摊牌了，我不装了！](https://weixin.qdkfweb.cn/56339.html)
 <!-- BLOG-POST-LIST:END -->
