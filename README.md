@@ -19,5 +19,5 @@
 - [10.4｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/56328.html)
 - [入职大厂，我在字节当“保安”。月薪5000元](https://weixin.qdkfweb.cn/56327.html)
 - [React 渲染流程可视化，有大佬实现了！](https://weixin.qdkfweb.cn/56313.html)
-- [Chrome背后最大的秘密：印度人拯救了Google！](https://weixin.qdkfweb.cn/56338.html)
+- [美团二面:说说redis主从的脑裂行为](https://weixin.qdkfweb.cn/56340.html)
 <!-- BLOG-POST-LIST:END -->
