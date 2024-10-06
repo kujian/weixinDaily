@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [未来十年将要爆发的12大风口行业：1、氛围经济，香薰、蜡烛、咖啡机热卖；2、圈层经济，球鞋、卡牌、盲盒“复购率”高；3、宠物陪伴](https://weixin.qdkfweb.cn/56325.html)
-- [10.4｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/56328.html)
-- [入职大厂，我在字节当“保安”。月薪5000元](https://weixin.qdkfweb.cn/56327.html)
-- [React 渲染流程可视化，有大佬实现了！](https://weixin.qdkfweb.cn/56313.html)
-- [美团二面:说说redis主从的脑裂行为](https://weixin.qdkfweb.cn/56340.html)
+- [比亚迪员工爆料：比亚迪长得太快了，导致内部各种不协调，特别是名校毕业生，会感觉环境不如预期。不过突发成长的公司都会这样的！](https://weixin.qdkfweb.cn/56368.html)
+- [阿里员工爆料：目前P7！93的股价，总包130了！公司股价这几天涨的凶啊！今年归属了675股，加上现金，一算，总包130了！](https://weixin.qdkfweb.cn/56369.html)
+- [19级华为员工爆料：我是华为一名退休员工，47岁，19级职位，没有选择续签合同，选择了保留60万股票，安享退休生活](https://weixin.qdkfweb.cn/56370.html)
+- [38岁，我在字节，她在部委](https://weixin.qdkfweb.cn/56376.html)
+- [我爸对计算机行业的看法，是否准确？](https://weixin.qdkfweb.cn/56383.html)
 <!-- BLOG-POST-LIST:END -->
