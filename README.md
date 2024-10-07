@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [阿里员工爆料：目前P7！93的股价，总包130了！公司股价这几天涨的凶啊！今年归属了675股，加上现金，一算，总包130了！](https://weixin.qdkfweb.cn/56369.html)
-- [19级华为员工爆料：我是华为一名退休员工，47岁，19级职位，没有选择续签合同，选择了保留60万股票，安享退休生活](https://weixin.qdkfweb.cn/56370.html)
-- [比亚迪员工爆料：比亚迪长得太快了，导致内部各种不协调，特别是名校毕业生，会感觉环境不如预期。不过突发成长的公司都会这样的！](https://weixin.qdkfweb.cn/56368.html)
-- [38岁，我在字节，她在部委](https://weixin.qdkfweb.cn/56376.html)
-- [我爸对计算机行业的看法，是否准确？](https://weixin.qdkfweb.cn/56383.html)
+- [陪领导出差回来一周，我向公司提了辞呈，领导说他确实考虑不周，结果我离开公司没多久，领导就招了一个副手，还扬言说我不懂得捧场！](https://weixin.qdkfweb.cn/56395.html)
+- [同事提了离职，临走时领导再三问去了哪里，同事说准备创业，结果领导去开会，撞见同事在竞争对手那里上班，领导调侃说你啥时候回去上班？](https://weixin.qdkfweb.cn/56396.html)
+- [某市属国企内部规定：（原则上）不允许非全日制硕士入职](https://weixin.qdkfweb.cn/56408.html)
+- [&quot;八股选手进了公司就原形毕露了&quot;](https://weixin.qdkfweb.cn/56410.html)
+- [标星 42K！一款 AirDrop 开源替代方案](https://weixin.qdkfweb.cn/56411.html)
 <!-- BLOG-POST-LIST:END -->
