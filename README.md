@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [同事提了离职，临走时领导再三问去了哪里，同事说准备创业，结果领导去开会，撞见同事在竞争对手那里上班，领导调侃说你啥时候回去上班？](https://weixin.qdkfweb.cn/56396.html)
-- [陪领导出差回来一周，我向公司提了辞呈，领导说他确实考虑不周，结果我离开公司没多久，领导就招了一个副手，还扬言说我不懂得捧场！](https://weixin.qdkfweb.cn/56395.html)
-- [某市属国企内部规定：（原则上）不允许非全日制硕士入职](https://weixin.qdkfweb.cn/56408.html)
-- [&quot;八股选手进了公司就原形毕露了&quot;](https://weixin.qdkfweb.cn/56410.html)
-- [标星 42K！一款 AirDrop 开源替代方案](https://weixin.qdkfweb.cn/56411.html)
+- [我被降薪了20%，上级说让我别着急，相比裁员降薪算好的了，结果过了3个月以后，上级被降薪25%，他说不接受，光房贷每月5000。](https://weixin.qdkfweb.cn/56437.html)
+- [公司空降了一位大厂P9高管。论“搞人”的阳谋和手段](https://weixin.qdkfweb.cn/56449.html)
+- [比亚迪员工爆料：部门去年入职的四个应届生，今年全跑了，三留学，一个考研。和预期相差太大，就是一个大制造厂，和大厂相去甚远 ！](https://weixin.qdkfweb.cn/56441.html)
+- [某大厂开始“捡漏”35+的人员了](https://weixin.qdkfweb.cn/56465.html)
+- [在 Linux 上安装微信，可以看看这个！](https://weixin.qdkfweb.cn/56467.html)
 <!-- BLOG-POST-LIST:END -->
