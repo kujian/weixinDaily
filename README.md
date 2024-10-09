@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [我被降薪了20%，上级说让我别着急，相比裁员降薪算好的了，结果过了3个月以后，上级被降薪25%，他说不接受，光房贷每月5000。](https://weixin.qdkfweb.cn/56437.html)
-- [公司空降了一位大厂P9高管。论“搞人”的阳谋和手段](https://weixin.qdkfweb.cn/56449.html)
-- [比亚迪员工爆料：部门去年入职的四个应届生，今年全跑了，三留学，一个考研。和预期相差太大，就是一个大制造厂，和大厂相去甚远 ！](https://weixin.qdkfweb.cn/56441.html)
-- [某大厂开始“捡漏”35+的人员了](https://weixin.qdkfweb.cn/56465.html)
-- [在 Linux 上安装微信，可以看看这个！](https://weixin.qdkfweb.cn/56467.html)
+- [阿里：写一个倒计时功能刷掉了80% 的人](https://weixin.qdkfweb.cn/56477.html)
+- [关于尤雨溪的新公司，你需要知道的](https://weixin.qdkfweb.cn/56504.html)
+- [30家当前正在热招的“神仙公司”（航天、中信、比亚迪、五矿等）](https://weixin.qdkfweb.cn/56505.html)
+- [毕业后不交社保，能保留“应届生身份”参加应聘吗？一文讲清应届生身份认定问题](https://weixin.qdkfweb.cn/56506.html)
+- [普通家庭孩子想赚大钱，只有这3条路：1、干销售，尤其是高客单的；2、钻研技术，成为不可替代的高手；3、当网红，让所有人认识你](https://weixin.qdkfweb.cn/56508.html)
 <!-- BLOG-POST-LIST:END -->
