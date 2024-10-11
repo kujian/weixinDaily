@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [领导通知我开会，让找个安静的地方，我加入腾讯会议后，结果看到HR和其他3个同事也参加了，HR说公司准备裁掉大家，但赔偿费半年后发](https://weixin.qdkfweb.cn/56571.html)
-- [硕三，拿了个大厂接近100w的offer，但进去后发现干的活技术含量不高，不怎么费脑子](https://weixin.qdkfweb.cn/56576.html)
-- [12.7K star！据说这是有史以来最好的DDOS测试工具！](https://weixin.qdkfweb.cn/56598.html)
-- [善人善报！面试路上有人晕倒，小姐姐放弃面试机会帮忙照看。事后找到一份月薪过万的工作](https://weixin.qdkfweb.cn/56588.html)
-- [立即让JavaScript获得自由！JS之父等超8000人喊话Oracle：你们也不用，放手吧！](https://weixin.qdkfweb.cn/56555.html)
+- [我去面试工资要了1万，HR将工资压到了9000，还反问我说：你应该不差这1000吧，我也接受，后来背调时问了我同事一堆问题。](https://weixin.qdkfweb.cn/56633.html)
+- [10.10｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/56649.html)
+- [不同年龄段的人，应该有多少存款才合格？1、25岁达到5万；2、30而立，10万存款；3、35岁有20万；4、40不惑应该超30万](https://weixin.qdkfweb.cn/56635.html)
+- [普通人做IP，年入百万，做到这四个字足够](https://weixin.qdkfweb.cn/56626.html)
+- [尤雨溪：新公司已融资3200万，致力于打造下一代 JavaScript 工具链！](https://weixin.qdkfweb.cn/56609.html)
 <!-- BLOG-POST-LIST:END -->
