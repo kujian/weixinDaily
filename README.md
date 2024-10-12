@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [我去面试工资要了1万，HR将工资压到了9000，还反问我说：你应该不差这1000吧，我也接受，后来背调时问了我同事一堆问题。](https://weixin.qdkfweb.cn/56633.html)
-- [10.10｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/56649.html)
-- [不同年龄段的人，应该有多少存款才合格？1、25岁达到5万；2、30而立，10万存款；3、35岁有20万；4、40不惑应该超30万](https://weixin.qdkfweb.cn/56635.html)
-- [普通人做IP，年入百万，做到这四个字足够](https://weixin.qdkfweb.cn/56626.html)
-- [尤雨溪：新公司已融资3200万，致力于打造下一代 JavaScript 工具链！](https://weixin.qdkfweb.cn/56609.html)
+- [14.5K star！Win系统居然还有开源替代版？！](https://weixin.qdkfweb.cn/56773.html)
+- [“双11”已经太多年没这么热闹了…](https://weixin.qdkfweb.cn/56758.html)
+- [详解10 个每个开发人员都需要掌握的 JavaScript 基本数组函数](https://weixin.qdkfweb.cn/56730.html)
+- [一招搞定互联网大厂面试提问！](https://weixin.qdkfweb.cn/56757.html)
+- [炸裂！国企入职第一年被告知要去献血](https://weixin.qdkfweb.cn/56755.html)
 <!-- BLOG-POST-LIST:END -->
