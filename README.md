@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [14.5K star！Win系统居然还有开源替代版？！](https://weixin.qdkfweb.cn/56773.html)
-- [“双11”已经太多年没这么热闹了…](https://weixin.qdkfweb.cn/56758.html)
-- [详解10 个每个开发人员都需要掌握的 JavaScript 基本数组函数](https://weixin.qdkfweb.cn/56730.html)
-- [一招搞定互联网大厂面试提问！](https://weixin.qdkfweb.cn/56757.html)
-- [炸裂！国企入职第一年被告知要去献血](https://weixin.qdkfweb.cn/56755.html)
+- [10.12｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/56810.html)
+- [Vite 4.3 为何性能爆表？（第一次知道 Node 竟还有这个冷门性能问题...）](https://weixin.qdkfweb.cn/56779.html)
+- [5.6K star！一个牛逼的python库，让科学计算更清晰！](https://weixin.qdkfweb.cn/56820.html)
+- [神级开源“无头”组件库：已收获7万多star、在国外爆火，前端开发者一定要试试](https://weixin.qdkfweb.cn/56821.html)
+- [程序员这条路不是长久的选择，人会老会失业](https://weixin.qdkfweb.cn/56822.html)
 <!-- BLOG-POST-LIST:END -->
