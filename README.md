@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [10.12｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/56810.html)
-- [Vite 4.3 为何性能爆表？（第一次知道 Node 竟还有这个冷门性能问题...）](https://weixin.qdkfweb.cn/56779.html)
-- [5.6K star！一个牛逼的python库，让科学计算更清晰！](https://weixin.qdkfweb.cn/56820.html)
-- [神级开源“无头”组件库：已收获7万多star、在国外爆火，前端开发者一定要试试](https://weixin.qdkfweb.cn/56821.html)
-- [程序员这条路不是长久的选择，人会老会失业](https://weixin.qdkfweb.cn/56822.html)
+- [老板让侄女担任出纳，开出了6500的薪资，而公司的老会计月薪才5500，结果会计不服气，可老板说这是私企，没那么多条条框框。](https://weixin.qdkfweb.cn/56856.html)
+- [曝海康威视大规模裁员！涉及1000多名员工，N+2赔偿！官方回应来了。。。](https://weixin.qdkfweb.cn/56878.html)
+- [NeurIPS 2024 | Mamba杀入异常检测！MambaAD：第一个使用Mamba进行多类无监督异常检测](https://weixin.qdkfweb.cn/56879.html)
+- [MVGS：3DGS优化新范式！最强3D与4D重建方法！](https://weixin.qdkfweb.cn/56880.html)
+- [OpenAI被指剽窃？20岁创始人自曝代码结构被抄袭！多智能体Swarm陷争议。。。](https://weixin.qdkfweb.cn/56881.html)
 <!-- BLOG-POST-LIST:END -->
