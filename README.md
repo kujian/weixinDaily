@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [老板让侄女担任出纳，开出了6500的薪资，而公司的老会计月薪才5500，结果会计不服气，可老板说这是私企，没那么多条条框框。](https://weixin.qdkfweb.cn/56856.html)
-- [曝海康威视大规模裁员！涉及1000多名员工，N+2赔偿！官方回应来了。。。](https://weixin.qdkfweb.cn/56878.html)
-- [NeurIPS 2024 | Mamba杀入异常检测！MambaAD：第一个使用Mamba进行多类无监督异常检测](https://weixin.qdkfweb.cn/56879.html)
-- [MVGS：3DGS优化新范式！最强3D与4D重建方法！](https://weixin.qdkfweb.cn/56880.html)
-- [OpenAI被指剽窃？20岁创始人自曝代码结构被抄袭！多智能体Swarm陷争议。。。](https://weixin.qdkfweb.cn/56881.html)
+- [2024互联网大厂最新黑话，都在这了！](https://weixin.qdkfweb.cn/56938.html)
+- [和腾讯老领导吃了个饭](https://weixin.qdkfweb.cn/56918.html)
+- [手摸手教你，从0到1开发一个Chrome浏览器插件](https://weixin.qdkfweb.cn/56917.html)
+- [高手必知的 10 个JavaScript数组方法](https://weixin.qdkfweb.cn/56889.html)
+- [拿到了上海某金融公司offer，但被卡学历了。。。](https://weixin.qdkfweb.cn/56952.html)
 <!-- BLOG-POST-LIST:END -->
