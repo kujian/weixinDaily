@@ -19,5 +19,5 @@
 - [和腾讯老领导吃了个饭](https://weixin.qdkfweb.cn/56918.html)
 - [手摸手教你，从0到1开发一个Chrome浏览器插件](https://weixin.qdkfweb.cn/56917.html)
 - [高手必知的 10 个JavaScript数组方法](https://weixin.qdkfweb.cn/56889.html)
-- [拿到了上海某金融公司offer，但被卡学历了。。。](https://weixin.qdkfweb.cn/56952.html)
+- [6个月收入狂揽700万！17岁高中生开发一个新AI应用爆火，网友：别低估小孩子](https://weixin.qdkfweb.cn/56951.html)
 <!-- BLOG-POST-LIST:END -->
