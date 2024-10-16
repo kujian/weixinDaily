@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [2024互联网大厂最新黑话，都在这了！](https://weixin.qdkfweb.cn/56938.html)
-- [和腾讯老领导吃了个饭](https://weixin.qdkfweb.cn/56918.html)
-- [手摸手教你，从0到1开发一个Chrome浏览器插件](https://weixin.qdkfweb.cn/56917.html)
-- [高手必知的 10 个JavaScript数组方法](https://weixin.qdkfweb.cn/56889.html)
-- [6个月收入狂揽700万！17岁高中生开发一个新AI应用爆火，网友：别低估小孩子](https://weixin.qdkfweb.cn/56951.html)
+- [10.15｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/57010.html)
+- [微信一键清理“僵尸好友”！看看是谁删了你](https://weixin.qdkfweb.cn/56992.html)
+- [42.9K star！轻松搞定多个网盘的神器项目，无惧限速被封，真的强！](https://weixin.qdkfweb.cn/57025.html)
+- [今年最后三个月，至少可以顶三年！](https://weixin.qdkfweb.cn/56993.html)
+- [75k，确实可以封神了！](https://weixin.qdkfweb.cn/57022.html)
 <!-- BLOG-POST-LIST:END -->
