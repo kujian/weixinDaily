@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [10.15｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/57010.html)
-- [微信一键清理“僵尸好友”！看看是谁删了你](https://weixin.qdkfweb.cn/56992.html)
-- [42.9K star！轻松搞定多个网盘的神器项目，无惧限速被封，真的强！](https://weixin.qdkfweb.cn/57025.html)
-- [今年最后三个月，至少可以顶三年！](https://weixin.qdkfweb.cn/56993.html)
-- [75k，确实可以封神了！](https://weixin.qdkfweb.cn/57022.html)
+- [10.16｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/57081.html)
+- [AbortController：一切皆可中断](https://weixin.qdkfweb.cn/57064.html)
+- [团队准备解散了](https://weixin.qdkfweb.cn/57062.html)
+- [Rust编译后的二进制文件，比C++还大，这波输了？](https://weixin.qdkfweb.cn/57097.html)
+- [闭眼选CentOS的时代一去不复返，如何解决Linux发行版“选择困难症”？](https://weixin.qdkfweb.cn/57098.html)
 <!-- BLOG-POST-LIST:END -->
