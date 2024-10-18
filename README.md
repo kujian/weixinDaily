@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [10.16｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/57081.html)
-- [AbortController：一切皆可中断](https://weixin.qdkfweb.cn/57064.html)
-- [团队准备解散了](https://weixin.qdkfweb.cn/57062.html)
-- [Rust编译后的二进制文件，比C++还大，这波输了？](https://weixin.qdkfweb.cn/57097.html)
-- [闭眼选CentOS的时代一去不复返，如何解决Linux发行版“选择困难症”？](https://weixin.qdkfweb.cn/57098.html)
+- [公司辞退了一位38岁的程序员，得知离职消息后，他退出了工作群，但没过多久领导主动放下面子，恳请他出山相助，结果这位程序员并不领情](https://weixin.qdkfweb.cn/57137.html)
+- [公司挖来一个副总经理，年薪百万，原以为他来了会大刀阔斧，然而一个月过去，什么动静也没有，一切照原，他每天就只干两件事。](https://weixin.qdkfweb.cn/57138.html)
+- [博主，腾讯辟谣了！天美、光子到底有没有优化调整？](https://weixin.qdkfweb.cn/57144.html)
+- [6.4K star！一款简洁强大的MacOS笔记工具！](https://weixin.qdkfweb.cn/57159.html)
+- [什么？LocalStorage 也能被监听？为什么我试了却不行？](https://weixin.qdkfweb.cn/57110.html)
 <!-- BLOG-POST-LIST:END -->
