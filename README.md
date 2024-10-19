@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [公司辞退了一位38岁的程序员，得知离职消息后，他退出了工作群，但没过多久领导主动放下面子，恳请他出山相助，结果这位程序员并不领情](https://weixin.qdkfweb.cn/57137.html)
-- [公司挖来一个副总经理，年薪百万，原以为他来了会大刀阔斧，然而一个月过去，什么动静也没有，一切照原，他每天就只干两件事。](https://weixin.qdkfweb.cn/57138.html)
-- [博主，腾讯辟谣了！天美、光子到底有没有优化调整？](https://weixin.qdkfweb.cn/57144.html)
-- [6.4K star！一款简洁强大的MacOS笔记工具！](https://weixin.qdkfweb.cn/57159.html)
-- [什么？LocalStorage 也能被监听？为什么我试了却不行？](https://weixin.qdkfweb.cn/57110.html)
+- [图解Nestjs - 适合中国宝宝的入门指导](https://weixin.qdkfweb.cn/57171.html)
+- [17.7K star！又一款好用的低代码开源BI工具！](https://weixin.qdkfweb.cn/57204.html)
+- [“开源疯王”Matt Mullenweg正在摧毁WordPress](https://weixin.qdkfweb.cn/57205.html)
+- [OSC源创会·北京站：高性能计算与大模型推理](https://weixin.qdkfweb.cn/57206.html)
+- [如何在浏览器控制台中执行 JavaScript 模块](https://weixin.qdkfweb.cn/57203.html)
 <!-- BLOG-POST-LIST:END -->
