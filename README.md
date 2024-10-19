@@ -19,5 +19,5 @@
 - [17.7K star！又一款好用的低代码开源BI工具！](https://weixin.qdkfweb.cn/57204.html)
 - [“开源疯王”Matt Mullenweg正在摧毁WordPress](https://weixin.qdkfweb.cn/57205.html)
 - [OSC源创会·北京站：高性能计算与大模型推理](https://weixin.qdkfweb.cn/57206.html)
-- [哦豁！Intel摊上事儿了！](https://weixin.qdkfweb.cn/57201.html)
+- [如何在浏览器控制台中执行 JavaScript 模块](https://weixin.qdkfweb.cn/57203.html)
 <!-- BLOG-POST-LIST:END -->
