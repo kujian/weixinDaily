@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [图解Nestjs - 适合中国宝宝的入门指导](https://weixin.qdkfweb.cn/57171.html)
-- [17.7K star！又一款好用的低代码开源BI工具！](https://weixin.qdkfweb.cn/57204.html)
-- [“开源疯王”Matt Mullenweg正在摧毁WordPress](https://weixin.qdkfweb.cn/57205.html)
-- [OSC源创会·北京站：高性能计算与大模型推理](https://weixin.qdkfweb.cn/57206.html)
-- [如何在浏览器控制台中执行 JavaScript 模块](https://weixin.qdkfweb.cn/57203.html)
+- [跟个非洲的候选人约了个视频面试，要说还是非洲兄弟胆大，他加入视频时候先跟我比了个嘘的手势，小声说他老板刚出去，一会他老板进来了！](https://weixin.qdkfweb.cn/57225.html)
+- [某程序员为方便老婆工作，写了一些小工具给老婆用！如今老婆要离职，公司老板却要求必须把工具留下！网友：跟他收费！](https://weixin.qdkfweb.cn/57227.html)
+- [华为校招开奖！5.2万月薪，18级！](https://weixin.qdkfweb.cn/57238.html)
+- [即插即用！清华提出8比特注意力：SageAttention，两倍加速于FlashAttention2，端到端任务均不掉点！](https://weixin.qdkfweb.cn/57239.html)
+- [Depth Any Video：开启视频深度估计新纪元](https://weixin.qdkfweb.cn/57241.html)
 <!-- BLOG-POST-LIST:END -->
