@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [跟个非洲的候选人约了个视频面试，要说还是非洲兄弟胆大，他加入视频时候先跟我比了个嘘的手势，小声说他老板刚出去，一会他老板进来了！](https://weixin.qdkfweb.cn/57225.html)
-- [某程序员为方便老婆工作，写了一些小工具给老婆用！如今老婆要离职，公司老板却要求必须把工具留下！网友：跟他收费！](https://weixin.qdkfweb.cn/57227.html)
-- [华为校招开奖！5.2万月薪，18级！](https://weixin.qdkfweb.cn/57238.html)
-- [即插即用！清华提出8比特注意力：SageAttention，两倍加速于FlashAttention2，端到端任务均不掉点！](https://weixin.qdkfweb.cn/57239.html)
-- [Depth Any Video：开启视频深度估计新纪元](https://weixin.qdkfweb.cn/57241.html)
+- [面试了一个40岁的候选人，月薪他要了1.5万，我说可以再多要一点，结果面试结束后，他出去买了一杯咖啡给我，还说薪资他觉得够了！](https://weixin.qdkfweb.cn/57282.html)
+- [Electron与Tauri：你选择哪款跨平台框架？](https://weixin.qdkfweb.cn/57305.html)
+- [本周推荐的6个火火火的Github开源项目！](https://weixin.qdkfweb.cn/57303.html)
+- [10.useError](https://weixin.qdkfweb.cn/57271.html)
+- [11.useComponentDidMount](https://weixin.qdkfweb.cn/57272.html)
 <!-- BLOG-POST-LIST:END -->
