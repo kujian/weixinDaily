@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [面试了一个40岁的候选人，月薪他要了1.5万，我说可以再多要一点，结果面试结束后，他出去买了一杯咖啡给我，还说薪资他觉得够了！](https://weixin.qdkfweb.cn/57282.html)
-- [Electron与Tauri：你选择哪款跨平台框架？](https://weixin.qdkfweb.cn/57305.html)
-- [本周推荐的6个火火火的Github开源项目！](https://weixin.qdkfweb.cn/57303.html)
-- [10.useError](https://weixin.qdkfweb.cn/57271.html)
-- [11.useComponentDidMount](https://weixin.qdkfweb.cn/57272.html)
+- [10.21｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/57341.html)
+- [4.5K star！推荐一款炫酷可定制的文件管理器，超nice!](https://weixin.qdkfweb.cn/57354.html)
+- [MySQL 已经进化到这种程度了么？](https://weixin.qdkfweb.cn/57329.html)
+- [广州某国企拍卖100%股权，总共7个员工，其中6个是“领导”。只有一个干活？](https://weixin.qdkfweb.cn/57339.html)
+- [出海必备的 8 个开源 SaaS 项目！](https://weixin.qdkfweb.cn/57323.html)
 <!-- BLOG-POST-LIST:END -->
