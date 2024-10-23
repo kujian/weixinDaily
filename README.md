@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [10.21｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/57341.html)
-- [4.5K star！推荐一款炫酷可定制的文件管理器，超nice!](https://weixin.qdkfweb.cn/57354.html)
-- [MySQL 已经进化到这种程度了么？](https://weixin.qdkfweb.cn/57329.html)
-- [广州某国企拍卖100%股权，总共7个员工，其中6个是“领导”。只有一个干活？](https://weixin.qdkfweb.cn/57339.html)
-- [出海必备的 8 个开源 SaaS 项目！](https://weixin.qdkfweb.cn/57323.html)
+- [同事月薪8000，部门新来一位30岁领导，无故将他绩效工资降了800，结果上月竞争对手把他挖了过去，领导说那家公司你待不了多久！](https://weixin.qdkfweb.cn/57400.html)
+- [Next.js 15 正式发布：世界排名第二的前端框架！](https://weixin.qdkfweb.cn/57365.html)
+- [微前端实践思考与总结](https://weixin.qdkfweb.cn/57367.html)
+- [AI破局：招募4个岗位，年末招人，冲击明年好机会！](https://weixin.qdkfweb.cn/57398.html)
+- [&lt;a data-itemshowtype=&quot;0&quot; target=&quot;_blank&quot; href=&quot;http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&amp;mid=](https://weixin.qdkfweb.cn/57375.html)
 <!-- BLOG-POST-LIST:END -->
