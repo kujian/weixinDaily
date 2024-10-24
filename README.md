@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [同事月薪8000，部门新来一位30岁领导，无故将他绩效工资降了800，结果上月竞争对手把他挖了过去，领导说那家公司你待不了多久！](https://weixin.qdkfweb.cn/57400.html)
-- [Next.js 15 正式发布：世界排名第二的前端框架！](https://weixin.qdkfweb.cn/57365.html)
-- [微前端实践思考与总结](https://weixin.qdkfweb.cn/57367.html)
-- [AI破局：招募4个岗位，年末招人，冲击明年好机会！](https://weixin.qdkfweb.cn/57398.html)
-- [&lt;a data-itemshowtype=&quot;0&quot; target=&quot;_blank&quot; href=&quot;http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&amp;mid=](https://weixin.qdkfweb.cn/57375.html)
+- [30.5K star！几分钟搞定一个网站，这个低代码开发平台爱了！](https://weixin.qdkfweb.cn/57481.html)
+- [这货居然可以一句话操纵电脑了...](https://weixin.qdkfweb.cn/57456.html)
+- [今年最火开源前端框架——Svelte 5正式发布稳定版、彻底重写、新增$语法 、star数近8万](https://weixin.qdkfweb.cn/57482.html)
+- [10月26日・北京 | 鸿蒙生态创新论坛：共码未来，待到山花烂漫时](https://weixin.qdkfweb.cn/57483.html)
+- [2¹³⁶²⁷⁹⁸⁴¹−1，GPU发现人类已知最大的素数，比第二大多1600万位数字](https://weixin.qdkfweb.cn/57478.html)
 <!-- BLOG-POST-LIST:END -->
