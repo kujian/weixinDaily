@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [30.5K star！几分钟搞定一个网站，这个低代码开发平台爱了！](https://weixin.qdkfweb.cn/57481.html)
-- [这货居然可以一句话操纵电脑了...](https://weixin.qdkfweb.cn/57456.html)
-- [今年最火开源前端框架——Svelte 5正式发布稳定版、彻底重写、新增$语法 、star数近8万](https://weixin.qdkfweb.cn/57482.html)
-- [10月26日・北京 | 鸿蒙生态创新论坛：共码未来，待到山花烂漫时](https://weixin.qdkfweb.cn/57483.html)
-- [2¹³⁶²⁷⁹⁸⁴¹−1，GPU发现人类已知最大的素数，比第二大多1600万位数字](https://weixin.qdkfweb.cn/57478.html)
+- [领导从别的公司挖来一个大佬，听说他人脉很广，3个月后他把技术组撤了，半年后又把开发团队也裁了，结果现在公司一半业务开展不下去了！](https://weixin.qdkfweb.cn/57510.html)
+- [终于！JetBrains 正式宣布：WebStorm 免费了！](https://weixin.qdkfweb.cn/57487.html)
+- [9K star！阿里通义千问重磅开源Qwen2.5，性能超越Llama！](https://weixin.qdkfweb.cn/57528.html)
+- [1024 福利，我的 《CSS 技术揭秘与实战通关》 限时 5 折！](https://weixin.qdkfweb.cn/57507.html)
+- [很严重了，我劝大家极限存钱吧...](https://weixin.qdkfweb.cn/57509.html)
 <!-- BLOG-POST-LIST:END -->
