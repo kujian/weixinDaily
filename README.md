@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [领导从别的公司挖来一个大佬，听说他人脉很广，3个月后他把技术组撤了，半年后又把开发团队也裁了，结果现在公司一半业务开展不下去了！](https://weixin.qdkfweb.cn/57510.html)
-- [终于！JetBrains 正式宣布：WebStorm 免费了！](https://weixin.qdkfweb.cn/57487.html)
-- [9K star！阿里通义千问重磅开源Qwen2.5，性能超越Llama！](https://weixin.qdkfweb.cn/57528.html)
-- [1024 福利，我的 《CSS 技术揭秘与实战通关》 限时 5 折！](https://weixin.qdkfweb.cn/57507.html)
-- [很严重了，我劝大家极限存钱吧...](https://weixin.qdkfweb.cn/57509.html)
+- [10.25｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/57561.html)
+- [封装WebSocket消息推送，干翻Ajax轮询方式](https://weixin.qdkfweb.cn/57537.html)
+- [16.6K Star！一款超火的实时协作编辑器，效率飙升！](https://weixin.qdkfweb.cn/57578.html)
+- [世界上有两种财务自由](https://weixin.qdkfweb.cn/57550.html)
+- [某电商大厂员工：双11前差点“猝死”。医生说有40%的概率](https://weixin.qdkfweb.cn/57558.html)
 <!-- BLOG-POST-LIST:END -->
