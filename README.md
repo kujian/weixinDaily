@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [10.25｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/57561.html)
-- [封装WebSocket消息推送，干翻Ajax轮询方式](https://weixin.qdkfweb.cn/57537.html)
-- [16.6K Star！一款超火的实时协作编辑器，效率飙升！](https://weixin.qdkfweb.cn/57578.html)
-- [世界上有两种财务自由](https://weixin.qdkfweb.cn/57550.html)
-- [某电商大厂员工：双11前差点“猝死”。医生说有40%的概率](https://weixin.qdkfweb.cn/57558.html)
+- [面试了个45岁的程序员，他要了2万我同意了，问我还有没有别的待遇，结果面试完把他送到电梯口，他说如果是14薪的话月薪1.8万也行](https://weixin.qdkfweb.cn/57598.html)
+- [程序员如何反问面试官？](https://weixin.qdkfweb.cn/57612.html)
+- [我是如何通过火焰图分析让应用CPU占用下降近20%的](https://weixin.qdkfweb.cn/57613.html)
+- [9.3K star！推荐一个高效稳定的发卡自助售货项目，副业搞起来呀！](https://weixin.qdkfweb.cn/57611.html)
+- [几句大实话](https://weixin.qdkfweb.cn/57597.html)
 <!-- BLOG-POST-LIST:END -->
