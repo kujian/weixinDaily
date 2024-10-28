@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [面试了个45岁的程序员，他要了2万我同意了，问我还有没有别的待遇，结果面试完把他送到电梯口，他说如果是14薪的话月薪1.8万也行](https://weixin.qdkfweb.cn/57598.html)
-- [程序员如何反问面试官？](https://weixin.qdkfweb.cn/57612.html)
-- [我是如何通过火焰图分析让应用CPU占用下降近20%的](https://weixin.qdkfweb.cn/57613.html)
-- [9.3K star！推荐一个高效稳定的发卡自助售货项目，副业搞起来呀！](https://weixin.qdkfweb.cn/57611.html)
-- [几句大实话](https://weixin.qdkfweb.cn/57597.html)
+- [加班是不可能的，底层的牛马几时开窍的？](https://weixin.qdkfweb.cn/57653.html)
+- [奉劝大家，现在有这样的工作千万别辞职了：1、1W左右一个月；2、通勤5公里。3、五险一金全齐；4、偶尔加班；5、准时发工资](https://weixin.qdkfweb.cn/57658.html)
+- [JetBrains官宣两款重量级IDE非商用免费](https://weixin.qdkfweb.cn/57679.html)
+- [本周推荐的5个火火火的Github开源项目！](https://weixin.qdkfweb.cn/57677.html)
+- [不懂 File 和 Blob的差别在哪里？看这篇文章就够了](https://weixin.qdkfweb.cn/57635.html)
 <!-- BLOG-POST-LIST:END -->
