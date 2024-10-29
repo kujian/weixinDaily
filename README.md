@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [加班是不可能的，底层的牛马几时开窍的？](https://weixin.qdkfweb.cn/57653.html)
-- [奉劝大家，现在有这样的工作千万别辞职了：1、1W左右一个月；2、通勤5公里。3、五险一金全齐；4、偶尔加班；5、准时发工资](https://weixin.qdkfweb.cn/57658.html)
-- [JetBrains官宣两款重量级IDE非商用免费](https://weixin.qdkfweb.cn/57679.html)
-- [本周推荐的5个火火火的Github开源项目！](https://weixin.qdkfweb.cn/57677.html)
-- [不懂 File 和 Blob的差别在哪里？看这篇文章就够了](https://weixin.qdkfweb.cn/57635.html)
+- [10.28｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/57719.html)
+- [互联网大厂为啥不把研发迁到二三线城市？](https://weixin.qdkfweb.cn/57731.html)
+- [深信服开了个劝退价....](https://weixin.qdkfweb.cn/57732.html)
+- [分页查询接口，从2s优化到了0.01s](https://weixin.qdkfweb.cn/57733.html)
+- [美团员工：字节2-2男友的农村老家。这像年收入100多万的样子么？本人上海独生女](https://weixin.qdkfweb.cn/57715.html)
 <!-- BLOG-POST-LIST:END -->
