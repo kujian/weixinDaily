@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [10.28｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/57719.html)
-- [互联网大厂为啥不把研发迁到二三线城市？](https://weixin.qdkfweb.cn/57731.html)
-- [深信服开了个劝退价....](https://weixin.qdkfweb.cn/57732.html)
-- [分页查询接口，从2s优化到了0.01s](https://weixin.qdkfweb.cn/57733.html)
-- [美团员工：字节2-2男友的农村老家。这像年收入100多万的样子么？本人上海独生女](https://weixin.qdkfweb.cn/57715.html)
+- [10.29｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/57778.html)
+- [爆粉的SB们](https://weixin.qdkfweb.cn/57765.html)
+- [Jetbrains正式官宣免费，太炸裂了！！](https://weixin.qdkfweb.cn/57790.html)
+- [听说 GitHub 上阅读源码很费劲？](https://weixin.qdkfweb.cn/57791.html)
+- [为什么在JavaScript中 [] == ![] 返回 TRUE？](https://weixin.qdkfweb.cn/57792.html)
 <!-- BLOG-POST-LIST:END -->
