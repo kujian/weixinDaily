@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [10.29｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/57778.html)
-- [爆粉的SB们](https://weixin.qdkfweb.cn/57765.html)
-- [Jetbrains正式官宣免费，太炸裂了！！](https://weixin.qdkfweb.cn/57790.html)
-- [听说 GitHub 上阅读源码很费劲？](https://weixin.qdkfweb.cn/57791.html)
-- [为什么在JavaScript中 [] == ![] 返回 TRUE？](https://weixin.qdkfweb.cn/57792.html)
+- [科大讯飞，惊艳到我了....](https://weixin.qdkfweb.cn/57840.html)
+- [49.8K star！一款安全高性能的照片、视频备份存储开源方案，告别混乱烦恼！](https://weixin.qdkfweb.cn/57853.html)
+- [我的贵人们！](https://weixin.qdkfweb.cn/57829.html)
+- [海康威视，开了体面的薪资!](https://weixin.qdkfweb.cn/57850.html)
+- [网红 Arc 浏览器 凉了！](https://weixin.qdkfweb.cn/57851.html)
 <!-- BLOG-POST-LIST:END -->
