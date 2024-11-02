@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [33.9K star！这是我见过最全的远程工作项目，助你在家就能赚大钱！](https://weixin.qdkfweb.cn/57913.html)
-- [ECMAScript 提案，新增了好多东西！](https://weixin.qdkfweb.cn/57861.html)
-- [入职比亚迪了，没感觉这家公司的独特之处，薪资跟学历挂钩，作为应届生涨薪很有限，庆幸自己遇到好领导，职场跟学校差异真的很大](https://weixin.qdkfweb.cn/57891.html)
-- [不敢相信，Nginx 还能这么玩？](https://weixin.qdkfweb.cn/57880.html)
-- [华为搬迁，集体飞升](https://weixin.qdkfweb.cn/57881.html)
+- [2.5K star！又来一款强大全能下载工具，基于Motrix开发！](https://weixin.qdkfweb.cn/57957.html)
+- [比亚迪员工爆料：为什么离职要卡30天，身体已经出现严重反应了，要回家修养，给的也不是两三天，提了20天后走也不行！](https://weixin.qdkfweb.cn/57943.html)
+- [前端调试新姿势，还能这么玩？](https://weixin.qdkfweb.cn/57930.html)
+- [三个叛逆的微软程序员，创造了一项伟大的技术，彻底颠覆了游戏行业！](https://weixin.qdkfweb.cn/57954.html)
+- [“让AI不再难学&quot;,知名UP主梗直哥的《破解深度学习》来了！&lpar;文末送书&rpar;](https://weixin.qdkfweb.cn/57955.html)
 <!-- BLOG-POST-LIST:END -->
