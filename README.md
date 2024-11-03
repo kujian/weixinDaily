@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [2.5K star！又来一款强大全能下载工具，基于Motrix开发！](https://weixin.qdkfweb.cn/57957.html)
-- [比亚迪员工爆料：为什么离职要卡30天，身体已经出现严重反应了，要回家修养，给的也不是两三天，提了20天后走也不行！](https://weixin.qdkfweb.cn/57943.html)
-- [前端调试新姿势，还能这么玩？](https://weixin.qdkfweb.cn/57930.html)
-- [三个叛逆的微软程序员，创造了一项伟大的技术，彻底颠覆了游戏行业！](https://weixin.qdkfweb.cn/57954.html)
-- [“让AI不再难学&quot;,知名UP主梗直哥的《破解深度学习》来了！&lpar;文末送书&rpar;](https://weixin.qdkfweb.cn/57955.html)
+- [你们骂Linus都没骂到点上](https://weixin.qdkfweb.cn/58002.html)
+- [32岁，拿到华为offer，确诊肺癌](https://weixin.qdkfweb.cn/57985.html)
+- [5.2K star！又来一款开源协作利器，团队效率飙升高效！](https://weixin.qdkfweb.cn/58001.html)
+- [黑科技效率神器-uTools](https://weixin.qdkfweb.cn/57989.html)
+- [再见ExecutorService，你好StructuredTaskScope](https://weixin.qdkfweb.cn/57990.html)
 <!-- BLOG-POST-LIST:END -->
