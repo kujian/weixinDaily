@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [你们骂Linus都没骂到点上](https://weixin.qdkfweb.cn/58002.html)
-- [32岁，拿到华为offer，确诊肺癌](https://weixin.qdkfweb.cn/57985.html)
-- [5.2K star！又来一款开源协作利器，团队效率飙升高效！](https://weixin.qdkfweb.cn/58001.html)
-- [黑科技效率神器-uTools](https://weixin.qdkfweb.cn/57989.html)
-- [再见ExecutorService，你好StructuredTaskScope](https://weixin.qdkfweb.cn/57990.html)
+- [顶刊TPAMI 2024！解耦图神经网络：同时训练多个简单的GNN而不是一个](https://weixin.qdkfweb.cn/58056.html)
+- [AAAI 2025 和 CVPR 2025 微信交流群成立！](https://weixin.qdkfweb.cn/58058.html)
+- [基金委发文：目前约17%资助率过低，危害大，应提升至30~35%！增大青年、面上项目经费](https://weixin.qdkfweb.cn/58055.html)
+- [“四两拨千斤”——1.2MB数据如何吃掉10GB内存](https://weixin.qdkfweb.cn/58066.html)
+- [107期北京源创会【高性能计算与大模型推理】精彩回顾](https://weixin.qdkfweb.cn/58067.html)
 <!-- BLOG-POST-LIST:END -->
