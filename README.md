@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
+- [基金委发文：目前约17%资助率过低，危害大，应提升至30~35%！增大青年、面上项目经费](https://weixin.qdkfweb.cn/58055.html)
 - [顶刊TPAMI 2024！解耦图神经网络：同时训练多个简单的GNN而不是一个](https://weixin.qdkfweb.cn/58056.html)
 - [AAAI 2025 和 CVPR 2025 微信交流群成立！](https://weixin.qdkfweb.cn/58058.html)
-- [基金委发文：目前约17%资助率过低，危害大，应提升至30~35%！增大青年、面上项目经费](https://weixin.qdkfweb.cn/58055.html)
 - [“四两拨千斤”——1.2MB数据如何吃掉10GB内存](https://weixin.qdkfweb.cn/58066.html)
 - [107期北京源创会【高性能计算与大模型推理】精彩回顾](https://weixin.qdkfweb.cn/58067.html)
 <!-- BLOG-POST-LIST:END -->
