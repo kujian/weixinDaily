@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [基金委发文：目前约17%资助率过低，危害大，应提升至30~35%！增大青年、面上项目经费](https://weixin.qdkfweb.cn/58055.html)
-- [顶刊TPAMI 2024！解耦图神经网络：同时训练多个简单的GNN而不是一个](https://weixin.qdkfweb.cn/58056.html)
-- [AAAI 2025 和 CVPR 2025 微信交流群成立！](https://weixin.qdkfweb.cn/58058.html)
-- [“四两拨千斤”——1.2MB数据如何吃掉10GB内存](https://weixin.qdkfweb.cn/58066.html)
-- [107期北京源创会【高性能计算与大模型推理】精彩回顾](https://weixin.qdkfweb.cn/58067.html)
+- [30+ 个工作中常用到的前端小知识（干货）](https://weixin.qdkfweb.cn/58085.html)
+- [4.6K star！看看这款项目任务管理的首选工具，非常轻量！](https://weixin.qdkfweb.cn/58140.html)
+- [要是工作前就知道这个，该多好。](https://weixin.qdkfweb.cn/58104.html)
+- [在蚂蚁实习，好憋屈。。。](https://weixin.qdkfweb.cn/58105.html)
+- [15岁小孩哥靠开源赚数百万，科技公司 CTO，7 年全栈经验！](https://weixin.qdkfweb.cn/58080.html)
 <!-- BLOG-POST-LIST:END -->
