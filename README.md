@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [30+ 个工作中常用到的前端小知识（干货）](https://weixin.qdkfweb.cn/58085.html)
-- [4.6K star！看看这款项目任务管理的首选工具，非常轻量！](https://weixin.qdkfweb.cn/58140.html)
-- [要是工作前就知道这个，该多好。](https://weixin.qdkfweb.cn/58104.html)
-- [在蚂蚁实习，好憋屈。。。](https://weixin.qdkfweb.cn/58105.html)
-- [15岁小孩哥靠开源赚数百万，科技公司 CTO，7 年全栈经验！](https://weixin.qdkfweb.cn/58080.html)
+- [10个越老越吃香的职业：1、公务员核心竞争力无法替代；2、医生的经验非常宝贵；3、材料专家的回报周期厂；4、健康规划师需求暴涨](https://weixin.qdkfweb.cn/58183.html)
+- [11.5｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/58189.html)
+- [50.3K star！跨平台文件秒传神器，装了就真不想卸载！](https://weixin.qdkfweb.cn/58201.html)
+- [国内首发！腾讯混元两大核心模型在 Gitee 正式开源](https://weixin.qdkfweb.cn/58203.html)
+- [微软推出全新的生成式AI脚本：GenAIScript](https://weixin.qdkfweb.cn/58204.html)
 <!-- BLOG-POST-LIST:END -->
