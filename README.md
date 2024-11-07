@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [10个越老越吃香的职业：1、公务员核心竞争力无法替代；2、医生的经验非常宝贵；3、材料专家的回报周期厂；4、健康规划师需求暴涨](https://weixin.qdkfweb.cn/58183.html)
-- [11.5｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/58189.html)
-- [50.3K star！跨平台文件秒传神器，装了就真不想卸载！](https://weixin.qdkfweb.cn/58201.html)
-- [国内首发！腾讯混元两大核心模型在 Gitee 正式开源](https://weixin.qdkfweb.cn/58203.html)
-- [微软推出全新的生成式AI脚本：GenAIScript](https://weixin.qdkfweb.cn/58204.html)
+- [致：离世的大厂老公，他今年才31岁](https://weixin.qdkfweb.cn/58250.html)
+- [很严重了，劝全体程序员们极限搞钱吧，从今天开始！](https://weixin.qdkfweb.cn/58264.html)
+- [全新暗黑版微信来了，腾讯使用QT重构！](https://weixin.qdkfweb.cn/58265.html)
+- [一个有争议的话题：客户端密码加密有必要吗？](https://weixin.qdkfweb.cn/58266.html)
+- [阿里巴巴知名开源项目、3万多star的Java工具库——EasyExcel宣布停更](https://weixin.qdkfweb.cn/58268.html)
 <!-- BLOG-POST-LIST:END -->
