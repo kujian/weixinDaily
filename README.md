@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [致：离世的大厂老公，他今年才31岁](https://weixin.qdkfweb.cn/58250.html)
-- [很严重了，劝全体程序员们极限搞钱吧，从今天开始！](https://weixin.qdkfweb.cn/58264.html)
-- [全新暗黑版微信来了，腾讯使用QT重构！](https://weixin.qdkfweb.cn/58265.html)
-- [一个有争议的话题：客户端密码加密有必要吗？](https://weixin.qdkfweb.cn/58266.html)
-- [阿里巴巴知名开源项目、3万多star的Java工具库——EasyExcel宣布停更](https://weixin.qdkfweb.cn/58268.html)
+- [前端工程师的 AI DAY 来啦！12 月 7 日，厦门见！](https://weixin.qdkfweb.cn/58310.html)
+- [1.9K star! 牛逼的微信聊天记录备份、分析工具！](https://weixin.qdkfweb.cn/58339.html)
+- [Google SERP API 对接说明](https://weixin.qdkfweb.cn/58280.html)
+- [尤雨溪老二次元了，揭秘 Vue 那些神秘的版本名称！](https://weixin.qdkfweb.cn/58279.html)
+- [浏览网站时为什么老是要我接受 Cookie？](https://weixin.qdkfweb.cn/58297.html)
 <!-- BLOG-POST-LIST:END -->
