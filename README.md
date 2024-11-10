@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [React 渲染流程可视化，有大佬实现了！](https://weixin.qdkfweb.cn/58345.html)
-- [26.9K star！一款 Postman 替代工具火了，开源、Git友好！](https://weixin.qdkfweb.cn/58386.html)
-- [谈恋爱被骗了？年薪60多万的男友在华为竟是OD](https://weixin.qdkfweb.cn/58374.html)
-- [呵呵，软件交付才不是你想的这样（文末送书）](https://weixin.qdkfweb.cn/58384.html)
-- [金山C++一面，强度拉满！超详细答案，建议收藏！！](https://weixin.qdkfweb.cn/58385.html)
+- [30+ 个工作中常用到的前端小知识（干货）](https://weixin.qdkfweb.cn/58393.html)
+- [19.8K star！GitHub 官方出品，强烈推荐！](https://weixin.qdkfweb.cn/58436.html)
+- [首部 Deno 纪录片](https://weixin.qdkfweb.cn/58395.html)
+- [这是真的么？](https://weixin.qdkfweb.cn/58419.html)
+- [公司20人了，一些痛的领悟](https://weixin.qdkfweb.cn/58407.html)
 <!-- BLOG-POST-LIST:END -->
