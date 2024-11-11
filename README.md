@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [30+ 个工作中常用到的前端小知识（干货）](https://weixin.qdkfweb.cn/58393.html)
-- [19.8K star！GitHub 官方出品，强烈推荐！](https://weixin.qdkfweb.cn/58436.html)
-- [首部 Deno 纪录片](https://weixin.qdkfweb.cn/58395.html)
-- [这是真的么？](https://weixin.qdkfweb.cn/58419.html)
-- [公司20人了，一些痛的领悟](https://weixin.qdkfweb.cn/58407.html)
+- [新增6所985！教育部公布自主审核单位](https://weixin.qdkfweb.cn/58492.html)
+- [NeurIPS 2024 | 李飞飞团队新作：空间智能版ImageNet来了！](https://weixin.qdkfweb.cn/58493.html)
+- [登上Nature！哈佛推出全新类ChatGPT癌症诊断AI，准确率高达96%！](https://weixin.qdkfweb.cn/58494.html)
+- [一博士狂编200多篇SCI发表，被揭发后畏罪自杀...网友：堪称史诗级学术骗局！](https://weixin.qdkfweb.cn/58497.html)
+- [深入了解Java泛型——从前世今生到PECS原则](https://weixin.qdkfweb.cn/58503.html)
 <!-- BLOG-POST-LIST:END -->
