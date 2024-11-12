@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [新增6所985！教育部公布自主审核单位](https://weixin.qdkfweb.cn/58492.html)
-- [NeurIPS 2024 | 李飞飞团队新作：空间智能版ImageNet来了！](https://weixin.qdkfweb.cn/58493.html)
-- [登上Nature！哈佛推出全新类ChatGPT癌症诊断AI，准确率高达96%！](https://weixin.qdkfweb.cn/58494.html)
-- [一博士狂编200多篇SCI发表，被揭发后畏罪自杀...网友：堪称史诗级学术骗局！](https://weixin.qdkfweb.cn/58497.html)
-- [深入了解Java泛型——从前世今生到PECS原则](https://weixin.qdkfweb.cn/58503.html)
+- [1.7K star! 又发现一款强大好用的知识管理工具！](https://weixin.qdkfweb.cn/58559.html)
+- [全新JavaScript包管理器，速度太快了！](https://weixin.qdkfweb.cn/58512.html)
+- [32岁，我在字节，媳妇在部委。70W大厂 VS 17W体制内](https://weixin.qdkfweb.cn/58546.html)
+- [人脸静态活体检测（高精度版） API 对接说明](https://weixin.qdkfweb.cn/58513.html)
+- [刚吃苍蝇了，太恶心了....](https://weixin.qdkfweb.cn/58538.html)
 <!-- BLOG-POST-LIST:END -->
