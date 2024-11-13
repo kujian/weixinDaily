@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [1.7K star! 又发现一款强大好用的知识管理工具！](https://weixin.qdkfweb.cn/58559.html)
-- [全新JavaScript包管理器，速度太快了！](https://weixin.qdkfweb.cn/58512.html)
-- [32岁，我在字节，媳妇在部委。70W大厂 VS 17W体制内](https://weixin.qdkfweb.cn/58546.html)
-- [人脸静态活体检测（高精度版） API 对接说明](https://weixin.qdkfweb.cn/58513.html)
-- [刚吃苍蝇了，太恶心了....](https://weixin.qdkfweb.cn/58538.html)
+- [34.5K star！挑战 VSCode？一款更加丝滑高效的开源编辑器！](https://weixin.qdkfweb.cn/58626.html)
+- [鹅厂刚刚开奖，就被不少同学吐槽了。。](https://weixin.qdkfweb.cn/58592.html)
+- [我的新书出版啦！限时送签名版~](https://weixin.qdkfweb.cn/58593.html)
+- [被问懵了，加密后的数据如何进行模糊查询？](https://weixin.qdkfweb.cn/58614.html)
+- [Nginx 限速模块大揭秘](https://weixin.qdkfweb.cn/58615.html)
 <!-- BLOG-POST-LIST:END -->
