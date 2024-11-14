@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [34.5K star！挑战 VSCode？一款更加丝滑高效的开源编辑器！](https://weixin.qdkfweb.cn/58626.html)
-- [鹅厂刚刚开奖，就被不少同学吐槽了。。](https://weixin.qdkfweb.cn/58592.html)
-- [我的新书出版啦！限时送签名版~](https://weixin.qdkfweb.cn/58593.html)
-- [被问懵了，加密后的数据如何进行模糊查询？](https://weixin.qdkfweb.cn/58614.html)
-- [Nginx 限速模块大揭秘](https://weixin.qdkfweb.cn/58615.html)
+- [11.12｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/58682.html)
+- [&amp;&amp;= 和 ??= 是啥操作符？](https://weixin.qdkfweb.cn/58672.html)
+- [手撸了一个全自动微信清粉小工具（源码详解）](https://weixin.qdkfweb.cn/58669.html)
+- [32.7K star！超高颜值功能强大的跨平台文件管理器！](https://weixin.qdkfweb.cn/58700.html)
+- [一些傻逼的认知](https://weixin.qdkfweb.cn/58670.html)
 <!-- BLOG-POST-LIST:END -->
