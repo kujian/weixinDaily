@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [11.12｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/58682.html)
-- [&amp;&amp;= 和 ??= 是啥操作符？](https://weixin.qdkfweb.cn/58672.html)
-- [手撸了一个全自动微信清粉小工具（源码详解）](https://weixin.qdkfweb.cn/58669.html)
-- [32.7K star！超高颜值功能强大的跨平台文件管理器！](https://weixin.qdkfweb.cn/58700.html)
-- [一些傻逼的认知](https://weixin.qdkfweb.cn/58670.html)
+- [我和同事出差3个月，酒店住宿费每天168，可走的时候发票他开了288，我说你就不担心出事？结果同事说：没啥可担心的，领导也这么干](https://weixin.qdkfweb.cn/58740.html)
+- [面完中欧，见了几位大佬](https://weixin.qdkfweb.cn/58738.html)
+- [我被阿里云起诉竞业了！](https://weixin.qdkfweb.cn/58749.html)
+- [出海必备的 8 个开源 SaaS 项目！](https://weixin.qdkfweb.cn/58709.html)
+- [心疼今年的毕业生，拒绝了一位清华硕士](https://weixin.qdkfweb.cn/58747.html)
 <!-- BLOG-POST-LIST:END -->
