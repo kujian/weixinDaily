@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [我和同事出差3个月，酒店住宿费每天168，可走的时候发票他开了288，我说你就不担心出事？结果同事说：没啥可担心的，领导也这么干](https://weixin.qdkfweb.cn/58740.html)
-- [面完中欧，见了几位大佬](https://weixin.qdkfweb.cn/58738.html)
-- [我被阿里云起诉竞业了！](https://weixin.qdkfweb.cn/58749.html)
-- [出海必备的 8 个开源 SaaS 项目！](https://weixin.qdkfweb.cn/58709.html)
-- [心疼今年的毕业生，拒绝了一位清华硕士](https://weixin.qdkfweb.cn/58747.html)
+- [老板裁员后很奇怪：原先，100个人干50个人的活；裁掉一半后，剩下50人干25个人的活，好像效率并没有提升](https://weixin.qdkfweb.cn/58784.html)
+- [团队聚餐](https://weixin.qdkfweb.cn/58780.html)
+- [JS逆向破解某租车微信小程序](https://weixin.qdkfweb.cn/58768.html)
+- [全球代理对接说明](https://weixin.qdkfweb.cn/58766.html)
+- [为什么老外如此钟爱国产 WAF](https://weixin.qdkfweb.cn/58803.html)
 <!-- BLOG-POST-LIST:END -->
