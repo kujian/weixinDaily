@@ -15,9 +15,13 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [早上接到街道办电话，真是小刀拉屁股，长见识了！一上来质问我为啥失业，完了还加我微信推职位，结果全是35岁以下的，还劝我41岁不大](https://weixin.qdkfweb.cn/58822.html)
-- [阿里巴巴大规模裁员,打工人无处躲藏：赔偿N+5，有人到手50w。被裁员工爆料，晚上还在开会，白天就被裁了！](https://weixin.qdkfweb.cn/58825.html)
-- [11.16｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/58831.html)
-- [未来十年“经济转型”，普通人的机会还剩一个](https://weixin.qdkfweb.cn/58826.html)
-- [BASIC编程语言共同发明人Thomas Kurtz逝世](https://weixin.qdkfweb.cn/58845.html)
+- [今天一个老朋友找我聊了很久，大抵是时运不济，越混越惨。
+
+他之前在大厂做总监，后来遭遇优化去了小厂，现在老板有赶走他的想法。
+
+聊了会，聊不下去了。言语间全是“不公平”、“运气不好”、“命不好”、“倒](https://weixin.qdkfweb.cn/58887.html)
+- [世界上第一次大规模虚拟会议，发生在1916年](https://weixin.qdkfweb.cn/58918.html)
+- [TypeScript 5.7：一大波新特性来袭！](https://weixin.qdkfweb.cn/58875.html)
+- [鱼厂实习，光速转正了！](https://weixin.qdkfweb.cn/58882.html)
+- [我做了个网站，带你入门网络安全](https://weixin.qdkfweb.cn/58883.html)
 <!-- BLOG-POST-LIST:END -->
