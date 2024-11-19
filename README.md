@@ -15,13 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [今天一个老朋友找我聊了很久，大抵是时运不济，越混越惨。
-
-他之前在大厂做总监，后来遭遇优化去了小厂，现在老板有赶走他的想法。
-
-聊了会，聊不下去了。言语间全是“不公平”、“运气不好”、“命不好”、“倒](https://weixin.qdkfweb.cn/58887.html)
-- [世界上第一次大规模虚拟会议，发生在1916年](https://weixin.qdkfweb.cn/58918.html)
-- [TypeScript 5.7：一大波新特性来袭！](https://weixin.qdkfweb.cn/58875.html)
-- [鱼厂实习，光速转正了！](https://weixin.qdkfweb.cn/58882.html)
-- [我做了个网站，带你入门网络安全](https://weixin.qdkfweb.cn/58883.html)
+- [女朋友因上班摸鱼玩手机，和主管吵了一架，试用期转正没过，去了公司隔壁一家单位，就在准备入职时，结果对方说你们主管说你态度不行。](https://weixin.qdkfweb.cn/58953.html)
+- [vercel是如何做微前端迁移的](https://weixin.qdkfweb.cn/58927.html)
+- [拼多多通知考勤调整？](https://weixin.qdkfweb.cn/58963.html)
+- [React 渲染流程可视化，有大佬实现了！](https://weixin.qdkfweb.cn/58928.html)
+- [10.3K+ Star！轻量强大的开源运维平台，超赞！](https://weixin.qdkfweb.cn/58979.html)
 <!-- BLOG-POST-LIST:END -->
