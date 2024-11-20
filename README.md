@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [女朋友因上班摸鱼玩手机，和主管吵了一架，试用期转正没过，去了公司隔壁一家单位，就在准备入职时，结果对方说你们主管说你态度不行。](https://weixin.qdkfweb.cn/58953.html)
-- [vercel是如何做微前端迁移的](https://weixin.qdkfweb.cn/58927.html)
-- [拼多多通知考勤调整？](https://weixin.qdkfweb.cn/58963.html)
-- [React 渲染流程可视化，有大佬实现了！](https://weixin.qdkfweb.cn/58928.html)
-- [10.3K+ Star！轻量强大的开源运维平台，超赞！](https://weixin.qdkfweb.cn/58979.html)
+- [AI 生成前端项目的 bolt.new 是怎么做到的？](https://weixin.qdkfweb.cn/59022.html)
+- [什么，自动部署前端包这么简单？](https://weixin.qdkfweb.cn/58991.html)
+- [5.7K star！这款电视直播源更新神器太香了！](https://weixin.qdkfweb.cn/59056.html)
+- [这样在管理后台里实现 403 页面实在是太优雅了](https://weixin.qdkfweb.cn/58990.html)
+- [各位，千万不要成为一个高认知的穷人！](https://weixin.qdkfweb.cn/59032.html)
 <!-- BLOG-POST-LIST:END -->
