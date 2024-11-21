@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [AI 生成前端项目的 bolt.new 是怎么做到的？](https://weixin.qdkfweb.cn/59022.html)
-- [什么，自动部署前端包这么简单？](https://weixin.qdkfweb.cn/58991.html)
-- [5.7K star！这款电视直播源更新神器太香了！](https://weixin.qdkfweb.cn/59056.html)
-- [这样在管理后台里实现 403 页面实在是太优雅了](https://weixin.qdkfweb.cn/58990.html)
-- [各位，千万不要成为一个高认知的穷人！](https://weixin.qdkfweb.cn/59032.html)
+- [公司招了一批校招生，周一到周三天天加班到晚上10点，周四经理把其中一个大骂一顿，理由是组长反映说他工作能力和态度不行，影响进度了](https://weixin.qdkfweb.cn/59096.html)
+- [11.20｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/59104.html)
+- [何同学使用开源软件“翻车”，都别吵了！扯什么违反MIT](https://weixin.qdkfweb.cn/59123.html)
+- [工作写代码，放假写书，最后豆瓣评分9.1](https://weixin.qdkfweb.cn/59124.html)
+- [逃离“北上广深”，新一线是最好的去处吗？](https://weixin.qdkfweb.cn/59125.html)
 <!-- BLOG-POST-LIST:END -->
