@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [公司招了一批校招生，周一到周三天天加班到晚上10点，周四经理把其中一个大骂一顿，理由是组长反映说他工作能力和态度不行，影响进度了](https://weixin.qdkfweb.cn/59096.html)
-- [11.20｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/59104.html)
-- [何同学使用开源软件“翻车”，都别吵了！扯什么违反MIT](https://weixin.qdkfweb.cn/59123.html)
-- [工作写代码，放假写书，最后豆瓣评分9.1](https://weixin.qdkfweb.cn/59124.html)
-- [逃离“北上广深”，新一线是最好的去处吗？](https://weixin.qdkfweb.cn/59125.html)
+- [快速入门 AI SDK：生成符合规范的 React 组件](https://weixin.qdkfweb.cn/59151.html)
+- [11月本周新增央国企机会！理工科、文科都有岗位，待遇福利打满！](https://weixin.qdkfweb.cn/59169.html)
+- [只会用 AI 工具？不够！会调接口才能定制](https://weixin.qdkfweb.cn/59152.html)
+- [阿里整合国内与海外电商，成立电商事业群](https://weixin.qdkfweb.cn/59174.html)
+- [阿里成立电商事业群，整合国内与海外电商](https://weixin.qdkfweb.cn/59177.html)
 <!-- BLOG-POST-LIST:END -->
