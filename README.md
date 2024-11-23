@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [快速入门 AI SDK：生成符合规范的 React 组件](https://weixin.qdkfweb.cn/59151.html)
-- [11月本周新增央国企机会！理工科、文科都有岗位，待遇福利打满！](https://weixin.qdkfweb.cn/59169.html)
-- [只会用 AI 工具？不够！会调接口才能定制](https://weixin.qdkfweb.cn/59152.html)
-- [阿里整合国内与海外电商，成立电商事业群](https://weixin.qdkfweb.cn/59174.html)
-- [阿里成立电商事业群，整合国内与海外电商](https://weixin.qdkfweb.cn/59177.html)
+- [11.22｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/59222.html)
+- [什么，自动部署前端包这么简单？](https://weixin.qdkfweb.cn/59199.html)
+- [9.1K star！这是我见过最全能的文件上传下载器，支持n多协议！](https://weixin.qdkfweb.cn/59235.html)
+- [Chrome 开放了多个 AI 相关的 API！](https://weixin.qdkfweb.cn/59205.html)
+- [彻底改变我命运的两点认知](https://weixin.qdkfweb.cn/59207.html)
 <!-- BLOG-POST-LIST:END -->
