@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [11.22｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/59222.html)
-- [什么，自动部署前端包这么简单？](https://weixin.qdkfweb.cn/59199.html)
-- [9.1K star！这是我见过最全能的文件上传下载器，支持n多协议！](https://weixin.qdkfweb.cn/59235.html)
-- [Chrome 开放了多个 AI 相关的 API！](https://weixin.qdkfweb.cn/59205.html)
-- [彻底改变我命运的两点认知](https://weixin.qdkfweb.cn/59207.html)
+- [16岁中学生获正高职称，后续来了](https://weixin.qdkfweb.cn/59266.html)
+- [可以封神了！原来找论文idea这么简单](https://weixin.qdkfweb.cn/59267.html)
+- [NeurIPS 2024 Oral | NeuroClips：揭秘从脑信号重建高保真流畅视频](https://weixin.qdkfweb.cn/59268.html)
+- [DeepSeek团队新作JanusFlow：1.3B大模型统一视觉理解和生成](https://weixin.qdkfweb.cn/59270.html)
+- [年仅42岁！一高校青年教师病逝……](https://weixin.qdkfweb.cn/59271.html)
 <!-- BLOG-POST-LIST:END -->
