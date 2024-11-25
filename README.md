@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [16岁中学生获正高职称，后续来了](https://weixin.qdkfweb.cn/59266.html)
-- [可以封神了！原来找论文idea这么简单](https://weixin.qdkfweb.cn/59267.html)
-- [NeurIPS 2024 Oral | NeuroClips：揭秘从脑信号重建高保真流畅视频](https://weixin.qdkfweb.cn/59268.html)
-- [DeepSeek团队新作JanusFlow：1.3B大模型统一视觉理解和生成](https://weixin.qdkfweb.cn/59270.html)
-- [年仅42岁！一高校青年教师病逝……](https://weixin.qdkfweb.cn/59271.html)
+- [中央发文：不合格博士生，退出！](https://weixin.qdkfweb.cn/59322.html)
+- [顶刊TPAMI 2024！白翔团队提出：局部场景文字检索任务和新方法](https://weixin.qdkfweb.cn/59323.html)
+- [仅仅一天，Gemini就夺回了GPT-4o拿走的头名！](https://weixin.qdkfweb.cn/59324.html)
+- [异常检测和缺陷检测微信群成立！](https://weixin.qdkfweb.cn/59326.html)
+- [以朋友圈散布公司负面为由开除员工，这家公司赔了999072元！](https://weixin.qdkfweb.cn/59313.html)
 <!-- BLOG-POST-LIST:END -->
