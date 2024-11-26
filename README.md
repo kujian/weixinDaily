@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [中央发文：不合格博士生，退出！](https://weixin.qdkfweb.cn/59322.html)
-- [顶刊TPAMI 2024！白翔团队提出：局部场景文字检索任务和新方法](https://weixin.qdkfweb.cn/59323.html)
-- [仅仅一天，Gemini就夺回了GPT-4o拿走的头名！](https://weixin.qdkfweb.cn/59324.html)
-- [异常检测和缺陷检测微信群成立！](https://weixin.qdkfweb.cn/59326.html)
-- [以朋友圈散布公司负面为由开除员工，这家公司赔了999072元！](https://weixin.qdkfweb.cn/59313.html)
+- [某应届生凭空捏造了个25w的offer，还伪造了和那家公司HR的聊天记录，结果成功拿到了26的offer，可几个月后还是被发现了](https://weixin.qdkfweb.cn/59367.html)
+- [11.25｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/59375.html)
+- [曝光！职场霸凌，入职第一天被老板剪掉头发，已报警](https://weixin.qdkfweb.cn/59373.html)
+- [来看看一位阿里P9的年薪和资产](https://weixin.qdkfweb.cn/59363.html)
+- [为什么很多人喜欢重装系统？](https://weixin.qdkfweb.cn/59385.html)
 <!-- BLOG-POST-LIST:END -->
