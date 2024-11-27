@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [某应届生凭空捏造了个25w的offer，还伪造了和那家公司HR的聊天记录，结果成功拿到了26的offer，可几个月后还是被发现了](https://weixin.qdkfweb.cn/59367.html)
-- [11.25｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/59375.html)
-- [曝光！职场霸凌，入职第一天被老板剪掉头发，已报警](https://weixin.qdkfweb.cn/59373.html)
-- [来看看一位阿里P9的年薪和资产](https://weixin.qdkfweb.cn/59363.html)
-- [为什么很多人喜欢重装系统？](https://weixin.qdkfweb.cn/59385.html)
+- [同事说他被大厂HR给忽悠了，面试说好给他21K的工资，就在入职签合同的时候，结果对方说2.1w的月薪被公司拒了，但给了个15k的](https://weixin.qdkfweb.cn/59428.html)
+- [Vite 6 正式发布](https://weixin.qdkfweb.cn/59397.html)
+- [11.26｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/59439.html)
+- [很多传统CTO，都被干掉了](https://weixin.qdkfweb.cn/59442.html)
+- [8.5K star!字节前端开源力作，惊艳！](https://weixin.qdkfweb.cn/59455.html)
 <!-- BLOG-POST-LIST:END -->
