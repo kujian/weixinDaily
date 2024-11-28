@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [同事说他被大厂HR给忽悠了，面试说好给他21K的工资，就在入职签合同的时候，结果对方说2.1w的月薪被公司拒了，但给了个15k的](https://weixin.qdkfweb.cn/59428.html)
-- [Vite 6 正式发布](https://weixin.qdkfweb.cn/59397.html)
-- [11.26｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/59439.html)
-- [很多传统CTO，都被干掉了](https://weixin.qdkfweb.cn/59442.html)
-- [8.5K star!字节前端开源力作，惊艳！](https://weixin.qdkfweb.cn/59455.html)
+- [离谱，split方法的设计缺陷居然导致了生产bug！](https://weixin.qdkfweb.cn/59463.html)
+- [5.6K star！再见了DocSend，这款开源项目更不错！](https://weixin.qdkfweb.cn/59526.html)
+- [最新！实习生篡改代码攻击公司模型训练，字节起诉索赔800万](https://weixin.qdkfweb.cn/59511.html)
+- [深漂3年，大厂双职工（夫华为，妻鹅厂）最大的“福报”，没有买房](https://weixin.qdkfweb.cn/59509.html)
+- [一招搞定！Cursor神器无限免费续杯](https://weixin.qdkfweb.cn/59479.html)
 <!-- BLOG-POST-LIST:END -->
