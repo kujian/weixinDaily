@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [关于富途裁员这事，给大家说点不一样的！](https://weixin.qdkfweb.cn/59570.html)
-- [开源日报 | 字节跳动向前实习生索赔800万；通义开源推理大模型QwQ；SUSE重塑品牌；最快的编程语言；Vite 6正式发布](https://weixin.qdkfweb.cn/59586.html)
-- [封装WebSocket消息推送，干翻Ajax轮询方式](https://weixin.qdkfweb.cn/59537.html)
-- [3.8K star！又发现一款强大好用的文件管理工具！](https://weixin.qdkfweb.cn/59583.html)
-- [某大厂HR：坚决抵制“占着茅坑不拉屎”现象](https://weixin.qdkfweb.cn/59569.html)
+- [11.30｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/59655.html)
+- [AI能攻克所有癌症，还能达到诺贝尔奖得主的智商？](https://weixin.qdkfweb.cn/59644.html)
+- [1.9K star！这款数据库管理工具厉害了，支持自然语言交互，轻量高效！](https://weixin.qdkfweb.cn/59668.html)
+- [字节女嫁给了拼多多男。年入过百万却过着月薪3000元的生活](https://weixin.qdkfweb.cn/59654.html)
+- [Web-Worker的基本用法并进行大文件切片上传（附带简易Node后端）](https://weixin.qdkfweb.cn/59635.html)
 <!-- BLOG-POST-LIST:END -->
