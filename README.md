@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [11.30｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/59655.html)
-- [AI能攻克所有癌症，还能达到诺贝尔奖得主的智商？](https://weixin.qdkfweb.cn/59644.html)
-- [1.9K star！这款数据库管理工具厉害了，支持自然语言交互，轻量高效！](https://weixin.qdkfweb.cn/59668.html)
-- [字节女嫁给了拼多多男。年入过百万却过着月薪3000元的生活](https://weixin.qdkfweb.cn/59654.html)
-- [Web-Worker的基本用法并进行大文件切片上传（附带简易Node后端）](https://weixin.qdkfweb.cn/59635.html)
+- [研二学生被舍友投毒，官方最新通报](https://weixin.qdkfweb.cn/59700.html)
+- [Vue.js宣布：我们将成为最快的响应式框架！](https://weixin.qdkfweb.cn/59710.html)
+- [字节跳动集体食物中毒事件后续来了](https://weixin.qdkfweb.cn/59691.html)
+- [本周推荐的5个火火火的Github开源项目！](https://weixin.qdkfweb.cn/59709.html)
+- [AI和IP时代的9个认知](https://weixin.qdkfweb.cn/59682.html)
 <!-- BLOG-POST-LIST:END -->
