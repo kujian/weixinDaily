@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [研二学生被舍友投毒，官方最新通报](https://weixin.qdkfweb.cn/59700.html)
-- [Vue.js宣布：我们将成为最快的响应式框架！](https://weixin.qdkfweb.cn/59710.html)
-- [字节跳动集体食物中毒事件后续来了](https://weixin.qdkfweb.cn/59691.html)
-- [本周推荐的5个火火火的Github开源项目！](https://weixin.qdkfweb.cn/59709.html)
-- [AI和IP时代的9个认知](https://weixin.qdkfweb.cn/59682.html)
+- [开源日报 | 人人网停止服务；专为OpenWrt设计的路由器；我们这个时代最疯狂的程序员；直观理解MoE模型；编程高薪神话末日？](https://weixin.qdkfweb.cn/59791.html)
+- [4.1K star！跨屏操作的神器，流畅丝滑！](https://weixin.qdkfweb.cn/59787.html)
+- [还在用轮询、websocket查询大屏数据？sse用起来](https://weixin.qdkfweb.cn/59720.html)
+- [以后是彻彻底底的小生意时代](https://weixin.qdkfweb.cn/59758.html)
+- [鹅厂员工彩票中奖2.2亿？](https://weixin.qdkfweb.cn/59769.html)
 <!-- BLOG-POST-LIST:END -->
