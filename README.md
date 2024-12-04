@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [开源日报 | 人人网停止服务；专为OpenWrt设计的路由器；我们这个时代最疯狂的程序员；直观理解MoE模型；编程高薪神话末日？](https://weixin.qdkfweb.cn/59791.html)
-- [4.1K star！跨屏操作的神器，流畅丝滑！](https://weixin.qdkfweb.cn/59787.html)
-- [还在用轮询、websocket查询大屏数据？sse用起来](https://weixin.qdkfweb.cn/59720.html)
-- [以后是彻彻底底的小生意时代](https://weixin.qdkfweb.cn/59758.html)
-- [鹅厂员工彩票中奖2.2亿？](https://weixin.qdkfweb.cn/59769.html)
+- [12.3｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/59848.html)
+- [9.1K star！国外大神1:1复刻Win11系统，开源牛逼！](https://weixin.qdkfweb.cn/59859.html)
+- [大厂中层（对标P7），回家生了个娃，被裁了。N+1](https://weixin.qdkfweb.cn/59846.html)
+- [商汤CEO徐立发全员信：设立“1+X”架构](https://weixin.qdkfweb.cn/59849.html)
+- [中国三大行业协会表态：美国芯片不再安全、不再可靠！](https://weixin.qdkfweb.cn/59861.html)
 <!-- BLOG-POST-LIST:END -->
