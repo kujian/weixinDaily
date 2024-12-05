@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [12.3｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/59848.html)
-- [9.1K star！国外大神1:1复刻Win11系统，开源牛逼！](https://weixin.qdkfweb.cn/59859.html)
-- [大厂中层（对标P7），回家生了个娃，被裁了。N+1](https://weixin.qdkfweb.cn/59846.html)
-- [商汤CEO徐立发全员信：设立“1+X”架构](https://weixin.qdkfweb.cn/59849.html)
-- [中国三大行业协会表态：美国芯片不再安全、不再可靠！](https://weixin.qdkfweb.cn/59861.html)
+- [OpenAI出王炸了](https://weixin.qdkfweb.cn/59891.html)
+- [抖音电商开启新一轮调整！](https://weixin.qdkfweb.cn/59909.html)
+- [和一个大二创业，融资过亿的90后老板聊了5个小时](https://weixin.qdkfweb.cn/59892.html)
+- [开源日报 | PG将不再支持MD5密码；使用MCP服务器总结群聊消息；2025 AI预测；前华为天才少年们投身AI创业热潮](https://weixin.qdkfweb.cn/59930.html)
+- [35.6K star！基于AI，这个照片管理项目6啊~](https://weixin.qdkfweb.cn/59928.html)
 <!-- BLOG-POST-LIST:END -->
