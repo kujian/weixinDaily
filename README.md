@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI出王炸了](https://weixin.qdkfweb.cn/59891.html)
-- [抖音电商开启新一轮调整！](https://weixin.qdkfweb.cn/59909.html)
-- [和一个大二创业，融资过亿的90后老板聊了5个小时](https://weixin.qdkfweb.cn/59892.html)
-- [开源日报 | PG将不再支持MD5密码；使用MCP服务器总结群聊消息；2025 AI预测；前华为天才少年们投身AI创业热潮](https://weixin.qdkfweb.cn/59930.html)
-- [35.6K star！基于AI，这个照片管理项目6啊~](https://weixin.qdkfweb.cn/59928.html)
+- [同事因怼了客户被裁，补偿金还没拿，一周后人就不见了，打电话时手机关机，结果直属主管说：这种员工走了也好，因为这事公司还要扣我绩效](https://weixin.qdkfweb.cn/59969.html)
+- [2025中国储备粮管理公司正式编机会！近100个名额，应届往届均可，福利待遇好到爆！](https://weixin.qdkfweb.cn/59975.html)
+- [别等到退休才傻眼！退休审核档案要审核哪些材料？要提前做准备](https://weixin.qdkfweb.cn/59976.html)
+- [12.5｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/59982.html)
+- [开源日报 | 国行苹果AI与百度合作不太顺利；比特币破10万美元；KDE用“弹窗”请求捐款赢麻了；人人影视二十年数据开源](https://weixin.qdkfweb.cn/59999.html)
 <!-- BLOG-POST-LIST:END -->
