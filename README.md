@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [同事因怼了客户被裁，补偿金还没拿，一周后人就不见了，打电话时手机关机，结果直属主管说：这种员工走了也好，因为这事公司还要扣我绩效](https://weixin.qdkfweb.cn/59969.html)
-- [别等到退休才傻眼！退休审核档案要审核哪些材料？要提前做准备](https://weixin.qdkfweb.cn/59976.html)
-- [2025中国储备粮管理公司正式编机会！近100个名额，应届往届均可，福利待遇好到爆！](https://weixin.qdkfweb.cn/59975.html)
-- [12.5｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/59982.html)
-- [开源日报 | 国行苹果AI与百度合作不太顺利；比特币破10万美元；KDE用“弹窗”请求捐款赢麻了；人人影视二十年数据开源](https://weixin.qdkfweb.cn/59999.html)
+- [38岁程序员被挤走后，房贷每月1.2万很发愁，昨天收到猎头20w年薪offer，结果今天同事说：那家公司专门招大龄员工，待遇很高](https://weixin.qdkfweb.cn/60025.html)
+- [朱啸虎光速回应杨植麟：回避了所有关键问题！](https://weixin.qdkfweb.cn/60038.html)
+- [明年我要和破局圈友们一起干一件大事](https://weixin.qdkfweb.cn/60024.html)
+- [学术造假！大学教授，被开除！](https://weixin.qdkfweb.cn/60044.html)
+- [刚刚，DeepMind最强「基础世界模型」诞生！单图生成1分钟游戏世界，解锁下一代智能体](https://weixin.qdkfweb.cn/60045.html)
 <!-- BLOG-POST-LIST:END -->
