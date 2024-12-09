@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [项目组两个实习生，一个985研究生月薪4500，一个大专生月薪5000，结果一个月后，领导说：研究生太理论化，留下大专生转正。](https://weixin.qdkfweb.cn/60086.html)
-- [团队进入深水区，很危险](https://weixin.qdkfweb.cn/60085.html)
-- [美团一位小股东写给王兴的信！](https://weixin.qdkfweb.cn/60098.html)
-- [华为员工：年级第一，浙大毕业，现在失业中。高中同学二本学历收入比我高很多](https://weixin.qdkfweb.cn/60095.html)
-- [阿里合伙人樊路远道歉了！](https://weixin.qdkfweb.cn/60099.html)
+- [马云：我是为了蚂蚁未来20年而来！（附：演讲原文）](https://weixin.qdkfweb.cn/60148.html)
+- [本周推荐的5个火火火的Github开源项目！](https://weixin.qdkfweb.cn/60168.html)
+- [马云现场祝福蚂蚁20岁生日：我是为了蚂蚁未来20年而来！](https://weixin.qdkfweb.cn/60149.html)
+- [Spring Cloud 2024正式GA，年度大版本更新](https://weixin.qdkfweb.cn/60170.html)
+- [在字节上班都好有钱。有女生问：字节3-1，值得带“球”嫁嘛？](https://weixin.qdkfweb.cn/60146.html)
 <!-- BLOG-POST-LIST:END -->
