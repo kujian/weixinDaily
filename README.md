@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [马云：我是为了蚂蚁未来20年而来！（附：演讲原文）](https://weixin.qdkfweb.cn/60148.html)
-- [本周推荐的5个火火火的Github开源项目！](https://weixin.qdkfweb.cn/60168.html)
-- [马云现场祝福蚂蚁20岁生日：我是为了蚂蚁未来20年而来！](https://weixin.qdkfweb.cn/60149.html)
-- [Spring Cloud 2024正式GA，年度大版本更新](https://weixin.qdkfweb.cn/60170.html)
-- [在字节上班都好有钱。有女生问：字节3-1，值得带“球”嫁嘛？](https://weixin.qdkfweb.cn/60146.html)
+- [腾讯公布2025年春节假期安排，全员休9天](https://weixin.qdkfweb.cn/60223.html)
+- [开源日报 | 大模型密度定律；iPhone将搭载苹果自研5G基带芯片；“先做个垃圾出来”；Nacos 3.0.0-alpha发布](https://weixin.qdkfweb.cn/60245.html)
+- [14.5K star！一款开源的工作流编排调度项目，无限可扩展！](https://weixin.qdkfweb.cn/60243.html)
+- [百度文库，闷声不响掀了“AI搜索”的桌](https://weixin.qdkfweb.cn/60224.html)
+- [裁员了，很严重，今年千万别离职！](https://weixin.qdkfweb.cn/60218.html)
 <!-- BLOG-POST-LIST:END -->
