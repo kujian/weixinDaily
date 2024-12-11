@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [腾讯公布2025年春节假期安排，全员休9天](https://weixin.qdkfweb.cn/60223.html)
-- [开源日报 | 大模型密度定律；iPhone将搭载苹果自研5G基带芯片；“先做个垃圾出来”；Nacos 3.0.0-alpha发布](https://weixin.qdkfweb.cn/60245.html)
-- [14.5K star！一款开源的工作流编排调度项目，无限可扩展！](https://weixin.qdkfweb.cn/60243.html)
-- [百度文库，闷声不响掀了“AI搜索”的桌](https://weixin.qdkfweb.cn/60224.html)
-- [裁员了，很严重，今年千万别离职！](https://weixin.qdkfweb.cn/60218.html)
+- [12.10｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/60294.html)
+- [开源日报 | Sora正式上线；阿里云数据中心失火；苹果对开发AGI不感兴趣；小红书成立应用算法部；谷歌宣布量子芯片Willow](https://weixin.qdkfweb.cn/60309.html)
+- [用户评论中隐藏了什么？GLM-4-Plus帮你快速理清思路](https://weixin.qdkfweb.cn/60306.html)
+- [6K star！轻量可视化路由追踪神器，真的强！](https://weixin.qdkfweb.cn/60307.html)
+- [太勇了，空姐硬刚大厂“Z男”。从字节告到得物，两家公司都做出辞退处理](https://weixin.qdkfweb.cn/60291.html)
 <!-- BLOG-POST-LIST:END -->
