@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [12.10｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/60294.html)
-- [开源日报 | Sora正式上线；阿里云数据中心失火；苹果对开发AGI不感兴趣；小红书成立应用算法部；谷歌宣布量子芯片Willow](https://weixin.qdkfweb.cn/60309.html)
-- [用户评论中隐藏了什么？GLM-4-Plus帮你快速理清思路](https://weixin.qdkfweb.cn/60306.html)
-- [6K star！轻量可视化路由追踪神器，真的强！](https://weixin.qdkfweb.cn/60307.html)
-- [太勇了，空姐硬刚大厂“Z男”。从字节告到得物，两家公司都做出辞退处理](https://weixin.qdkfweb.cn/60291.html)
+- [字节“反黑话”！](https://weixin.qdkfweb.cn/60367.html)
+- [NeurIPS 2024最佳论文开奖！北大字节团队夺冠](https://weixin.qdkfweb.cn/60368.html)
+- [国产Postman接口调试工具开源了！](https://weixin.qdkfweb.cn/60384.html)
+- [45.8K Star！ 轻量、超快速的高颜值终端项目，不容错过！](https://weixin.qdkfweb.cn/60385.html)
+- [Deno 团队想通过 “贿赂” 来鼓励您尝试 Deno，完成挑战后还有奖励哦...](https://weixin.qdkfweb.cn/60333.html)
 <!-- BLOG-POST-LIST:END -->
