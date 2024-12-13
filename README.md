@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [字节“反黑话”！](https://weixin.qdkfweb.cn/60367.html)
-- [NeurIPS 2024最佳论文开奖！北大字节团队夺冠](https://weixin.qdkfweb.cn/60368.html)
-- [国产Postman接口调试工具开源了！](https://weixin.qdkfweb.cn/60384.html)
-- [45.8K Star！ 轻量、超快速的高颜值终端项目，不容错过！](https://weixin.qdkfweb.cn/60385.html)
-- [Deno 团队想通过 “贿赂” 来鼓励您尝试 Deno，完成挑战后还有奖励哦...](https://weixin.qdkfweb.cn/60333.html)
+- [JavaScript逆向时，常用的11个hook](https://weixin.qdkfweb.cn/60414.html)
+- [某大厂传出“倒闭”前，微波炉先无。员工搬走抵债？](https://weixin.qdkfweb.cn/60425.html)
+- [极越，“暴雷”了！](https://weixin.qdkfweb.cn/60419.html)
+- [为什么感觉中国人月薪过万很普遍了？](https://weixin.qdkfweb.cn/60441.html)
+- [一本书精通复杂的后端系统（文末送书）](https://weixin.qdkfweb.cn/60442.html)
 <!-- BLOG-POST-LIST:END -->
