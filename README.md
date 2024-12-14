@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript逆向时，常用的11个hook](https://weixin.qdkfweb.cn/60414.html)
-- [某大厂传出“倒闭”前，微波炉先无。员工搬走抵债？](https://weixin.qdkfweb.cn/60425.html)
-- [极越，“暴雷”了！](https://weixin.qdkfweb.cn/60419.html)
-- [为什么感觉中国人月薪过万很普遍了？](https://weixin.qdkfweb.cn/60441.html)
-- [一本书精通复杂的后端系统（文末送书）](https://weixin.qdkfweb.cn/60442.html)
+- [29.7K star！打造极简 web 界面，就用她了！](https://weixin.qdkfweb.cn/60482.html)
+- [据说是阿里大神常用的Docker应用神技！](https://weixin.qdkfweb.cn/60483.html)
+- [二维码耍出新花样，充满创意艺术](https://weixin.qdkfweb.cn/60450.html)
+- [开源日报 | Fedora项目负责人将离任；微软发布Phi-4；“NVIDIA对中国市场断供”不实；VSCode 1.96发布](https://weixin.qdkfweb.cn/60484.html)
+- [年底缺钱、礼包变现？字节、极越等大厂员工闲鱼回血](https://weixin.qdkfweb.cn/60467.html)
 <!-- BLOG-POST-LIST:END -->
