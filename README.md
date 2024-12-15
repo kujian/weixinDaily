@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [29.7K star！打造极简 web 界面，就用她了！](https://weixin.qdkfweb.cn/60482.html)
-- [据说是阿里大神常用的Docker应用神技！](https://weixin.qdkfweb.cn/60483.html)
-- [二维码耍出新花样，充满创意艺术](https://weixin.qdkfweb.cn/60450.html)
-- [开源日报 | Fedora项目负责人将离任；微软发布Phi-4；“NVIDIA对中国市场断供”不实；VSCode 1.96发布](https://weixin.qdkfweb.cn/60484.html)
-- [年底缺钱、礼包变现？字节、极越等大厂员工闲鱼回血](https://weixin.qdkfweb.cn/60467.html)
+- [考完了，很艰难](https://weixin.qdkfweb.cn/60501.html)
+- [7.5K star！国外爆火的文件转换神器项目，开源免费！](https://weixin.qdkfweb.cn/60523.html)
+- [为什么那些带颜色网站不能彻底关闭？](https://weixin.qdkfweb.cn/60524.html)
+- [离开1620天，Redis创始人antirez宣布回归](https://weixin.qdkfweb.cn/60525.html)
+- [阿里员工：本人外包，谈了一个正编女朋友。很自卑，不知道感情能维持多久？](https://weixin.qdkfweb.cn/60508.html)
 <!-- BLOG-POST-LIST:END -->
