@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [考完了，很艰难](https://weixin.qdkfweb.cn/60501.html)
-- [7.5K star！国外爆火的文件转换神器项目，开源免费！](https://weixin.qdkfweb.cn/60523.html)
-- [为什么那些带颜色网站不能彻底关闭？](https://weixin.qdkfweb.cn/60524.html)
-- [离开1620天，Redis创始人antirez宣布回归](https://weixin.qdkfweb.cn/60525.html)
-- [阿里员工：本人外包，谈了一个正编女朋友。很自卑，不知道感情能维持多久？](https://weixin.qdkfweb.cn/60508.html)
+- [本周推荐的6个火火火的Github开源项目！](https://weixin.qdkfweb.cn/60584.html)
+- [提取68万公积金回老家，北漂12年结束了。经历小米、快手、字节，今年8月份被裁](https://weixin.qdkfweb.cn/60564.html)
+- [动态链接的魔法：Linux下动态链接库机制探讨](https://weixin.qdkfweb.cn/60586.html)
+- [离职交接后，线上出现bug，接口是自己开发的，n+1补偿被追回了](https://weixin.qdkfweb.cn/60572.html)
+- [SpringBoot + Prometheus：打造高效监控系统](https://weixin.qdkfweb.cn/60573.html)
 <!-- BLOG-POST-LIST:END -->
