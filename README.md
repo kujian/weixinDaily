@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [本周推荐的6个火火火的Github开源项目！](https://weixin.qdkfweb.cn/60584.html)
-- [提取68万公积金回老家，北漂12年结束了。经历小米、快手、字节，今年8月份被裁](https://weixin.qdkfweb.cn/60564.html)
-- [动态链接的魔法：Linux下动态链接库机制探讨](https://weixin.qdkfweb.cn/60586.html)
-- [离职交接后，线上出现bug，接口是自己开发的，n+1补偿被追回了](https://weixin.qdkfweb.cn/60572.html)
-- [SpringBoot + Prometheus：打造高效监控系统](https://weixin.qdkfweb.cn/60573.html)
+- [什么？这个国产黑技术还能这样跨端玩！](https://weixin.qdkfweb.cn/60650.html)
+- [1.5K star！开发效率大爆炸，蛮厉害！](https://weixin.qdkfweb.cn/60651.html)
+- [开源日报|ChatGPT宕机因k8s循环依赖导致；95%以上中国电脑安装了360；Android XR面世；Grok提示词泄露](https://weixin.qdkfweb.cn/60653.html)
+- [关于银泰百货，再给大家补充一些信息差！](https://weixin.qdkfweb.cn/60635.html)
+- [某大厂员工：本人在仲裁期间，发了几篇关于前司的帖子，被反诉侵犯名誉要求赔偿21万](https://weixin.qdkfweb.cn/60632.html)
 <!-- BLOG-POST-LIST:END -->
