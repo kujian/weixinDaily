@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [什么？这个国产黑技术还能这样跨端玩！](https://weixin.qdkfweb.cn/60650.html)
-- [1.5K star！开发效率大爆炸，蛮厉害！](https://weixin.qdkfweb.cn/60651.html)
-- [开源日报|ChatGPT宕机因k8s循环依赖导致；95%以上中国电脑安装了360；Android XR面世；Grok提示词泄露](https://weixin.qdkfweb.cn/60653.html)
-- [关于银泰百货，再给大家补充一些信息差！](https://weixin.qdkfweb.cn/60635.html)
-- [某大厂员工：本人在仲裁期间，发了几篇关于前司的帖子，被反诉侵犯名誉要求赔偿21万](https://weixin.qdkfweb.cn/60632.html)
+- [6.7K star！开源 Rust 测试工具，超炫酷！](https://weixin.qdkfweb.cn/60718.html)
+- [开源日报|苹果将推出可折叠iPad；小米又开源；ChatGPT AI搜索免费；字节否认与中兴探讨成立新品牌；周鸿祎的直播平台退市](https://weixin.qdkfweb.cn/60720.html)
+- [阿里P7老公被裁，39岁失业近一年终于找到工作了。年薪30万](https://weixin.qdkfweb.cn/60699.html)
+- [“反算法型”网友厉害了，这样竟让机票便宜一半](https://weixin.qdkfweb.cn/60715.html)
+- [连偏导数都不会算太菜了吧](https://weixin.qdkfweb.cn/60716.html)
 <!-- BLOG-POST-LIST:END -->
