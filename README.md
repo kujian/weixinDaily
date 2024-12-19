@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [6.7K star！开源 Rust 测试工具，超炫酷！](https://weixin.qdkfweb.cn/60718.html)
-- [开源日报|苹果将推出可折叠iPad；小米又开源；ChatGPT AI搜索免费；字节否认与中兴探讨成立新品牌；周鸿祎的直播平台退市](https://weixin.qdkfweb.cn/60720.html)
-- [阿里P7老公被裁，39岁失业近一年终于找到工作了。年薪30万](https://weixin.qdkfweb.cn/60699.html)
-- [“反算法型”网友厉害了，这样竟让机票便宜一半](https://weixin.qdkfweb.cn/60715.html)
-- [连偏导数都不会算太菜了吧](https://weixin.qdkfweb.cn/60716.html)
+- [12.18｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/60761.html)
+- [39.4K star！超酷的开源docker工具推荐！](https://weixin.qdkfweb.cn/60777.html)
+- [程序员最该拿的10个高含金量证书](https://weixin.qdkfweb.cn/60778.html)
+- [开源日报|OpenAI开放满血o1 API；Databricks宣布100亿美元融资；Linux 6.1 LTS额外延长一年支持](https://weixin.qdkfweb.cn/60781.html)
+- [京东被裁“喜提”竞业一年，房贷每月9000元是什么体验？好在赔偿比较给力，N=37万](https://weixin.qdkfweb.cn/60757.html)
 <!-- BLOG-POST-LIST:END -->
