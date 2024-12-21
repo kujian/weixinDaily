@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [瞧瞧别人家的异常处理，那叫一个优雅](https://weixin.qdkfweb.cn/60764.html)
-- [这样实现异步线程间 数据传递，太优雅了！](https://weixin.qdkfweb.cn/60765.html)
-- [Git 代码提交规范：feat、fix、chore 都是什么意思？](https://weixin.qdkfweb.cn/60766.html)
-- [【直播预告】CIMPro孪大师V6.3 数字孪生WebAPI二次开发技巧](https://weixin.qdkfweb.cn/60745.html)
-- [浅谈古茗内部的Request请求库](https://weixin.qdkfweb.cn/60740.html)
+- [第一桶金的秘密，只有10%的人知道](https://weixin.qdkfweb.cn/60857.html)
+- [手把手教你使用 Python 网络爬虫获取基金信息](https://weixin.qdkfweb.cn/60849.html)
+- [知名前端库Vant与Rspack遭遇投毒！](https://weixin.qdkfweb.cn/60850.html)
+- [开源日报|全新桌面版ChatGPT；图森未来退市转型；国产前端开源项目被投毒；LLM供应商Top10；淘宝搜索正在“杀死”淘宝](https://weixin.qdkfweb.cn/60869.html)
+- [86.5k Star！名字奇奇怪怪但贼好用的开发神器！](https://weixin.qdkfweb.cn/60848.html)
 <!-- BLOG-POST-LIST:END -->
