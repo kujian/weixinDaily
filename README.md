@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [第一桶金的秘密，只有10%的人知道](https://weixin.qdkfweb.cn/60857.html)
-- [手把手教你使用 Python 网络爬虫获取基金信息](https://weixin.qdkfweb.cn/60849.html)
-- [知名前端库Vant与Rspack遭遇投毒！](https://weixin.qdkfweb.cn/60850.html)
-- [开源日报|全新桌面版ChatGPT；图森未来退市转型；国产前端开源项目被投毒；LLM供应商Top10；淘宝搜索正在“杀死”淘宝](https://weixin.qdkfweb.cn/60869.html)
-- [86.5k Star！名字奇奇怪怪但贼好用的开发神器！](https://weixin.qdkfweb.cn/60848.html)
+- [AI原生开发平台MoonBit（月兔）开源核心编译器](https://weixin.qdkfweb.cn/60909.html)
+- [GPT o3 爆了，码农们的饭碗不保了](https://weixin.qdkfweb.cn/60883.html)
+- [8K star！这款实用的开源效率app，妙啊~](https://weixin.qdkfweb.cn/60908.html)
+- [猝死，36岁。家中两个孩子，大的六岁，小的三岁](https://weixin.qdkfweb.cn/60891.html)
+- [你的一切痛苦，都源于对人性的无知](https://weixin.qdkfweb.cn/60894.html)
 <!-- BLOG-POST-LIST:END -->
