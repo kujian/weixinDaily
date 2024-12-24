@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [12.22｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/60943.html)
-- [鹅厂离职，上岸老家市直Gwy。2024年薪71138.43元](https://weixin.qdkfweb.cn/60941.html)
-- [GitHub Star数量两天破万——Home Assistant的米家官方集成有什么优势？](https://weixin.qdkfweb.cn/60963.html)
-- [本周推荐的6个火火火的Github开源项目！](https://weixin.qdkfweb.cn/60961.html)
-- [你们访问xxxHub时，有没有想过这个问题？](https://weixin.qdkfweb.cn/60958.html)
+- [工资4000-6000，地铁公司正式编，五险一金，40岁以下都能报，过节米面油、购物卡，没有学历限制。](https://weixin.qdkfweb.cn/61002.html)
+- [蚂蚁集团宣布组织升级：将实施轮值总裁制度](https://weixin.qdkfweb.cn/61010.html)
+- [2.9K star！又来一款网络问题分析利器！](https://weixin.qdkfweb.cn/61026.html)
+- [如何将屎山代码改造成为“艺术”?](https://weixin.qdkfweb.cn/61027.html)
+- [GitLab停止为中国区用户提供GitLab.com账号服务](https://weixin.qdkfweb.cn/61028.html)
 <!-- BLOG-POST-LIST:END -->
