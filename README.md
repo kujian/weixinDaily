@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [工资4000-6000，地铁公司正式编，五险一金，40岁以下都能报，过节米面油、购物卡，没有学历限制。](https://weixin.qdkfweb.cn/61002.html)
-- [蚂蚁集团宣布组织升级：将实施轮值总裁制度](https://weixin.qdkfweb.cn/61010.html)
-- [2.9K star！又来一款网络问题分析利器！](https://weixin.qdkfweb.cn/61026.html)
-- [如何将屎山代码改造成为“艺术”?](https://weixin.qdkfweb.cn/61027.html)
-- [GitLab停止为中国区用户提供GitLab.com账号服务](https://weixin.qdkfweb.cn/61028.html)
+- [蚂蚁集团架构调整后续：五位CTO发生变动](https://weixin.qdkfweb.cn/61061.html)
+- [SpringBoot 实现 License 认证（只校验有效期）](https://weixin.qdkfweb.cn/61064.html)
+- [巧用 SpringEvent 解决 WebUploader 大文件上传解耦问题](https://weixin.qdkfweb.cn/61066.html)
+- [追更20年，销量破40万册，JavaScript「红宝书」第5版强势来袭！](https://weixin.qdkfweb.cn/61032.html)
+- [吴柳芳600万粉丝被清空！抖音公告来了](https://weixin.qdkfweb.cn/61008.html)
 <!-- BLOG-POST-LIST:END -->
