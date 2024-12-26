@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [蚂蚁集团架构调整后续：五位CTO发生变动](https://weixin.qdkfweb.cn/61061.html)
-- [SpringBoot 实现 License 认证（只校验有效期）](https://weixin.qdkfweb.cn/61064.html)
-- [巧用 SpringEvent 解决 WebUploader 大文件上传解耦问题](https://weixin.qdkfweb.cn/61066.html)
-- [追更20年，销量破40万册，JavaScript「红宝书」第5版强势来袭！](https://weixin.qdkfweb.cn/61032.html)
-- [吴柳芳600万粉丝被清空！抖音公告来了](https://weixin.qdkfweb.cn/61008.html)
+- [在使用 React 五年后，真正明白 useMemo 的意义](https://weixin.qdkfweb.cn/61100.html)
+- [开源日报|AI眼镜明年会火；计算机女博士转战OnlyFans；编程十年感悟；苹果回应不自建搜索引擎；美国对中国芯片发起301调查](https://weixin.qdkfweb.cn/61144.html)
+- [刘强东给员工发礼物了！](https://weixin.qdkfweb.cn/61123.html)
+- [京东再次宣布涨薪！](https://weixin.qdkfweb.cn/61124.html)
+- [鹅厂员工：我之前经常坐在阿里的马桶上默默哭，现在坐在鹅厂的马桶上哭](https://weixin.qdkfweb.cn/61117.html)
 <!-- BLOG-POST-LIST:END -->
