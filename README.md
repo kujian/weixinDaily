@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [在使用 React 五年后，真正明白 useMemo 的意义](https://weixin.qdkfweb.cn/61100.html)
-- [开源日报|AI眼镜明年会火；计算机女博士转战OnlyFans；编程十年感悟；苹果回应不自建搜索引擎；美国对中国芯片发起301调查](https://weixin.qdkfweb.cn/61144.html)
-- [刘强东给员工发礼物了！](https://weixin.qdkfweb.cn/61123.html)
-- [京东再次宣布涨薪！](https://weixin.qdkfweb.cn/61124.html)
-- [鹅厂员工：我之前经常坐在阿里的马桶上默默哭，现在坐在鹅厂的马桶上哭](https://weixin.qdkfweb.cn/61117.html)
+- [工资6000-15000，高速公路集团（转正带编制），双边公积金24%，旱涝保收，周末双休，六十多个需求专业盘点！](https://weixin.qdkfweb.cn/61181.html)
+- [又来一款国产效率神器项目，超级爽啊！](https://weixin.qdkfweb.cn/61201.html)
+- [52K+ star！解放双手，工作流自动化神器！](https://weixin.qdkfweb.cn/61202.html)
+- [开源日报|小米正在搭建GPU万卡集群；2024全球AI盘点；张一鸣“撞上”雷军；微软变脸OpenAI；苹果为何一直拒用英伟达？](https://weixin.qdkfweb.cn/61204.html)
+- [小米员工：工作第二年，年薪30万。国企女友结婚要100多万，给不起，分手了](https://weixin.qdkfweb.cn/61184.html)
 <!-- BLOG-POST-LIST:END -->
