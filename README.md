@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [工资6000-15000，高速公路集团（转正带编制），双边公积金24%，旱涝保收，周末双休，六十多个需求专业盘点！](https://weixin.qdkfweb.cn/61181.html)
-- [又来一款国产效率神器项目，超级爽啊！](https://weixin.qdkfweb.cn/61201.html)
-- [52K+ star！解放双手，工作流自动化神器！](https://weixin.qdkfweb.cn/61202.html)
-- [开源日报|小米正在搭建GPU万卡集群；2024全球AI盘点；张一鸣“撞上”雷军；微软变脸OpenAI；苹果为何一直拒用英伟达？](https://weixin.qdkfweb.cn/61204.html)
-- [小米员工：工作第二年，年薪30万。国企女友结婚要100多万，给不起，分手了](https://weixin.qdkfweb.cn/61184.html)
+- [开源日报|DeepSeek-V3发布；微软与OpenAI发生争执；ChatGPT本月第二次大规模宕机；Ruby 3.4发布](https://weixin.qdkfweb.cn/61239.html)
+- [42.1K star！前端开源利器，牛逼！](https://weixin.qdkfweb.cn/61238.html)
+- [定制 AI 阅读助手，告别冗长文字，快速 get 重点](https://weixin.qdkfweb.cn/61212.html)
+- [Vue.js 高调宣布：我们将成为最快的响应式框架！](https://weixin.qdkfweb.cn/61213.html)
+- [8台M4 Mac Mini就可以跑671B的DeepSeek-V3](https://weixin.qdkfweb.cn/61240.html)
 <!-- BLOG-POST-LIST:END -->
