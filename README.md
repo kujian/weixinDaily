@@ -15,9 +15,11 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [开源日报|DeepSeek-V3发布；微软与OpenAI发生争执；ChatGPT本月第二次大规模宕机；Ruby 3.4发布](https://weixin.qdkfweb.cn/61239.html)
-- [42.1K star！前端开源利器，牛逼！](https://weixin.qdkfweb.cn/61238.html)
-- [定制 AI 阅读助手，告别冗长文字，快速 get 重点](https://weixin.qdkfweb.cn/61212.html)
-- [Vue.js 高调宣布：我们将成为最快的响应式框架！](https://weixin.qdkfweb.cn/61213.html)
-- [8台M4 Mac Mini就可以跑671B的DeepSeek-V3](https://weixin.qdkfweb.cn/61240.html)
+- [最近我在AI破局俱乐部宣布了一个事情：近期我将拿出60多万真金白银，给破局圈友人手一份2025盲盒抽奖，中奖率100%，基础款礼物占据40多万，还有小20万的高级款礼物的空间。
+
+结果在破局发现了一些](https://weixin.qdkfweb.cn/61256.html)
+- [年底12月份，从华为离职。N+1赔偿到手687660.18元](https://weixin.qdkfweb.cn/61261.html)
+- [原生JavaScript实现贪吃蛇游戏](https://weixin.qdkfweb.cn/61252.html)
+- [8.4K star！终端文件管理神器，太优雅了！](https://weixin.qdkfweb.cn/61274.html)
+- [编程十年的感悟](https://weixin.qdkfweb.cn/61275.html)
 <!-- BLOG-POST-LIST:END -->
