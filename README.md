@@ -15,11 +15,15 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [最近我在AI破局俱乐部宣布了一个事情：近期我将拿出60多万真金白银，给破局圈友人手一份2025盲盒抽奖，中奖率100%，基础款礼物占据40多万，还有小20万的高级款礼物的空间。
+- [2024年AI盘点：投资高歌猛进、基础设施重构、技术采用加速](https://weixin.qdkfweb.cn/61330.html)
+- [最近有行动家问：大环境不好，大家都太卷了，产品越卖越便宜，用户越来越难找，怎么破？
 
-结果在破局发现了一些](https://weixin.qdkfweb.cn/61256.html)
-- [年底12月份，从华为离职。N+1赔偿到手687660.18元](https://weixin.qdkfweb.cn/61261.html)
-- [原生JavaScript实现贪吃蛇游戏](https://weixin.qdkfweb.cn/61252.html)
-- [8.4K star！终端文件管理神器，太优雅了！](https://weixin.qdkfweb.cn/61274.html)
-- [编程十年的感悟](https://weixin.qdkfweb.cn/61275.html)
+我从不惧怕内卷，更认为这是深度思考者、深度布局者的机会。
+
+分享几点内卷时刻，和我的应对：
+
+1/最初我的公众号写](https://weixin.qdkfweb.cn/61305.html)
+- [本周推荐的5个火火火的Github开源项目！](https://weixin.qdkfweb.cn/61327.html)
+- [服气！计算机女博士全职搞OnlyFans，狂赚百万美金！](https://weixin.qdkfweb.cn/61328.html)
+- [字节被裁，回老家上岸县城事业单位。2024年收入8502.32元](https://weixin.qdkfweb.cn/61311.html)
 <!-- BLOG-POST-LIST:END -->
