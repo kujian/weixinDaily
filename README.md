@@ -15,15 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [2024年AI盘点：投资高歌猛进、基础设施重构、技术采用加速](https://weixin.qdkfweb.cn/61330.html)
-- [最近有行动家问：大环境不好，大家都太卷了，产品越卖越便宜，用户越来越难找，怎么破？
-
-我从不惧怕内卷，更认为这是深度思考者、深度布局者的机会。
-
-分享几点内卷时刻，和我的应对：
-
-1/最初我的公众号写](https://weixin.qdkfweb.cn/61305.html)
-- [本周推荐的5个火火火的Github开源项目！](https://weixin.qdkfweb.cn/61327.html)
-- [服气！计算机女博士全职搞OnlyFans，狂赚百万美金！](https://weixin.qdkfweb.cn/61328.html)
-- [字节被裁，回老家上岸县城事业单位。2024年收入8502.32元](https://weixin.qdkfweb.cn/61311.html)
+- [11.3K star！这个项目厉害了，自动化 API，后台作业，工作流，UI开发，低代码一网打尽！](https://weixin.qdkfweb.cn/61385.html)
+- [开源日报|用Rust重写C++代码的总结；解读Deepseek V3；AI Agent现状与未来；AI芯片新战役；编程十年的感悟](https://weixin.qdkfweb.cn/61386.html)
+- [一年半，第二名了](https://weixin.qdkfweb.cn/61360.html)
+- [上海微软大裁员，赔偿达N+8，老员工获赔77万！](https://weixin.qdkfweb.cn/61361.html)
+- [仅860KB，改造Win11，很强！](https://weixin.qdkfweb.cn/61382.html)
 <!-- BLOG-POST-LIST:END -->
