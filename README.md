@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [吴晓波预见2025跨年演讲，这个AI帮你秒看](https://weixin.qdkfweb.cn/61415.html)
-- [年底大厂“八卦”。字节某员工捅了篓子、大学鹅厂毕业班没人进鹅厂、夕夕春节发钱比往年少](https://weixin.qdkfweb.cn/61411.html)
-- [DeepSeek V3“报错家门”：我是ChatGPT](https://weixin.qdkfweb.cn/61425.html)
-- [谁告诉你机器学习是这样的？](https://weixin.qdkfweb.cn/61426.html)
-- [你必须要了解的 10 种微服务设计模式！](https://weixin.qdkfweb.cn/61427.html)
+- [39岁，上海国企12月份收入167633.35元。包含工资51891.85元、年终奖15750元、赔偿99991.5元](https://weixin.qdkfweb.cn/61447.html)
+- [一个决定亏了200万...](https://weixin.qdkfweb.cn/61443.html)
+- [腾讯今年的校招薪资。。](https://weixin.qdkfweb.cn/61446.html)
+- [前端表格想要极度的丝滑，只有一条路可行！](https://weixin.qdkfweb.cn/61400.html)
+- [请程序员立即拿下软考证书（政策风口）](https://weixin.qdkfweb.cn/61416.html)
 <!-- BLOG-POST-LIST:END -->
