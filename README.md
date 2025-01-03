@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [39岁，上海国企12月份收入167633.35元。包含工资51891.85元、年终奖15750元、赔偿99991.5元](https://weixin.qdkfweb.cn/61447.html)
-- [一个决定亏了200万...](https://weixin.qdkfweb.cn/61443.html)
-- [腾讯今年的校招薪资。。](https://weixin.qdkfweb.cn/61446.html)
-- [前端表格想要极度的丝滑，只有一条路可行！](https://weixin.qdkfweb.cn/61400.html)
-- [请程序员立即拿下软考证书（政策风口）](https://weixin.qdkfweb.cn/61416.html)
+- [18.9K star!PDF到Markdown转换专家，快速、精准、多语言支持！](https://weixin.qdkfweb.cn/61523.html)
+- [橙单，为若依快速接入完整的低代码能力](https://weixin.qdkfweb.cn/61522.html)
+- [年后前端应该如何找工作呢？其实还得是面试题！](https://weixin.qdkfweb.cn/61494.html)
+- [一天时间，60万没了....](https://weixin.qdkfweb.cn/61499.html)
+- [贫贱夫妻百事哀！字节年薪50万老公让我尽快找到工作，分担家庭开支](https://weixin.qdkfweb.cn/61506.html)
 <!-- BLOG-POST-LIST:END -->
