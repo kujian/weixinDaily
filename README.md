@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [6.3K star！简洁强大的微信 Markdown 编辑器，还用啥Typora！](https://weixin.qdkfweb.cn/61560.html)
-- [面试官：sessionStorage 能在多个标签页之间共享数据吗？](https://weixin.qdkfweb.cn/61530.html)
-- [浏览不良网站一定会有记录吗?](https://weixin.qdkfweb.cn/61541.html)
-- [智能协同云图库项目，周末加更！](https://weixin.qdkfweb.cn/61542.html)
-- [35岁女，大厂P7，人生最后一次考编。笔试第一，面试第三，落选](https://weixin.qdkfweb.cn/61548.html)
+- [同事已经52岁了，居然选择了内退，三天就批下来了，工资从6500降到了2800。我们都觉得她太傻了，再过三年就可以正式退休了](https://weixin.qdkfweb.cn/61589.html)
+- [习近平签署主席令！研究生，迎大变革！](https://weixin.qdkfweb.cn/61595.html)
+- [刚拿下NeurIPS最佳论文，字节就开源VAR文生图版本，再次击败扩散模型！](https://weixin.qdkfweb.cn/61596.html)
+- [高校强迫全校学生4h速成论文并发表，QS排名从野鸡学校飞升全球第二！](https://weixin.qdkfweb.cn/61600.html)
+- [夜莺开源监控突破一万 star，当我们离开的时候希望世人还记得我们](https://weixin.qdkfweb.cn/61606.html)
 <!-- BLOG-POST-LIST:END -->
