@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [同事已经52岁了，居然选择了内退，三天就批下来了，工资从6500降到了2800。我们都觉得她太傻了，再过三年就可以正式退休了](https://weixin.qdkfweb.cn/61589.html)
-- [习近平签署主席令！研究生，迎大变革！](https://weixin.qdkfweb.cn/61595.html)
-- [刚拿下NeurIPS最佳论文，字节就开源VAR文生图版本，再次击败扩散模型！](https://weixin.qdkfweb.cn/61596.html)
-- [高校强迫全校学生4h速成论文并发表，QS排名从野鸡学校飞升全球第二！](https://weixin.qdkfweb.cn/61600.html)
-- [夜莺开源监控突破一万 star，当我们离开的时候希望世人还记得我们](https://weixin.qdkfweb.cn/61606.html)
+- [段永平浙大师生见面会QA问答纪要全文](https://weixin.qdkfweb.cn/61632.html)
+- [JavaScript如何判断对象自身为空？](https://weixin.qdkfweb.cn/61623.html)
+- [25.3K star！搞定VSCode所有插件，就是这么舒适！](https://weixin.qdkfweb.cn/61650.html)
+- [如何在最快将1000TB的数据从南京传输到北京？方法确实牛！](https://weixin.qdkfweb.cn/61651.html)
+- [年后找工作？来领取一份前端简历模板吧~](https://weixin.qdkfweb.cn/61622.html)
 <!-- BLOG-POST-LIST:END -->
