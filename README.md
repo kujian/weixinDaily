@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [段永平浙大师生见面会QA问答纪要全文](https://weixin.qdkfweb.cn/61632.html)
-- [JavaScript如何判断对象自身为空？](https://weixin.qdkfweb.cn/61623.html)
-- [25.3K star！搞定VSCode所有插件，就是这么舒适！](https://weixin.qdkfweb.cn/61650.html)
-- [如何在最快将1000TB的数据从南京传输到北京？方法确实牛！](https://weixin.qdkfweb.cn/61651.html)
-- [年后找工作？来领取一份前端简历模板吧~](https://weixin.qdkfweb.cn/61622.html)
+- [公司研发中心倒闭，年终奖没了。。。](https://weixin.qdkfweb.cn/61676.html)
+- [最新互联网大厂职级与薪资地图](https://weixin.qdkfweb.cn/61677.html)
+- [阿里男友上岸省厅Gwy后，我被“斩”了](https://weixin.qdkfweb.cn/61687.html)
+- [OpenAI最大秘密，竟被中国研究者破解？复旦等惊人揭秘o1路线图](https://weixin.qdkfweb.cn/61700.html)
+- [华为面向全球悬赏300万求解难题。网友：这两道题给三个亿都不过分。](https://weixin.qdkfweb.cn/61701.html)
 <!-- BLOG-POST-LIST:END -->
