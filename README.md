@@ -18,6 +18,6 @@
 - [公司研发中心倒闭，年终奖没了。。。](https://weixin.qdkfweb.cn/61676.html)
 - [最新互联网大厂职级与薪资地图](https://weixin.qdkfweb.cn/61677.html)
 - [阿里男友上岸省厅Gwy后，我被“斩”了](https://weixin.qdkfweb.cn/61687.html)
+- [最近看到太多 cursor 带来的焦虑，有些话想说](https://weixin.qdkfweb.cn/61702.html)
 - [OpenAI最大秘密，竟被中国研究者破解？复旦等惊人揭秘o1路线图](https://weixin.qdkfweb.cn/61700.html)
-- [华为面向全球悬赏300万求解难题。网友：这两道题给三个亿都不过分。](https://weixin.qdkfweb.cn/61701.html)
 <!-- BLOG-POST-LIST:END -->
