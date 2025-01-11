@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [34.8k star！一款优雅的代码美化神器，程序员的美妆师！](https://weixin.qdkfweb.cn/61889.html)
-- [程序员的八重境界：从搬砖到封神，你走到了哪一步？](https://weixin.qdkfweb.cn/61890.html)
-- [开源日报|微软计划裁员；WePhone创始人自杀事件迎来新进展；纠正大模型幻觉的工具框架；AI辅助编程的真相；中国芯片的2025](https://weixin.qdkfweb.cn/61894.html)
-- [视频号太牛逼了](https://weixin.qdkfweb.cn/61868.html)
-- [这是蔚来的年终奖？看着很心碎。。](https://weixin.qdkfweb.cn/61862.html)
+- [如何管理较长的移动表单](https://weixin.qdkfweb.cn/61908.html)
+- [国内的 Linux 就两个主流桌面环境!](https://weixin.qdkfweb.cn/61933.html)
+- [我的梦中情司，携程今年的校招薪资！](https://weixin.qdkfweb.cn/61934.html)
+- [几个必会的JDK性能监控和故障处理工具](https://weixin.qdkfweb.cn/61935.html)
+- [必应“穿上”Google搜索的衣服，谷歌高管公开炮轰：微软太Low了！](https://weixin.qdkfweb.cn/61938.html)
 <!-- BLOG-POST-LIST:END -->
