@@ -15,9 +15,15 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [如何管理较长的移动表单](https://weixin.qdkfweb.cn/61908.html)
-- [国内的 Linux 就两个主流桌面环境!](https://weixin.qdkfweb.cn/61933.html)
-- [我的梦中情司，携程今年的校招薪资！](https://weixin.qdkfweb.cn/61934.html)
-- [几个必会的JDK性能监控和故障处理工具](https://weixin.qdkfweb.cn/61935.html)
-- [必应“穿上”Google搜索的衣服，谷歌高管公开炮轰：微软太Low了！](https://weixin.qdkfweb.cn/61938.html)
+- [347k+ star！这是我见过的最给力的宝藏项目，全网最全！](https://weixin.qdkfweb.cn/61975.html)
+- [服！Docker网络管理的10个实用小技巧！](https://weixin.qdkfweb.cn/61976.html)
+- [40岁，华为工作11年，创业5年，最好的时候年入300多万。如今成了单身妈妈，被“Z男”骗](https://weixin.qdkfweb.cn/61960.html)
+- [1.懂得向上链接的真谛
+
+你能被贵人“利用”，才有真正的向上链接，先给予，再收获才是社会运行的真相。
+
+2.懂得同理心的重要
+
+一直以来我要么小团队创业、要么大厂带百人团队，管理这个事情自诩高手，其实](https://weixin.qdkfweb.cn/61955.html)
+- [为什么程序员都喜欢晚上敲代码？](https://weixin.qdkfweb.cn/61972.html)
 <!-- BLOG-POST-LIST:END -->
