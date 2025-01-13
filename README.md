@@ -15,15 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [347k+ star！这是我见过的最给力的宝藏项目，全网最全！](https://weixin.qdkfweb.cn/61975.html)
-- [服！Docker网络管理的10个实用小技巧！](https://weixin.qdkfweb.cn/61976.html)
-- [40岁，华为工作11年，创业5年，最好的时候年入300多万。如今成了单身妈妈，被“Z男”骗](https://weixin.qdkfweb.cn/61960.html)
-- [1.懂得向上链接的真谛
-
-你能被贵人“利用”，才有真正的向上链接，先给予，再收获才是社会运行的真相。
-
-2.懂得同理心的重要
-
-一直以来我要么小团队创业、要么大厂带百人团队，管理这个事情自诩高手，其实](https://weixin.qdkfweb.cn/61955.html)
-- [为什么程序员都喜欢晚上敲代码？](https://weixin.qdkfweb.cn/61972.html)
+- [叹惜！年仅40岁，985教授离世一年后，成果登上Nature！](https://weixin.qdkfweb.cn/62016.html)
+- [82.75 mAP！南开大学提出Strip R-CNN：遥感目标检测全新SOTA！](https://weixin.qdkfweb.cn/62017.html)
+- [英伟达算法岗一面，太难了！](https://weixin.qdkfweb.cn/62020.html)
+- [本周推荐的5个火火火的Github开源项目！](https://weixin.qdkfweb.cn/62025.html)
+- [36岁，”阿里“资深P7，年薪资连续3年没有破百了。2024年收入878314.01元](https://weixin.qdkfweb.cn/62006.html)
 <!-- BLOG-POST-LIST:END -->
