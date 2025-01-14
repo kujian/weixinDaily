@@ -19,5 +19,5 @@
 - [马化腾2024年年会讲话：对中国经济充满信心](https://weixin.qdkfweb.cn/62070.html)
 - [2025 React 状态管理终极指南！](https://weixin.qdkfweb.cn/62039.html)
 - [第一波被AI抢活的受害者出现了...](https://weixin.qdkfweb.cn/62060.html)
-- [2024年系统编程语言调查报告：Rust稳居榜首、Zig紧随其后](https://weixin.qdkfweb.cn/62081.html)
+- [现在背调手段越来越高明了。](https://weixin.qdkfweb.cn/62082.html)
 <!-- BLOG-POST-LIST:END -->
