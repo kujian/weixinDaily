@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [叹惜！年仅40岁，985教授离世一年后，成果登上Nature！](https://weixin.qdkfweb.cn/62016.html)
-- [82.75 mAP！南开大学提出Strip R-CNN：遥感目标检测全新SOTA！](https://weixin.qdkfweb.cn/62017.html)
-- [英伟达算法岗一面，太难了！](https://weixin.qdkfweb.cn/62020.html)
-- [本周推荐的5个火火火的Github开源项目！](https://weixin.qdkfweb.cn/62025.html)
-- [36岁，”阿里“资深P7，年薪资连续3年没有破百了。2024年收入878314.01元](https://weixin.qdkfweb.cn/62006.html)
+- [腾讯2025年新年寄语：重回700，庆余年不要再等4年！](https://weixin.qdkfweb.cn/62069.html)
+- [马化腾2024年年会讲话：对中国经济充满信心](https://weixin.qdkfweb.cn/62070.html)
+- [2025 React 状态管理终极指南！](https://weixin.qdkfweb.cn/62039.html)
+- [第一波被AI抢活的受害者出现了...](https://weixin.qdkfweb.cn/62060.html)
+- [2024年系统编程语言调查报告：Rust稳居榜首、Zig紧随其后](https://weixin.qdkfweb.cn/62081.html)
 <!-- BLOG-POST-LIST:END -->
