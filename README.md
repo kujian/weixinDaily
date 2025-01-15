@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [腾讯2025年新年寄语：重回700，庆余年不要再等4年！](https://weixin.qdkfweb.cn/62069.html)
-- [马化腾2024年年会讲话：对中国经济充满信心](https://weixin.qdkfweb.cn/62070.html)
-- [2025 React 状态管理终极指南！](https://weixin.qdkfweb.cn/62039.html)
-- [第一波被AI抢活的受害者出现了...](https://weixin.qdkfweb.cn/62060.html)
-- [现在背调手段越来越高明了。](https://weixin.qdkfweb.cn/62082.html)
+- [24.1K star！“腾讯、钉钉、飞书” 会议开源平替，免费功能强大！](https://weixin.qdkfweb.cn/62145.html)
+- [Roo Cline 自带架构师模式了！](https://weixin.qdkfweb.cn/62102.html)
+- [pnpm 的崛起：如何降维打击 npm 和 yarn](https://weixin.qdkfweb.cn/62092.html)
+- [开心麻花跨界整顿职场？原来背后是“有资本”](https://weixin.qdkfweb.cn/62135.html)
+- [字节员工：春节同学聚会。我，3-1，年薪百万；另一个老家省厅副处。能平起平坐么？](https://weixin.qdkfweb.cn/62130.html)
 <!-- BLOG-POST-LIST:END -->
