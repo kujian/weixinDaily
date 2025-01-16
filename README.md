@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [24.1K star！“腾讯、钉钉、飞书” 会议开源平替，免费功能强大！](https://weixin.qdkfweb.cn/62145.html)
-- [Roo Cline 自带架构师模式了！](https://weixin.qdkfweb.cn/62102.html)
-- [pnpm 的崛起：如何降维打击 npm 和 yarn](https://weixin.qdkfweb.cn/62092.html)
-- [开心麻花跨界整顿职场？原来背后是“有资本”](https://weixin.qdkfweb.cn/62135.html)
-- [字节员工：春节同学聚会。我，3-1，年薪百万；另一个老家省厅副处。能平起平坐么？](https://weixin.qdkfweb.cn/62130.html)
+- [领导突然提拔我当主管，月薪涨到3w,让我别声张！结果1个月后他就离职了，新领导说：从来没有人给我汇报过这件事，得重新评估！](https://weixin.qdkfweb.cn/62173.html)
+- [大厂某新员工大量使用Lambda表达式，被老员工喷是屎山](https://weixin.qdkfweb.cn/62192.html)
+- [78.4K star！大气炫酷UI开源项目，超级火！](https://weixin.qdkfweb.cn/62191.html)
+- [重新认识前端打包工具的设计哲学](https://weixin.qdkfweb.cn/62162.html)
+- [项目终于用上了 xxl-job！](https://weixin.qdkfweb.cn/62179.html)
 <!-- BLOG-POST-LIST:END -->
