@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [AAAI 2025 Fellow公布！杨明玄计算机视觉专家等人入选！](https://weixin.qdkfweb.cn/62308.html)
-- [重磅！阶跃星辰多模态团队提出“慢感知”：视觉system2的初步探索](https://weixin.qdkfweb.cn/62309.html)
-- [最新通告！宋尔卫院士离职！](https://weixin.qdkfweb.cn/62307.html)
-- [23.8K star！终端领域的新玩家，速度超快，支持原生 UI 体验！](https://weixin.qdkfweb.cn/62316.html)
-- [又又涨薪了](https://weixin.qdkfweb.cn/62297.html)
+- [如何保证mongodb和数据库双写数据一致性？](https://weixin.qdkfweb.cn/62306.html)
+- [为什么王者荣耀不使用微服务架构？](https://weixin.qdkfweb.cn/62304.html)
+- [Guava的这些骚操作，让我的代码量减少了50%](https://weixin.qdkfweb.cn/62305.html)
+- [分享一些 Vue 实用且常用的开发工具库](https://weixin.qdkfweb.cn/62286.html)
+- [奔3了，挣多少才正常？](https://weixin.qdkfweb.cn/62328.html)
 <!-- BLOG-POST-LIST:END -->
