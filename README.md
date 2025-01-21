@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [为什么王者荣耀不使用微服务架构？](https://weixin.qdkfweb.cn/62304.html)
-- [Guava的这些骚操作，让我的代码量减少了50%](https://weixin.qdkfweb.cn/62305.html)
-- [如何保证mongodb和数据库双写数据一致性？](https://weixin.qdkfweb.cn/62306.html)
-- [分享一些 Vue 实用且常用的开发工具库](https://weixin.qdkfweb.cn/62286.html)
-- [奔3了，挣多少才正常？](https://weixin.qdkfweb.cn/62328.html)
+- [4.7K star！像拿快递一样传送文件，这么酷！](https://weixin.qdkfweb.cn/62450.html)
+- [这款项目让短信发送变得更简单，牛逼！](https://weixin.qdkfweb.cn/62451.html)
+- [大换血！荣耀中国区销售部部长郑树宝也离职了](https://weixin.qdkfweb.cn/62418.html)
+- [荣耀中国区CMO姜海荣将离职](https://weixin.qdkfweb.cn/62419.html)
+- [ONES 2024 年度回顾：向下扎根，向上生长](https://weixin.qdkfweb.cn/62392.html)
 <!-- BLOG-POST-LIST:END -->
