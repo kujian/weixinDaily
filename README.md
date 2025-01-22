@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [4.7K star！像拿快递一样传送文件，这么酷！](https://weixin.qdkfweb.cn/62450.html)
-- [这款项目让短信发送变得更简单，牛逼！](https://weixin.qdkfweb.cn/62451.html)
-- [大换血！荣耀中国区销售部部长郑树宝也离职了](https://weixin.qdkfweb.cn/62418.html)
-- [荣耀中国区CMO姜海荣将离职](https://weixin.qdkfweb.cn/62419.html)
-- [ONES 2024 年度回顾：向下扎根，向上生长](https://weixin.qdkfweb.cn/62392.html)
+- [6.2K star！太美了，再也不用担心网站中文排版了！](https://weixin.qdkfweb.cn/62496.html)
+- [前端 + AI转型探索营 两个月总结](https://weixin.qdkfweb.cn/62476.html)
+- [一位年薪300万的游戏大厂程序员很可能要“陨落”了。未婚妻网上炫富被同事举报](https://weixin.qdkfweb.cn/62482.html)
+- [“WePhone创始人被前妻逼死”案件最新进展：检方建议量刑10年以上、翟欣欣认罪认罚、案件将择期宣判](https://weixin.qdkfweb.cn/62498.html)
+- [DeepSeek-R1发布，性能对标OpenAI o1正式版](https://weixin.qdkfweb.cn/62499.html)
 <!-- BLOG-POST-LIST:END -->
