@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [6.2K star！太美了，再也不用担心网站中文排版了！](https://weixin.qdkfweb.cn/62496.html)
-- [前端 + AI转型探索营 两个月总结](https://weixin.qdkfweb.cn/62476.html)
-- [一位年薪300万的游戏大厂程序员很可能要“陨落”了。未婚妻网上炫富被同事举报](https://weixin.qdkfweb.cn/62482.html)
-- [“WePhone创始人被前妻逼死”案件最新进展：检方建议量刑10年以上、翟欣欣认罪认罚、案件将择期宣判](https://weixin.qdkfweb.cn/62498.html)
-- [DeepSeek-R1发布，性能对标OpenAI o1正式版](https://weixin.qdkfweb.cn/62499.html)
+- [Vue3真的不需要用pinia！！！](https://weixin.qdkfweb.cn/62515.html)
+- [抖音新建一座中外合资医院，外籍医生占比不低于20%](https://weixin.qdkfweb.cn/62542.html)
+- [B站程序员利用权限恶意植入XSS攻击脚本，“封杀”用户账号泄私愤；公司回应：涉事员工已被开除](https://weixin.qdkfweb.cn/62550.html)
+- [页面出 bug，短时间内快速定位到关键代码的神器！](https://weixin.qdkfweb.cn/62535.html)
+- [华为今年分红，人均几十万？](https://weixin.qdkfweb.cn/62540.html)
 <!-- BLOG-POST-LIST:END -->
