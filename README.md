@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [Vue3真的不需要用pinia！！！](https://weixin.qdkfweb.cn/62515.html)
-- [抖音新建一座中外合资医院，外籍医生占比不低于20%](https://weixin.qdkfweb.cn/62542.html)
-- [B站程序员利用权限恶意植入XSS攻击脚本，“封杀”用户账号泄私愤；公司回应：涉事员工已被开除](https://weixin.qdkfweb.cn/62550.html)
-- [页面出 bug，短时间内快速定位到关键代码的神器！](https://weixin.qdkfweb.cn/62535.html)
-- [华为今年分红，人均几十万？](https://weixin.qdkfweb.cn/62540.html)
+- [47.7K star！厉害，这应该是24年最火的前端测试工具吧！](https://weixin.qdkfweb.cn/62612.html)
+- [某大厂3-1：年入税前约157万，缴税约34万。房贷每月4万，不敢大手花钱，真怕哪天被裁](https://weixin.qdkfweb.cn/62581.html)
+- [招募程序员合伙人](https://weixin.qdkfweb.cn/62572.html)
+- [全面进击的JavaScript运行时：Bun 1.2重磅发布，剑指Node.js生态](https://weixin.qdkfweb.cn/62614.html)
+- [案件与争议：2024年开源大事记](https://weixin.qdkfweb.cn/62615.html)
 <!-- BLOG-POST-LIST:END -->
