@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [47.7K star！厉害，这应该是24年最火的前端测试工具吧！](https://weixin.qdkfweb.cn/62612.html)
-- [某大厂3-1：年入税前约157万，缴税约34万。房贷每月4万，不敢大手花钱，真怕哪天被裁](https://weixin.qdkfweb.cn/62581.html)
-- [招募程序员合伙人](https://weixin.qdkfweb.cn/62572.html)
-- [全面进击的JavaScript运行时：Bun 1.2重磅发布，剑指Node.js生态](https://weixin.qdkfweb.cn/62614.html)
-- [案件与争议：2024年开源大事记](https://weixin.qdkfweb.cn/62615.html)
+- [全球最火开源CSS框架——Tailwind CSS 4.0正式发布](https://weixin.qdkfweb.cn/62646.html)
+- [加速技术开发！第110期北京源创会精彩回顾](https://weixin.qdkfweb.cn/62647.html)
+- [节前，再次暴跌！](https://weixin.qdkfweb.cn/62635.html)
+- [如果 2025 年我在摆烂，那我应该过得很开心](https://weixin.qdkfweb.cn/62621.html)
+- [某大厂员工：曾经“霸凌”我的前司+1领导猝死了。今年35岁](https://weixin.qdkfweb.cn/62633.html)
 <!-- BLOG-POST-LIST:END -->
