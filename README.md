@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [全球最火开源CSS框架——Tailwind CSS 4.0正式发布](https://weixin.qdkfweb.cn/62646.html)
-- [加速技术开发！第110期北京源创会精彩回顾](https://weixin.qdkfweb.cn/62647.html)
-- [节前，再次暴跌！](https://weixin.qdkfweb.cn/62635.html)
-- [如果 2025 年我在摆烂，那我应该过得很开心](https://weixin.qdkfweb.cn/62621.html)
-- [某大厂员工：曾经“霸凌”我的前司+1领导猝死了。今年35岁](https://weixin.qdkfweb.cn/62633.html)
+- [突发！电子科技大学被军方通报处罚](https://weixin.qdkfweb.cn/62675.html)
+- [刚刚！2024 ACM Fellow公布！田奇、周靖人等多位华人入选](https://weixin.qdkfweb.cn/62676.html)
+- [ICLR 2025 | Ross：多模态大模型的 MAE 时刻？](https://weixin.qdkfweb.cn/62677.html)
+- [贾佳亚团队联合Adobe提出GenProp：PS神器！物体追踪移除特效样样在行](https://weixin.qdkfweb.cn/62678.html)
+- [数据库即架构](https://weixin.qdkfweb.cn/62684.html)
 <!-- BLOG-POST-LIST:END -->
