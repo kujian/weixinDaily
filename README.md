@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [突发！电子科技大学被军方通报处罚](https://weixin.qdkfweb.cn/62675.html)
-- [刚刚！2024 ACM Fellow公布！田奇、周靖人等多位华人入选](https://weixin.qdkfweb.cn/62676.html)
-- [ICLR 2025 | Ross：多模态大模型的 MAE 时刻？](https://weixin.qdkfweb.cn/62677.html)
-- [贾佳亚团队联合Adobe提出GenProp：PS神器！物体追踪移除特效样样在行](https://weixin.qdkfweb.cn/62678.html)
-- [数据库即架构](https://weixin.qdkfweb.cn/62684.html)
+- [360辟谣：网传哺乳期员工被裁，内容失实](https://weixin.qdkfweb.cn/62696.html)
+- [“论文作假”！211大学：决定撤销学位](https://weixin.qdkfweb.cn/62708.html)
+- [全球掀DeepSeek复现狂潮！硅谷巨头神话崩塌，LeCun直言：这是开源对闭源的胜利！](https://weixin.qdkfweb.cn/62709.html)
+- [英伟达RTX 5090评测解禁，天赋都点在 AI 上了。。。](https://weixin.qdkfweb.cn/62710.html)
+- [从拼多多跳槽到上海某国企，年终奖2926.1元](https://weixin.qdkfweb.cn/62695.html)
 <!-- BLOG-POST-LIST:END -->
