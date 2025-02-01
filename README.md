@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [国外大神1:1真实复刻Win11系统，真牛！](https://weixin.qdkfweb.cn/62806.html)
-- [外包能拿30k以上的，为什么还做外包呢？](https://weixin.qdkfweb.cn/62807.html)
-- [日常开发，spring的15个开发小技巧](https://weixin.qdkfweb.cn/62808.html)
-- [Next.js 高级缓存策略分析](https://weixin.qdkfweb.cn/62798.html)
-- [Deepseek核心成员学历一览表](https://weixin.qdkfweb.cn/62801.html)
+- [同事得罪了经理，年终奖从5万降到了3.5万，他拿了钱就提了离职，结果领导看到了说：先别着急离职，我又给你补了2w，别给其他人说！](https://weixin.qdkfweb.cn/62820.html)
+- [三位全球顶尖专家解码DeepSeek崛起与开源革命](https://weixin.qdkfweb.cn/62840.html)
+- [67.1K star！一款开源文件同步神器，全平台支持，真香！](https://weixin.qdkfweb.cn/62839.html)
+- [CPU「离奇」飙到 100%！开发者挖出 Linux 内核 16 年老 Bug：这么多年竟无人发现？](https://weixin.qdkfweb.cn/62836.html)
+- [干掉visio，这个画图神器真的绝了！！！](https://weixin.qdkfweb.cn/62837.html)
 <!-- BLOG-POST-LIST:END -->
