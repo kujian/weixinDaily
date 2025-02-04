@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [财政部官宣：国家奖学金，涨了！](https://weixin.qdkfweb.cn/62861.html)
-- [奥特曼：在开源AI上，我们错了！DeepSeek让OpenAI优势不再，下一个是GPT-5](https://weixin.qdkfweb.cn/62862.html)
-- [ICLR 2025 | 极性感知线性注意力！PolaFormer：全新视觉基础模型](https://weixin.qdkfweb.cn/62863.html)
-- [萨姆·奥特曼：OpenAI在开源问题上一直处于“历史错误的一边”](https://weixin.qdkfweb.cn/62871.html)
-- [21.4K star！像人类一样操控网页，这款开源自动化项目牛逼！](https://weixin.qdkfweb.cn/62869.html)
+- [《7天精通DeepSeek实操手册》](https://weixin.qdkfweb.cn/62911.html)
+- [5.2K star！一键打造高效率win系统桌面，太炫酷了！](https://weixin.qdkfweb.cn/62910.html)
+- [字节员工：表哥家的农村媳妇在家做“皇太后”，我的大厂媳妇做“牛马”，为什么？](https://weixin.qdkfweb.cn/62905.html)
+- [当我问DeepSeek，程序员如何打破35岁魔咒](https://weixin.qdkfweb.cn/62895.html)
+- [首版Git源码初探——Linux之父在malloc之后也忘了free啦？](https://weixin.qdkfweb.cn/62907.html)
 <!-- BLOG-POST-LIST:END -->
