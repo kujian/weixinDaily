@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [《7天精通DeepSeek实操手册》](https://weixin.qdkfweb.cn/62911.html)
-- [5.2K star！一键打造高效率win系统桌面，太炫酷了！](https://weixin.qdkfweb.cn/62910.html)
-- [字节员工：表哥家的农村媳妇在家做“皇太后”，我的大厂媳妇做“牛马”，为什么？](https://weixin.qdkfweb.cn/62905.html)
-- [当我问DeepSeek，程序员如何打破35岁魔咒](https://weixin.qdkfweb.cn/62895.html)
-- [首版Git源码初探——Linux之父在malloc之后也忘了free啦？](https://weixin.qdkfweb.cn/62907.html)
+- [DeepSeek最新中国大学排名](https://weixin.qdkfweb.cn/62942.html)
+- [突发！华为+DeepSeek来了](https://weixin.qdkfweb.cn/62943.html)
+- [Adobe新作MotionBridge：多重可控插帧的视频生成和编辑框架](https://weixin.qdkfweb.cn/62944.html)
+- [异常检测和缺陷检测微信群成立！](https://weixin.qdkfweb.cn/62946.html)
+- [DeepSeek的处境极其危险！](https://weixin.qdkfweb.cn/62959.html)
 <!-- BLOG-POST-LIST:END -->
