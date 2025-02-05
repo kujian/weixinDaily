@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [DeepSeek最新中国大学排名](https://weixin.qdkfweb.cn/62942.html)
 - [突发！华为+DeepSeek来了](https://weixin.qdkfweb.cn/62943.html)
 - [Adobe新作MotionBridge：多重可控插帧的视频生成和编辑框架](https://weixin.qdkfweb.cn/62944.html)
 - [异常检测和缺陷检测微信群成立！](https://weixin.qdkfweb.cn/62946.html)
+- [DeepSeek最新中国大学排名](https://weixin.qdkfweb.cn/62942.html)
 - [DeepSeek的处境极其危险！](https://weixin.qdkfweb.cn/62959.html)
 <!-- BLOG-POST-LIST:END -->
