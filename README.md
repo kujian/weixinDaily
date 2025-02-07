@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [90%的人不知道的deepseek隐藏赚钱方法](https://weixin.qdkfweb.cn/62984.html)
-- [2025 年，这些技术别再学了！](https://weixin.qdkfweb.cn/62981.html)
-- [开店第 12 天，竟然上榜了？！](https://weixin.qdkfweb.cn/62982.html)
-- [这个假期，跌爆了。。](https://weixin.qdkfweb.cn/62983.html)
-- [国家队下场，让 DeepSeek 全民可用](https://weixin.qdkfweb.cn/62970.html)
+- [2.6｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/63056.html)
+- [前端视角下的JSBridge](https://weixin.qdkfweb.cn/63031.html)
+- [京东员工：上班第一天，听闻跟大S同龄的领导提出了离职](https://weixin.qdkfweb.cn/63052.html)
+- [10年了，开发人员仍然不明白 Electron 的意义](https://weixin.qdkfweb.cn/63018.html)
+- [微信听劝，这个扰人功能可以关了](https://weixin.qdkfweb.cn/63070.html)
 <!-- BLOG-POST-LIST:END -->
