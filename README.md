@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [2.6｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/63056.html)
-- [前端视角下的JSBridge](https://weixin.qdkfweb.cn/63031.html)
-- [京东员工：上班第一天，听闻跟大S同龄的领导提出了离职](https://weixin.qdkfweb.cn/63052.html)
-- [10年了，开发人员仍然不明白 Electron 的意义](https://weixin.qdkfweb.cn/63018.html)
-- [微信听劝，这个扰人功能可以关了](https://weixin.qdkfweb.cn/63070.html)
+- [两分钟本地部署DeepSeek最新方案](https://weixin.qdkfweb.cn/63080.html)
+- [14.8K star！开源简洁的Docker图形化管理、监控神器，效率大提升！](https://weixin.qdkfweb.cn/63137.html)
+- [deepseek的影响，极其深远](https://weixin.qdkfweb.cn/63112.html)
+- [字节“绩效盲盒”下月将开奖，你360咋样了呢？](https://weixin.qdkfweb.cn/63119.html)
+- [DeepSeek 使用技巧，强烈建议收藏！普通人逆袭就靠它了！](https://weixin.qdkfweb.cn/63090.html)
 <!-- BLOG-POST-LIST:END -->
