@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [两分钟本地部署DeepSeek最新方案](https://weixin.qdkfweb.cn/63080.html)
-- [14.8K star！开源简洁的Docker图形化管理、监控神器，效率大提升！](https://weixin.qdkfweb.cn/63137.html)
-- [deepseek的影响，极其深远](https://weixin.qdkfweb.cn/63112.html)
-- [字节“绩效盲盒”下月将开奖，你360咋样了呢？](https://weixin.qdkfweb.cn/63119.html)
-- [DeepSeek 使用技巧，强烈建议收藏！普通人逆袭就靠它了！](https://weixin.qdkfweb.cn/63090.html)
+- [DeepSeek服务器繁忙的真相大揭秘，程序员必看](https://weixin.qdkfweb.cn/63151.html)
+- [车企回扣比例有多高？原东风标致代理总经理受贿382万被抓](https://weixin.qdkfweb.cn/63159.html)
+- [React+AI 技术栈（2025 版）](https://weixin.qdkfweb.cn/63141.html)
+- [为了年薪百万的鹅厂老公，我放弃乡镇副镇长的职务选择辞职](https://weixin.qdkfweb.cn/63157.html)
+- [本地部署 DeepSeek 硬件配置清单，看到满血版价格想想还是算了～～～](https://weixin.qdkfweb.cn/63169.html)
 <!-- BLOG-POST-LIST:END -->
