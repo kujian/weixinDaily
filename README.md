@@ -15,9 +15,11 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [DeepSeek服务器繁忙的真相大揭秘，程序员必看](https://weixin.qdkfweb.cn/63151.html)
-- [车企回扣比例有多高？原东风标致代理总经理受贿382万被抓](https://weixin.qdkfweb.cn/63159.html)
-- [React+AI 技术栈（2025 版）](https://weixin.qdkfweb.cn/63141.html)
-- [为了年薪百万的鹅厂老公，我放弃乡镇副镇长的职务选择辞职](https://weixin.qdkfweb.cn/63157.html)
-- [本地部署 DeepSeek 硬件配置清单，看到满血版价格想想还是算了～～～](https://weixin.qdkfweb.cn/63169.html)
+- [DeepSeek把算力价格打下来了！](https://weixin.qdkfweb.cn/63215.html)
+- [超越CoT！微软剑桥中科院提出MVoT：可视化多模态推理过程](https://weixin.qdkfweb.cn/63216.html)
+- [英伟达新作SANA 1.5：线性扩散Transformer刷新文生图SOTA](https://weixin.qdkfweb.cn/63217.html)
+- [最近破局行动家跑出来近60人了，累计涨粉破100万，产生两个破10万场观的直播间，产生2个预约破万的直播，公众号涨粉破万的10多人，视频号涨粉破万的10多人。
+
+不可否认，这里面有AI风口的功劳，但更](https://weixin.qdkfweb.cn/63198.html)
+- [2.9｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/63205.html)
 <!-- BLOG-POST-LIST:END -->
