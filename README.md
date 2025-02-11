@@ -15,11 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [DeepSeek把算力价格打下来了！](https://weixin.qdkfweb.cn/63215.html)
-- [超越CoT！微软剑桥中科院提出MVoT：可视化多模态推理过程](https://weixin.qdkfweb.cn/63216.html)
-- [英伟达新作SANA 1.5：线性扩散Transformer刷新文生图SOTA](https://weixin.qdkfweb.cn/63217.html)
-- [最近破局行动家跑出来近60人了，累计涨粉破100万，产生两个破10万场观的直播间，产生2个预约破万的直播，公众号涨粉破万的10多人，视频号涨粉破万的10多人。
-
-不可否认，这里面有AI风口的功劳，但更](https://weixin.qdkfweb.cn/63198.html)
-- [2.9｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/63205.html)
+- [2.10｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/63270.html)
+- [如何拥有一个无限制、可联网、带本地知识库的私人 DeepSeek？](https://weixin.qdkfweb.cn/63248.html)
+- [DeepSeek 被封杀了？！](https://weixin.qdkfweb.cn/63263.html)
+- [血泪教训！大厂（夫阿里、妻字节）家庭踩雷3大坑，双双被裁后生活断崖下跌，房贷岌岌可危](https://weixin.qdkfweb.cn/63267.html)
+- [页面跳转如何优雅携带大数据Array或Object](https://weixin.qdkfweb.cn/63254.html)
 <!-- BLOG-POST-LIST:END -->
