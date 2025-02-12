@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [2.10｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/63270.html)
-- [如何拥有一个无限制、可联网、带本地知识库的私人 DeepSeek？](https://weixin.qdkfweb.cn/63248.html)
-- [DeepSeek 被封杀了？！](https://weixin.qdkfweb.cn/63263.html)
-- [血泪教训！大厂（夫阿里、妻字节）家庭踩雷3大坑，双双被裁后生活断崖下跌，房贷岌岌可危](https://weixin.qdkfweb.cn/63267.html)
-- [页面跳转如何优雅携带大数据Array或Object](https://weixin.qdkfweb.cn/63254.html)
+- [某程序员：年终奖14万，对老婆虚报成6万，会引发信任危机吗？](https://weixin.qdkfweb.cn/63340.html)
+- [国行苹果AI敲定与阿里巴巴合作](https://weixin.qdkfweb.cn/63345.html)
+- [73.2K star！一款超炫酷、功能强大的实时可视化监控神器，效率飙升！](https://weixin.qdkfweb.cn/63342.html)
+- [deepseek4j已开源——完美解决DeepSeek R1集成难题](https://weixin.qdkfweb.cn/63346.html)
+- [一个时代彻底剧变了....](https://weixin.qdkfweb.cn/63322.html)
 <!-- BLOG-POST-LIST:END -->
