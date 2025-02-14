@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [某程序员：年终奖14万，对老婆虚报成6万，会引发信任危机吗？](https://weixin.qdkfweb.cn/63340.html)
-- [国行苹果AI敲定与阿里巴巴合作](https://weixin.qdkfweb.cn/63345.html)
-- [73.2K star！一款超炫酷、功能强大的实时可视化监控神器，效率飙升！](https://weixin.qdkfweb.cn/63342.html)
-- [deepseek4j已开源——完美解决DeepSeek R1集成难题](https://weixin.qdkfweb.cn/63346.html)
-- [一个时代彻底剧变了....](https://weixin.qdkfweb.cn/63322.html)
+- [2.13｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/63458.html)
+- [67.8K star！一款号称替代Postman的开源项目，确实不错！](https://weixin.qdkfweb.cn/63479.html)
+- [前端简洁架构，你了解了吗？](https://weixin.qdkfweb.cn/63432.html)
+- [王者归来！35个爬虫实例.pdf](https://weixin.qdkfweb.cn/63427.html)
+- [拼多多员工：考Gwy，笔试面试都是第一，体检不合格](https://weixin.qdkfweb.cn/63454.html)
 <!-- BLOG-POST-LIST:END -->
