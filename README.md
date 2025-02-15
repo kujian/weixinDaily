@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [2.13｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/63458.html)
-- [67.8K star！一款号称替代Postman的开源项目，确实不错！](https://weixin.qdkfweb.cn/63479.html)
-- [前端简洁架构，你了解了吗？](https://weixin.qdkfweb.cn/63432.html)
-- [王者归来！35个爬虫实例.pdf](https://weixin.qdkfweb.cn/63427.html)
-- [拼多多员工：考Gwy，笔试面试都是第一，体检不合格](https://weixin.qdkfweb.cn/63454.html)
+- [字节跳动的“会”！](https://weixin.qdkfweb.cn/63519.html)
+- [6.2K star！轻量级可视化路由追踪神器，功能超强！](https://weixin.qdkfweb.cn/63533.html)
+- [这个点还进来看梗图，你们这辈子算是有了](https://weixin.qdkfweb.cn/63534.html)
+- [DeepSeek 官方最新提示：这样配置可以获得最佳体验！](https://weixin.qdkfweb.cn/63492.html)
+- [放弃部委Gwy选调，入职阿里？](https://weixin.qdkfweb.cn/63517.html)
 <!-- BLOG-POST-LIST:END -->
