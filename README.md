@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [字节跳动的“会”！](https://weixin.qdkfweb.cn/63519.html)
-- [6.2K star！轻量级可视化路由追踪神器，功能超强！](https://weixin.qdkfweb.cn/63533.html)
-- [这个点还进来看梗图，你们这辈子算是有了](https://weixin.qdkfweb.cn/63534.html)
-- [DeepSeek 官方最新提示：这样配置可以获得最佳体验！](https://weixin.qdkfweb.cn/63492.html)
-- [放弃部委Gwy选调，入职阿里？](https://weixin.qdkfweb.cn/63517.html)
+- [如何高效利用 AI 工具提升开发效率?](https://weixin.qdkfweb.cn/63554.html)
+- [「AI学习笔记」机器学习与深度学习的区别：从技术到产品的深度解析（四）](https://weixin.qdkfweb.cn/63555.html)
+- [7.3K star！超酷的AI即时通信机器人平台，支持DeepSeek 接入微信！](https://weixin.qdkfweb.cn/63578.html)
+- [同事能有多“坏”？车被偷偷剪了刹车线，已报警](https://weixin.qdkfweb.cn/63559.html)
+- [JavaScript 框架 - 迈向 2025 年](https://weixin.qdkfweb.cn/63547.html)
 <!-- BLOG-POST-LIST:END -->
