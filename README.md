@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [如何高效利用 AI 工具提升开发效率?](https://weixin.qdkfweb.cn/63554.html)
-- [「AI学习笔记」机器学习与深度学习的区别：从技术到产品的深度解析（四）](https://weixin.qdkfweb.cn/63555.html)
-- [7.3K star！超酷的AI即时通信机器人平台，支持DeepSeek 接入微信！](https://weixin.qdkfweb.cn/63578.html)
-- [同事能有多“坏”？车被偷偷剪了刹车线，已报警](https://weixin.qdkfweb.cn/63559.html)
-- [JavaScript 框架 - 迈向 2025 年](https://weixin.qdkfweb.cn/63547.html)
+- [7 个令人惊叹的 JavaScript 数组方法，简单的令人惊讶](https://weixin.qdkfweb.cn/63607.html)
+- [13 款帮助你提高工作效率的 AI 工具](https://weixin.qdkfweb.cn/63606.html)
+- [腾讯爆了](https://weixin.qdkfweb.cn/63611.html)
+- [本周推荐的6个火火火的Github开源项目！](https://weixin.qdkfweb.cn/63630.html)
+- [华为员工家属：37岁老公，被通知进了“输出”名单](https://weixin.qdkfweb.cn/63619.html)
 <!-- BLOG-POST-LIST:END -->
