@@ -15,14 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [2.17｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/63680.html)
-- [这是最近一阵在国外技术社区很受关注的一个热门博客。
-
-经过 12 年的编程生涯，我的编程水平竟然倒退了。这并不是夸张，而是当代软件开发者正在面临的新现实。
-
-1、逐渐的“退化”
-这种退化是悄悄发生的。](https://weixin.qdkfweb.cn/63704.html)
-- [拼多多员工一天管四顿饭？入职好怕“过劳肥”](https://weixin.qdkfweb.cn/63677.html)
-- [Deepseek为难录：太阳系中有多少颗恒星？](https://weixin.qdkfweb.cn/63658.html)
-- [发个福利！](https://weixin.qdkfweb.cn/63672.html)
+- [某程序员爆料：同事被解雇后秒删所有同事的微信，领导懵了：至于吗？](https://weixin.qdkfweb.cn/63780.html)
+- [刚刚，DeepSeek放出重磅论文！梁文锋亲自参与！](https://weixin.qdkfweb.cn/63747.html)
+- [我用 4 天时间开发了一款 AI 应用程序，希望给你一点点启发](https://weixin.qdkfweb.cn/63740.html)
+- [103人小公司。老板推荐空降入职的一位阿里P8高管，“灰溜溜”的离职了](https://weixin.qdkfweb.cn/63757.html)
+- [“AI成人玩偶”大有可为](https://weixin.qdkfweb.cn/63784.html)
 <!-- BLOG-POST-LIST:END -->
