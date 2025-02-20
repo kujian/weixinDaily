@@ -15,9 +15,11 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [某程序员爆料：同事被解雇后秒删所有同事的微信，领导懵了：至于吗？](https://weixin.qdkfweb.cn/63780.html)
-- [刚刚，DeepSeek放出重磅论文！梁文锋亲自参与！](https://weixin.qdkfweb.cn/63747.html)
-- [我用 4 天时间开发了一款 AI 应用程序，希望给你一点点启发](https://weixin.qdkfweb.cn/63740.html)
-- [103人小公司。老板推荐空降入职的一位阿里P8高管，“灰溜溜”的离职了](https://weixin.qdkfweb.cn/63757.html)
-- [“AI成人玩偶”大有可为](https://weixin.qdkfweb.cn/63784.html)
+- [2.19｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/63822.html)
+- [DeepSeek 在 Cursor 中的配置与应用实践](https://weixin.qdkfweb.cn/63794.html)
+- [X 上 1 万+点赞、近百万阅读的爆款帖子。
+
+1. 从模板开始：通过从 GitHub 或其他来源克隆模板来开始项目，以提供坚实的基础。（在 Cursor 中，从 Repo 开始，并粘贴此链接以构建预](https://weixin.qdkfweb.cn/63837.html)
+- [近期尽量不要随便网购！](https://weixin.qdkfweb.cn/63818.html)
+- [小米员工：产检时，收到字节老公被裁的消息](https://weixin.qdkfweb.cn/63819.html)
 <!-- BLOG-POST-LIST:END -->
