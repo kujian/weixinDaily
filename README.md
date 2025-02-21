@@ -15,11 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [2.19｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/63822.html)
-- [DeepSeek 在 Cursor 中的配置与应用实践](https://weixin.qdkfweb.cn/63794.html)
-- [X 上 1 万+点赞、近百万阅读的爆款帖子。
-
-1. 从模板开始：通过从 GitHub 或其他来源克隆模板来开始项目，以提供坚实的基础。（在 Cursor 中，从 Repo 开始，并粘贴此链接以构建预](https://weixin.qdkfweb.cn/63837.html)
-- [近期尽量不要随便网购！](https://weixin.qdkfweb.cn/63818.html)
-- [小米员工：产检时，收到字节老公被裁的消息](https://weixin.qdkfweb.cn/63819.html)
+- [女程序员被逼到厕所痛哭：职场996背后，谁在逼我们到绝路？](https://weixin.qdkfweb.cn/63911.html)
+- [2.20｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/63888.html)
+- [团队准备解散了。。。](https://weixin.qdkfweb.cn/63918.html)
+- [汽车之家被卖实锤来了！](https://weixin.qdkfweb.cn/63892.html)
+- [Grok 3 这样也能破圈？](https://weixin.qdkfweb.cn/63881.html)
 <!-- BLOG-POST-LIST:END -->
