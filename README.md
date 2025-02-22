@@ -15,9 +15,9 @@
 ## [最新微信推文](https://weixin.qdkfweb.cn/)
 
 <!-- BLOG-POST-LIST:START -->
-- [女程序员被逼到厕所痛哭：职场996背后，谁在逼我们到绝路？](https://weixin.qdkfweb.cn/63911.html)
-- [2.20｜今天，互联网的“瓜”都在这了！](https://weixin.qdkfweb.cn/63888.html)
-- [团队准备解散了。。。](https://weixin.qdkfweb.cn/63918.html)
-- [汽车之家被卖实锤来了！](https://weixin.qdkfweb.cn/63892.html)
-- [Grok 3 这样也能破圈？](https://weixin.qdkfweb.cn/63881.html)
+- [提醒！2024年度个人所得税汇算开始预约了](https://weixin.qdkfweb.cn/63934.html)
+- [27岁，阿里P7。老板和HR口中的“高潜”](https://weixin.qdkfweb.cn/63932.html)
+- [【周五必备】程序员如何快速入睡！](https://weixin.qdkfweb.cn/63925.html)
+- [不止deepseek，这家国内AI公司也在海外杀疯了](https://weixin.qdkfweb.cn/63933.html)
+- [DeepSeek，又杀疯了！](https://weixin.qdkfweb.cn/63937.html)
 <!-- BLOG-POST-LIST:END -->
